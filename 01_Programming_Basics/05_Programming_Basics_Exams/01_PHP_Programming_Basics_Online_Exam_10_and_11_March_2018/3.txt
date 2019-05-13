@@ -1,0 +1,46 @@
+<?php
+
+$gender = strtolower(readline());
+$age = readline();
+$work = readline();
+
+$ageverify = false;
+$workverify = false;
+
+if ($gender == "female") {
+    if ($age >= 61) { $ageverify = true; }
+    if ($work >= 35) { $workverify = true; }  
+} else if ($gender == "male") {
+    if ($age >= 64) { $ageverify = true; }
+    if ($work >= 38) { $workverify = true; }
+} 
+
+$ageDiffFemale = abs($age - 61);
+$ageDiffMale = abs($age - 64);
+
+$workDiffFemale = abs($work - 35);
+$workDiffMale = abs($work - 38);
+
+if ($gender == "female") {
+    if ($ageverify && $workverify) {
+        echo "Ready to retire at " . $age . " and " . $work . " years of experience!";
+    } else if ($ageverify == false && $workverify) {
+        echo "Worked enough, but not old enough. Years left to retirement: " . $ageDiffFemale . ".";
+    } else if ($ageverify && $workverify == false) {
+        echo "Old enough, but haven't worked enough. Work experience left to retirement: " . $workDiffFemale . ".";
+    } else if ($ageverify == false && $workverify == false) {
+        echo "Too early. Years left to retirement: " . $ageDiffFemale . ". Work experience left to retirement: " . $workDiffFemale . "." ;
+    }
+} else if ($gender == "male") {
+        if ($ageverify && $workverify) {
+        echo "Ready to retire at " . $age . " and " . $work . " years of experience!";
+    } else if ($ageverify == false && $workverify) {
+        echo "Worked enough, but not old enough. Years left to retirement: " . $ageDiffMale . ".";
+    } else if ($ageverify && $workverify == false) {
+        echo "Old enough, but haven't worked enough. Work experience left to retirement: " . $workDiffMale . ".";
+    } else if ($ageverify == false && $workverify == false) {
+        echo "Too early. Years left to retirement: " . $ageDiffMale . ". Work experience left to retirement: " . $workDiffMale . "." ;
+    }
+} else {
+    echo "Invalid input.\n";
+}

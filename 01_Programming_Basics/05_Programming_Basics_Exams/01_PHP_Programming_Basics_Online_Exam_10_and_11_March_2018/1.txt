@@ -1,0 +1,15 @@
+<?php
+
+$x = readline();
+$v = readline();
+$y = readline();
+
+$carSpeed = $y * 3.6;
+$carSpeed = $v + $carSpeed;
+
+$truckSpeed = ceil($x / $v);
+$carSpeed = ceil($x / $carSpeed);
+
+echo "The truck arrived after " . $truckSpeed . " hours";
+echo "\n";
+echo "The car arrived after " . $carSpeed . " hours";

@@ -1,0 +1,242 @@
+<h2>Sorting One-dimensional Arrays</h2>
+
+
+<h2>Sorting Two-dimensional Arrays</h2>
+
+A Two-dimensional Array is an array containing one or more arrays in itself.
+https://stackoverflow.com/questions/17364127/how-can-i-sort-arrays-and-data-in-php
+
+<div id="sorting_arrays_grid">
+	<div id="child_a1">Input</div>
+	<div id="child_b1">Output</div>
+
+	<div id="child_a2">
+	<pre>
+	$arr = array(
+	  array("Dark Souls"),
+	  array("Cyberpunk 2077"),
+	  array("Assasins Creed"),
+	  array("Battlefield V")
+	);
+	</pre>
+	</div>
+
+	<div id="child_b2">
+	<pre>
+	array(4) {
+	  [0]=>
+	  array(1) {
+		[0]=>
+		string(10) "Dark Souls"
+	  }
+	  [1]=>
+	  array(1) {
+		[0]=>
+		string(14) "Cyberpunk 2077"
+	  }
+	  [2]=>
+	  array(1) {
+		[0]=>
+		string(14) "Assasins Creed"
+	  }
+	  [3]=>
+	  array(1) {
+		[0]=>
+		string(13) "Battlefield V"
+	  }
+	}
+	</pre>
+	</div>
+	
+	<div id="child_row3">
+		<br>
+		<h3>Sorting 2D Array Alphabetically</h3>
+		<div>
+			<p>Functions we apply:</p>
+			<br>
+			<ul>
+				<li><p class="code"><a class="a_link" href="http://php.net/manual/en/function.usort.php" target="_blank">usort</a></p> - sort an array by values using a user-defined comparison function</li>
+				<li><p class="code">strcmp</p> - case-sensitive comparison between 2 strings</li>
+				<li><p class="code">strcasecmp</p> - case-insensitive comparison between 2 strings</li>
+			</ul>
+			<br>
+			<p>Sorting modes:</p>
+			<br>
+			<ul>
+				<li><p class="code">strcmp(array $a, array $b)</p> - sort elements (Order by value => ASC)</li>
+				<li><p class="code">strcmp(array $b, array $a)</p> - sort elements (Order by value => DESC)</li>
+			</ul>
+			<br>
+			<div><b>1.</b><p class="code">usort</p> uses an implementation of the <a class="a_blink" href="http://en.wikipedia.org/wiki/Quicksort" target="_blank">Quicksort</a> algorithm to sort the array, it calls your custom <p class="code">cmp</p> function as many times as it needs 
+			to fully sort the array. For each comparison it calls your callback with two elements and then decides if it needs to swap them or not.
+			</div>
+			<br>
+			<div><b>3. </b>Since we have given <p class="code_nowrap">usort</p> an Array of <p class="inline bold saddlebrown">Arrays</p>, the function will sort the <p class="inline bold saddlebrown">Arrays</p> themselfs and in order for this to happen, we need to specify in which <p class="inline bold red">key</p> it needs to look for the value of comparison, otherwise we will get the following error <p class="code_nowrap red">strcmp() expects parameter 1 to be string, array given.</p> Usually as said in the official PHP documentation documentation <p class="code_nowrap">usort</p> should always reference to the first index of the array, however in some situations this will not happen.</div>
+			<br>
+			<div><b>2.</b><p class="code">strcmp</p> will compare 2 strings and return the following:</div>
+			<div class="code_nowrap">
+				<div>0: if str1 and str2 are equal</div>
+				<div>-1 (&lt;0): if str1 is less than str2</div>
+				<div>1 (&gt;0): if str1 is greater than str2</div>
+			</div>
+			<br>
+			<br>
+			<div><b>4. </b>Finally the sort will happen according to the following logic</div>
+			<div>If <p class="code_nowrap">usort</p> receives 0 then $a is the same priority as $b, keeping the same in the array</div>
+			<div>If <p class="code_nowrap">usort</p> receives -1 then $a is higher priority than b $b, moving $b down in the array</div>
+			<div>If <p class="code_nowrap">usort</p> receives 1 then $b is higher priority than a $a, moving $b up in the array</div>
+		</div>
+		<br>		
+	</div>
+	
+	<div id="child_a4">
+	<pre>
+	$arr = array(
+	  array("Dark Souls"),
+	  array("Cyberpunk 2077"),
+	  array("Assasins Creed"),
+	  array("Battlefield V")
+	);
+	
+	usort($arr, function ($a, $b) {
+	  $a = $a<p class="inline bold red">[0]</p>;
+	  $b = $b[0];
+	  return strcmp($a, $b);
+	});
+	</pre>
+	</div>
+	
+	<div id="child_b4">
+	<pre>
+	array(4) {
+	  [0]=>
+	  <p class="inline bold saddlebrown">array(1)</p> {
+		<p class="inline bold red">[0]</p>=>
+		string(14) "Assasins Creed"
+	  }
+	  [1]=>
+	  <p class="inline bold saddlebrown">array(1)</p> {
+		[0]=>
+		string(13) "Battlefield V"
+	  }
+	  [2]=>
+	  <p class="inline bold saddlebrown">array(1)</p> {
+		[0]=>
+		string(14) "Cyberpunk 2077"
+	  }
+	  [3]=>
+	  <p class="inline bold saddlebrown">array(1)</p> {
+		[0]=>
+		string(10) "Dark Souls"
+	  }
+	}
+	</pre>
+	</div>
+
+	<div id="child_row5">
+		<br>
+		<h3>Sorting 2D Array by Multiple Fields</h3>
+		<br>
+		<div>If you want to sort primarily by foo, but if foo is equal for two elements sort by baz:</div>
+		<br>
+	</div>
+	<div id="child_a6">
+	<pre>
+	$arr = array(
+	  array(
+	    "Assasins Creed", 
+	    "Battlefield V"
+	  ),
+	  array(
+	    "Cyberpunk 2077", 
+	    "Resident Evil"
+	  ),
+	  array(
+	     "Assasins Creed", 
+	     "Dark Souls"
+	  ),
+	  array(
+	     "Cyberpunk 2077",
+	     "Tomb Raider"
+	  )
+	);
+
+	usort($arr, function ($a, $b) {
+	  if (strcmp($a[0], $b[0]) !== 0) {
+	    return strcmp($a[0], $b[0]);
+	  } else {
+	    return strcmp($a<p class="inline bold red">[1]</p>, $b<p class="inline bold red">[1]</p>);
+	  }
+	});
+	</pre>
+	</div>
+		
+	<div id="child_b6">
+	<pre>
+	array(4) {
+	  [0]=>
+	  array(2) {
+	    [0]=>
+	    string(14) "Assasins Creed"
+	    <p class="inline bold red">[1]</p>=>
+	    string(13) "Battlefield V"
+	  }
+	  [1]=>
+	  array(2) {
+	    [0]=>
+	    string(14) "Assasins Creed"
+	    <p class="inline bold red">[1]</p>=>
+	    string(10) "Dark Souls"
+	  }
+	  [2]=>
+	  array(2) {
+	    [0]=>
+	    string(14) "Cyberpunk 2077"
+	    [1]=>
+	    string(13) "Resident Evil"
+	  }
+	  [3]=>
+	  array(2) {
+	    [0]=>
+	    string(14) "Cyberpunk 2077"
+	    [1]=>
+	    string(11) "Tomb Raider"
+	  }
+	}
+	</pre>
+	</div>
+
+</div>
+
+<style>
+h3, p, ul { margin-block-start: 0px; margin-block-end: 0px; }
+a { color: #07C; text-decoration: none; cursor: pointer; }
+.a_link { text-decoration: underline; }
+.a_blink { font-weight: bold; text-decoration: underline; }
+.inline { display: inline-block; }
+.red { color: #ff0000; }
+.saddlebrown { color: #8b4513; }
+.bold { font-weight: bold; }
+.code {  white-space: pre-wrap; padding: 1px 5px; background-color: #eff0f1; display: inline-block; }
+.code_nowrap { padding: 1px 5px; background-color: #eff0f1; display: inline-block; }
+
+#sorting_arrays_grid {
+	display: grid;
+	grid-template-columns: 350px 350px;
+	grid-auto-rows: 20px 1fr auto 1fr auto 1fr;
+}
+#child_a1 { grid-column: 1; grid-row: 1; border: 1px solid #000000; text-align: center;}
+#child_a2 { grid-column: 1; grid-row: 2; background-color: #eff0f1; border-right: 1px solid #000000;}
+#child_a4 { grid-column: 1; grid-row: 4; background-color: #eff0f1; border-right: 1px solid #000000;}
+#child_a6 { grid-column: 1; grid-row: 6; background-color: #eff0f1; border-right: 1px solid #000000;}
+
+#child_b1 { grid-column: 2; grid-row: 1; border: 1px solid #000000; border-left: 0px solid; text-align: center;}
+#child_b2 { grid-column: 2; grid-row: 2; background-color: #eff0f1; }
+#child_b4 { grid-column: 2; grid-row: 4; background-color: #eff0f1; }
+#child_b6 { grid-column: 2; grid-row: 6; background-color: #eff0f1; }
+
+#child_row3 { grid-column-start: 1; grid-column-end: 3; grid-row: 3; }
+#child_row5 { grid-column-start: 1; grid-column-end: 3; grid-row: 5; }
+</style>
+
+

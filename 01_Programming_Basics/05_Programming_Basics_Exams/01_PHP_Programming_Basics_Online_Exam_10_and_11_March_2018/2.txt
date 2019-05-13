@@ -1,0 +1,14 @@
+<?php
+
+$people = readline();
+$power = readline();
+$illidanHealth = readline();
+
+$power = $people * $power;
+$points = abs($illidanHealth - $power);
+
+if ($power >= $illidanHealth) {
+    echo "Illidan has been slain! You defeated him with " . $points . " points.";
+} else {
+    echo "You are not prepared! You need " . $points . " more points.";
+}

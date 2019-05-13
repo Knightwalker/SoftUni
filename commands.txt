@@ -1,0 +1,3 @@
+php console doctrine:database:create
+php console doctrine:generate:entity
+php console doctrine:schema:update --force
