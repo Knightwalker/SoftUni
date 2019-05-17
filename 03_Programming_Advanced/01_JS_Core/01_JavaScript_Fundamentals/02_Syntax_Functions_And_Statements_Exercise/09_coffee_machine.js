@@ -68,15 +68,15 @@ let totalCoins = 0;
 
     priceDrink += priceMilk + priceSugar;
     if (inputCoins >= priceDrink) {
-      console.log(`You ordered ${drinkName}. Price: ${priceDrink.toFixed(2)}$ Change: ${(inputCoins - priceDrink).toFixed(2)}$`);
+      console.log(`You ordered ${drinkName}. Price: $${priceDrink.toFixed(2)} Change: $${(inputCoins - priceDrink).toFixed(2)}`);
       totalCoins += priceDrink;
     } else {
-      console.log(`Not enough money for ${drinkName}. Need ${(priceDrink - inputCoins).toFixed(2)}$ more.`);
+      console.log(`Not enough money for ${drinkName}. Need $${(priceDrink - inputCoins).toFixed(2)} more.`);
     }
 
   }
 
-  console.log("Income Report: " + totalCoins.toFixed(2) + "$");
+  console.log("Income Report: $" + totalCoins.toFixed(2));
 
 }
 
