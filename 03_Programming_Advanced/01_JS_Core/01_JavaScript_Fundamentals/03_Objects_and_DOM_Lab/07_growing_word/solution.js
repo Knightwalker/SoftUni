@@ -1,27 +1,29 @@
-function solve() {
-   document.querySelector('#exercise > div:nth-child(2) > button').addEventListener("click", growingWord);
-   let growingWordElement = document.querySelector('#exercise > p');
-   let fontSize = 0;
-   let color = "";
+function growingWord() {
 
-   function growingWord() {
-   	if (fontSize == 0) {
-   		fontSize = 2;
-   	} else {
-   		fontSize += 2;
-   	}
+   let p = document.querySelector("#exercise p");
+   let currPx = p.style.fontSize.slice(0,-2) * 2 || 2;
+ 
+   let blueDiv = document.getElementById('blueDiv');
+   let greenDiv = document.getElementById('greenDiv');
+   let redDiv = document.getElementById('redDiv');
+   let isBlue = blueDiv.getAttribute('active') === "true";
+   let isGreen = greenDiv.getAttribute('active') === "true";
+   let isRed = redDiv.getAttribute('active') === "true";
 
-   	if (growingWordElement.style.color == "") {
-   		color = "blue";
-   	} else if (growingWordElement.style.color == "blue") {
-   		color = "green";
-   	} else if (growingWordElement.style.color == "green") {
-   		color = "red";
-   	} else if (growingWordElement.style.color == "red") {
-   		color = "blue";
-   	}
-
-   	growingWordElement.style.fontSize = fontSize + "px";
-   	growingWordElement.style.color = color;
+   if(currPx === 2 || isBlue){
+      p.style.color = "blue";
+      blueDiv.setAttribute("active", false);
+      greenDiv.setAttribute("active", true);
+   } else if (isGreen) {
+      p.style.color = "green";
+      greenDiv.setAttribute('active', false);
+      redDiv.setAttribute('active', true);
+   } else if (isRed){
+      p.style.color = "red";
+      redDiv.setAttribute('active', false);
+      blueDiv.setAttribute("active",true);
    }
+
+   p.style.fontSize = `${currPx}px`;
+   
 }
