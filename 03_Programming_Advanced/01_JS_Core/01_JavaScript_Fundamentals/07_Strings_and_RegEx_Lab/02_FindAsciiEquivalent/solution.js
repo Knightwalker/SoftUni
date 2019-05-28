@@ -1,9 +1,9 @@
 function solve() {
 	let input = document.getElementById("text").value;
 	let result = document.getElementById("result");
-	document.querySelector("#exercise > form > input[type=button]").addEventListener("click", findAsciiEquivalent(input));
+	document.querySelector("#exercise > form > input[type=button]").addEventListener("click", FindAsciiEquivalent(input));
 
-	function findAsciiEquivalent(input) {
+	function FindAsciiEquivalent(input) {
 	  let split = input.split(" ").filter(a => a !== "");
 	  let output = "";
 
