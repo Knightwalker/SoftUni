@@ -1,3 +1,5 @@
 php console doctrine:database:create
 php console doctrine:generate:entity
 php console doctrine:schema:update --force
+
+https://www.youtube.com/watch?v=N-AlTemCnMc&t=24m55s 
