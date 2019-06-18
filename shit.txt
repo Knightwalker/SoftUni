@@ -1,0 +1,12 @@
+node_modules/mocha/bin/_mocha "./04_SumOfNumbers"
+
+
+
+"editor.fontSize": 16,
+"editor.tabSize": 2,
+"editor.wordWrap": "on",
+"workbench.startupEditor": "none",
+"terminal.integrated.fontSize": 16,
+"terminal.integrated.shell.windows": "D:\\10_Dev\\Git\\bin\\bash.exe",
+
+
