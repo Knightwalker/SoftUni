@@ -67,23 +67,35 @@ class Vacation {
     let res = "";
     res += `${this.organizer} will take ${vacation.numberOfChildren} children on trip to ${this.destination}`;
 
-    // this.kids.sort((a.grade, b.grade), function(){
-    //   console.log(a.grade);
-    //   console.log(b.grade);
-    // });
+    let keys = Object.getOwnPropertyNames(this.kids);
+    keys.sort(function(a, b){
+      return a - b;  
+    });
 
-    let currentKidNumber = 0;
-    for (let gradesArr in this.kids) {
-      res += "\nGrade: " + gradesArr;
-      let currentArr = this.kids[gradesArr];
-      for (let pairs in currentArr) {
-        currentKidNumber++;
-        res += `\n${currentKidNumber}. ${currentArr[pairs]}`;
+    for (let i = 0; i < keys.length; i++) {
+      let k = keys[i];
+      res += "\nGrade: " + k;
+      let currentKidsArr = this.kids[k];
+      for (let j = 0; j < currentKidsArr.length; j++) {
+        res += `\n${j + 1}. ${currentKidsArr[j]}`;
       }
-      currentKidNumber = 0;
+      res += '\n';
     }
 
     return res;
+
+    // let currentKidNumber = 0;
+    // for (let gradesArr in sortedKids) {
+    //   res += "\nGrade: " + gradesArr;
+    //   let currentArr = sortedKids[gradesArr];
+    //   for (let pairs in currentArr) {
+    //     currentKidNumber++;
+    //     res += `\n${currentKidNumber}. ${currentArr[pairs]}`;
+    //   }
+    //   currentKidNumber = 0;
+    // }
+
+    // return res;
 
   }
 
