@@ -315,4 +315,78 @@ describe("Warehouse", function(){
         });
     });
 
+
+
+
+
+ describe('orderProducts', function () {
+        it('should sort food products of a given type in descending order by the quantity', function () {
+            let warehouse = new Warehouse(50);
+
+            warehouse.addProduct('Food', 'Pizza', 1);
+            warehouse.addProduct('Food', 'Tomato', 5);
+            warehouse.addProduct('Food', 'Bred', 3);
+
+            warehouse.orderProducts('Food');
+
+            let expected = 'Tomato Bred Pizza';
+
+            expect(Object.keys(warehouse.availableProducts['Food']).join(' ')).to.be.equal(expected);
+        });
+
+        it('should sort drink products of a given type in descending order by the quantity', function () {
+            let warehouse = new Warehouse(50);
+
+            warehouse.addProduct('Drink', 'Water', 1);
+            warehouse.addProduct('Drink', 'Rakia', 5);
+            warehouse.addProduct('Drink', 'Birichka', 3);
+
+            warehouse.orderProducts('Drink');
+
+            let expected = 'Rakia Birichka Water';
+
+            expect(Object.keys(warehouse.availableProducts['Drink']).join(' ')).to.be.equal(expected);
+        });
+
+    });
+
+    describe('occupiedCapacity', function () {
+        it('should return a number, which represents the already occupied place in the warehouse', function () {
+            let warehouse = new Warehouse(60);
+
+            warehouse.addProduct('Food', 'Pizza', 2);
+            warehouse.addProduct('Drink', 'Pepsi', 5);
+
+            expect(warehouse.occupiedCapacity()).to.be.equal(7);
+        });
+
+    });
+
+    describe('scrapeAProduct', function () {
+        it('should throw error with invalid product', function () {
+            let warehouse = new Warehouse(60);
+
+            expect(() => warehouse.scrapeAProduct('Banana', 1)).to.throw('Banana do not exist')
+        });
+
+        it('should reset product', function () {
+            let warehouse = new Warehouse(60);
+
+            warehouse.addProduct('Food', 'Banana', 2);
+            warehouse.scrapeAProduct('Banana', 3);
+
+            expect(warehouse.availableProducts['Food']['Banana']).to.be.equal(0);
+        });
+
+        it('should not work but it works', function () {
+            let warehouse = new Warehouse(60);
+
+            warehouse.addProduct('Food', 'Banana', 20);
+            warehouse.scrapeAProduct('Banana', -5);
+
+            expect(warehouse.availableProducts['Food']['Banana']).to.be.equal(25);
+        });
+    });
+
+
 });
