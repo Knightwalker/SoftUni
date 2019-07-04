@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Coffee Bill</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<h2>Coffee Bill</h2>
+<table id="bill">
+    <thead>
+    <tr>
+        <th>Product</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <tbody id="product-list"></tbody>
+    <tfoot>
+    <tr>
+        <td>Total:</td>
+        <td>0.00</td>
+    </tr>
+    </tfoot>
+</table>
+<section id="add-product">
+    <h3>Add new product</h3>
+    <label>
+        <span>
+            Product:
+        </span>
+        <input type="text">
+    </label>
+    <label>
+        <span>
+            Price:
+        </span>
+        <input type="number">
+    </label>
+    <button onclick="addProduct()">Add</button>
+</section>
+
+<script>
+    function addProduct() {
+        let productEl = document.querySelector("#add-product > label:nth-child(2) > input[type=text]");
+        let priceEl = document.querySelector("#add-product > label:nth-child(3) > input[type=number]");
+        let product = productEl.value;
+        let price = Number(priceEl.value);
+
+        let tfoot_totalEl = document.querySelector("#bill > tfoot > tr > td:nth-child(2)");
+        let totalEl = document.querySelector("#bill > tfoot > tr > td:nth-child(2)");
+
+        let tbodyEl = document.getElementById("product-list");
+
+        if (product != "" && price > 0) {   
+            totalEl.textContent = Number(totalEl.innerHTML) + price;
+        
+            let row = document.createElement("tr");
+            row.innerHTML = `<td>${product}</td>`
+                        + `<td>${price}</td>`;
+            tbodyEl.appendChild(row);   
+        }
+        productEl.value = "";
+        priceEl.value = "";
+    }
+</script>
+
+</body>
+</html>
