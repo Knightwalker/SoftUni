@@ -64,8 +64,9 @@ class Vacation {
 
   toString() {
 
+    if (this.numberOfChildren <= 0) { return `No children are enrolled for the trip and the organization of ${this.organizer} falls out...`; }
     let res = "";
-    res += `${this.organizer} will take ${vacation.numberOfChildren} children on trip to ${this.destination}`;
+    res += `${this.organizer} will take ${this.numberOfChildren} children on trip to ${this.destination}`;
 
     let keys = Object.getOwnPropertyNames(this.kids);
     keys.sort(function(a, b){
@@ -79,7 +80,7 @@ class Vacation {
       for (let j = 0; j < currentKidsArr.length; j++) {
         res += `\n${j + 1}. ${currentKidsArr[j]}`;
       }
-      res += '\n';
+      if (i == keys.length - 1) { res += '\n';}
     }
 
     return res;
