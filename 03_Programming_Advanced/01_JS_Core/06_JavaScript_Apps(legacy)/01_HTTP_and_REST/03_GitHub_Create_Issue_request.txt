@@ -1,0 +1,12 @@
+1. Open Postman
+2. Do a POST request on https://api.github.com/repos/testnakov/test-nakov-repo/issues
+3. Authorization = Basic (Type GitHub username and password)
+4. Body = {
+	
+   "title": "I have created some Musaka",
+	
+   "body": "Musaka from Bulgaristan",
+	
+   "labels":["bug","minor"]
+
+}

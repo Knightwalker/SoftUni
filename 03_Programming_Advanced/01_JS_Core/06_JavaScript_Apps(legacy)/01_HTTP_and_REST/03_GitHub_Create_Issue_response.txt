@@ -1,0 +1,49 @@
+{
+  "url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/860",
+  "repository_url": "https://api.github.com/repos/testnakov/test-nakov-repo",
+  "labels_url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/860/labels{/name}",
+  "comments_url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/860/comments",
+  "events_url": "https://api.github.com/repos/testnakov/test-nakov-repo/issues/860/events",
+  "html_url": "https://github.com/testnakov/test-nakov-repo/issues/860",
+  "id": 466790042,
+  "node_id": "MDU6SXNzdWU0NjY3OTAwNDI=",
+  "number": 860,
+  "title": "I have created some Musaka",
+  "user": {
+    "login": "Knightwalker",
+    "id": 37214263,
+    "node_id": "MDQ6VXNlcjM3MjE0MjYz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/37214263?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Knightwalker",
+    "html_url": "https://github.com/Knightwalker",
+    "followers_url": "https://api.github.com/users/Knightwalker/followers",
+    "following_url": "https://api.github.com/users/Knightwalker/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Knightwalker/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Knightwalker/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Knightwalker/subscriptions",
+    "organizations_url": "https://api.github.com/users/Knightwalker/orgs",
+    "repos_url": "https://api.github.com/users/Knightwalker/repos",
+    "events_url": "https://api.github.com/users/Knightwalker/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Knightwalker/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "labels": [
+
+  ],
+  "state": "open",
+  "locked": false,
+  "assignee": null,
+  "assignees": [
+
+  ],
+  "milestone": null,
+  "comments": 0,
+  "created_at": "2019-07-11T09:56:07Z",
+  "updated_at": "2019-07-11T09:56:07Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "Musaka from Bulgaristan",
+  "closed_by": null
+}

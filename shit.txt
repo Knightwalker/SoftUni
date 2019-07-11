@@ -1,6 +1,6 @@
 node_modules/mocha/bin/_mocha "./04_SumOfNumbers"
 
-
+dGVzdG5ha2920nRlc3QtcGFyb2xhMTIz
 
 "editor.fontSize": 16,
 "editor.tabSize": 2,
