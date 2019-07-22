@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-    <button id="loadBooks">LOAD ALL BOOKS</button>
+    <button id="btnLoadBooks">LOAD ALL BOOKS</button>
     <table>
         <thead>
             <tr>
@@ -18,7 +18,7 @@
                 <th>Action</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody id="tableBody">
             <tr>
                 <td>Harry Poter</td>
                 <td>J. K. Rowling</td>
@@ -48,7 +48,9 @@
         <input type="title" id="author" placeholder="Author...">
         <label>ISBN</label>
         <input type="title" id="isbn" placeholder="Isnb...">
-        <button>Submit</button>
+        <button id="btnCreateBook">Submit</button>
+        <button id="btnDoneEdit" style="display: none">Done Edit</button>
+        <button id="btnCancelEdit" style="display: none">Cancel Edit</button>
     </form>
     <script src="./app.js"></script>
 </body>
