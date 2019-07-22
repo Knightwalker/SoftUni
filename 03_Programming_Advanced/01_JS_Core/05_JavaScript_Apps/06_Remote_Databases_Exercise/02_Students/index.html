@@ -18,8 +18,28 @@
                 <th>Grade</th>
             </tr>
         </thead>
-        <tbody></tbody>
+        <tbody id="tableBody"></tbody>
     </table>
+
+    <br>
+    <div id="loadStudents" onclick="fLoadStudents()">Load</div>
+    <br>
+
+    <form>
+        <h3>FORM</h3>
+        <label>Student ID</label>
+        <input type="student_id" id="student_id" placeholder="Student ID...">
+        <label>First Name</label>
+        <input type="first_name" id="first_name" placeholder="First Name...">
+        <label>Last Name</label>
+        <input type="last_name" id="last_name" placeholder="Last Name...">
+        <label>Faculty Number</label>
+        <input type="faculty_number" id="faculty_number" placeholder="Faculty Number...">
+        <label>Grade</label>
+        <input type="grade" id="grade" placeholder="Grade...">
+        <button id="btnCreateStudent">Create Student</button>
+    </form>
+
     <script src="./app.js"></script>
 </body>
 
