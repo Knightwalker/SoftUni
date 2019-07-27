@@ -1,0 +1,43 @@
+CREATE TABLE categories (
+ `category_id` INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+ `category_position` INT(11) NOT NULL,  
+ `category_title` VARCHAR(150) NOT NULL, 
+);
+
+CREATE TABLE categories_classic (
+ `category_classic_id` INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+ `category_classic_category_position` INT(11) NOT NULL, 
+ `category_classic_position` INT(11) NOT NULL 
+);
+
+CREATE TABLE categories_modern (
+ `category_modern_id` INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+ `category_modern_category_position` INT(11) NOT NULL, 
+ `category_modern_position` INT(11) NOT NULL  
+);
+
+CREATE TABLE forums (
+ `forum_id` INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+ `forum_category_classic_position` INT(11) NOT NULL, 
+ `forum_category_modern_position` INT(11) NOT NULL, 
+ `forum_position` INT(11) NOT NULL, 
+ `forum_image` VARCHAR(150) NOT NULL,
+ `forum_title` VARCHAR(150) NOT NULL,
+ `forum_description` VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE topics (
+ `topic_id` INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+ `topic_forum_id` INT(11) NOT NULL, 
+ `topic_position` INT(11) NOT NULL, 
+ `topic_title` VARCHAR(150) NOT NULL, 
+ `topic_description` VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE posts (
+ `post_id` INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+ `post_topic_id` INT(11) NOT NULL, 
+ `post_position` INT(11) NOT NULL, 
+ `post_title` VARCHAR(150) NOT NULL, 
+ `post_description` VARCHAR(255) NOT NULL
+);

@@ -1,0 +1,87 @@
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 7
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 8
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 9
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 10
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 11
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 19
+[25-Jul-2018 02:42:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 20
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 22
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 23
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 26
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 27
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 30
+[25-Jul-2018 02:42:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 31
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 7
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 8
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 9
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 10
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 11
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 19
+[27-Jul-2018 19:53:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 20
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 7
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 8
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 9
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 10
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 11
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 19
+[03-Aug-2018 16:33:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 20
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 7
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 8
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 9
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 10
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 11
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 19
+[24-Sep-2018 13:33:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 20
+[24-Sep-2018 13:35:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 22
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 23
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 26
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 27
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 30
+[24-Sep-2018 13:35:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 31
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 22
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 23
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 26
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 27
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 30
+[24-Sep-2018 13:38:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 31
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 7
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 8
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 9
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 10
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 11
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 19
+[25-Sep-2018 09:37:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 20
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 22
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 23
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 26
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 27
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 30
+[30-Sep-2018 20:32:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 31
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 22
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 23
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 26
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 27
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 30
+[19-Oct-2018 04:52:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/login.php on line 31
+[27-Nov-2018 06:08:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 7
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 8
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 9
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 10
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 11
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 19
+[27-Nov-2018 06:08:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rmbb5z0ve003/public_html/GOT/core/register.php on line 20
+[26-Dec-2018 12:25:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[06-Feb-2019 12:59:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9
+[22-Feb-2019 23:23:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'rmbb5z0ve003'@'ip-160-153-129-25.ip.secureserver.net' (using password: YES) in /home/rmbb5z0ve003/public_html/GOT/core/init.php on line 9

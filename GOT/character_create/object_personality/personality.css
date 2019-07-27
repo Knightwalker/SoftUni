@@ -1,0 +1,47 @@
+#personality_menu {
+	width: 100%;
+	text-align: center;
+}
+
+#personality {
+	color: #000000;
+    font-size: 14px;
+    text-align: center;
+}
+
+#personality_like {
+	color: #969696;
+    font-size: 14px;
+}
+
+#personality_dislike {
+	color: #969696;
+    font-size: 14px;
+}
+
+#personality_motivation {
+	color: #969696;
+    font-size: 14px;
+}
+
+#personality_fear {
+	color: #969696;
+    font-size: 14px;
+}
+
+#canvas {
+	display: none;
+	background: url("book1.png") no-repeat;
+	background-position: center; 
+	border: 5px solid white;
+    
+    /*center element in the middle of the screen*/
+    position: absolute;
+    left: 50%;
+    margin-left: -600px;
+    top: 50%;
+    margin-top: -400px;
+
+    /*-webkit-transform: rotateX(20deg);
+    transform: rotateX(20deg);*/
+}

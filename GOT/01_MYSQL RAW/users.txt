@@ -1,0 +1,10 @@
+CREATE TABLE users (
+    DB_user_id int(11) not null AUTO_INCREMENT PRIMARY KEY,
+    DB_user_username varchar(256) not null,
+    DB_user_password varchar(256) not null,
+    DB_user_email varchar(256) not null,
+    DB_user_email_activation tinyint(1) DEFAULT '0' not null,
+    DB_user_sex varchar(256) not null,
+    DB_user_group varchar(11) not null,
+    `DB_forum_notification` ENUM('0','1') NOT NULL DEFAULT '1'
+);

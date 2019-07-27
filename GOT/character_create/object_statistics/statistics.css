@@ -1,0 +1,29 @@
+#statistics_menu_header {font-family: Impact, Charcoal, sans-serif; font-size: 24px; color: #000000;}
+#statistics_menu_points {text-align: center; font-size: 14px; font-weight: bold;}
+#characterstatistics_table_pointstospend {text-align: center; font-size: 14px; font-weight: bold;}
+
+#characterstatistics_table {
+height: 30px;
+line-height: 30px;
+border: 1px solid #000;
+}
+#characterstatistics_table td {
+border: 1px solid #000;
+}
+
+#statistics_charisma_image {background-image: url("stat_charisma.png")}
+#statistics_vigor_image {background-image: url("stat_vigor.png")}
+#statistics_strength_image {background-image: url("stat_strength.png")}
+#statistics_dexterity_image {background-image: url("stat_dexterity.png")}
+#statistics_endurance_image {background-image: url("stat_endurance.png")}
+#statistics_intelligence_image {background-image: url("stat_intelligence.png")}
+#statistics_wisdom_image {background-image: url("stat_wisdom.png")}
+#statistics_spirit_image {background-image: url("stat_spirit.png")}
+#statistics_faith_image {background-image: url("stat_faith.png")}
+#statistics_luck_image {background-image: url("stat_luck.png")}
+
+.characterstatistics_table_column1 {background-repeat: no-repeat;}
+.characterstatistics_table_column2 {font-size: 14px; font-weight: bold; padding-left: 3px;}
+.characterstatistics_table_column3, 
+.characterstatistics_table_column4, 
+.characterstatistics_table_column5 {width: 20px; text-align: center;}

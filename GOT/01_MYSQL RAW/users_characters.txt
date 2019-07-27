@@ -1,0 +1,7 @@
+CREATE TABLE users_characters (
+    DB_character_id int(11) not null AUTO_INCREMENT PRIMARY KEY,
+    DB_character_faceclaim varchar(256) not null,
+    DB_character_gender varchar(256) not null,
+    DB_character_house varchar(256) not null,
+    DB_character_religion varchar(256) not null
+);

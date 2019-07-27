@@ -1,0 +1,39 @@
+#menu_character_apperance_baratheon_male {display: none;}
+#menu_character_apperance_baratheon_female {display: none;}
+#menu_character_apperance_lannister_male {display: block;}
+#menu_character_apperance_lannister_female {display: none;}
+#menu_character_apperance_greyjoy_male {display: none;}
+#menu_character_apperance_greyjoy_female {display: none;}
+#menu_character_apperance_stark_male {display: none;}
+#menu_character_apperance_stark_female {display: none;}
+
+#menu_character_apperance_baratheon_male, 
+#menu_character_apperance_baratheon_female, 
+#menu_character_apperance_lannister_male, 
+#menu_character_apperance_lannister_female, 
+#menu_character_apperance_greyjoy_male, 
+#menu_character_apperance_greyjoy_female,
+#menu_character_apperance_stark_male, 
+#menu_character_apperance_stark_female  {
+	color: #000000;
+    font-size: 11px;
+}
+
+.apperance_menu {font-family: Impact, Charcoal, sans-serif; font-size: 24px; color: #000000;}
+.apperance_table {margin: auto;}
+.apperance_table_td {vertical-align: top; text-align: right; padding-right: 10px; font-size: 14px;}
+
+.apperance_table_textarea1 {height: 150px;}
+.apperance_table_textarea2 {height: 100px;}
+
+.apperance_table_textarea1, 
+.apperance_table_textarea2  {
+	resize: none;
+	width: 98%;
+	background-color: #161616;
+	border: 1px solid #000000;
+	color: #e0e0e0;
+	text-align: justify;
+}
+
+.apperance_build, .apperance_height, .apperance_hair, .apperance_eyes {}

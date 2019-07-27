@@ -1,0 +1,257 @@
+/* 
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com 
+Twitter: @rich_clark
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent;}
+body {line-height:1;}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {display:block;}
+nav ul {list-style:none;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after,
+q:before, q:after {content:''; content:none;}
+a {margin:0; padding:0; font-size:100%; vertical-align:baseline; background:transparent; text-decoration:none}
+ins {background-color:#ff9; color:#000; text-decoration:none;}
+mark {background-color:#ff9; color:#000;  font-style:italic; font-weight:bold;}
+del {text-decoration: line-through;}
+abbr[title], dfn[title] {border-bottom:1px dotted; cursor:help;}
+table {border-collapse:collapse; border-spacing:0;}
+hr {display:block; height:1px; border:0;    border-top:1px solid #cccccc; margin:1em 0; padding:0;}
+input, select {vertical-align:middle;}
+
+/*GAME OF THRONES GAME_STYLE.CSS*/
+
+#gotrp_client_body {
+    background: #000000;
+    background-attachment: scroll;
+    background-image: url(../images/game_client/tomasz-jedruszek-lannister.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    color: #969696;
+    font-family: Helvetica, helvetica, arial, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    position: relative;
+    text-align: left;
+    text-decoration:none
+
+    -webkit-perspective: 600px;
+    perspective: 600px;
+}
+
+.gotrp_client_wrapper {margin: 0 auto; max-width: 1600px; min-width: 1000px; padding-top: 460px; width: 60%;}
+#gotrp_client_grid {
+    display: grid;
+    grid-template-columns: 300px 20px 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+
+    border: 1px solid #2e2e2e;
+    color: white;
+
+    background-image: url(../scroll.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    margin: auto;
+    padding-top: 18%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
+#subgrid1 {
+    grid-column: 1; 
+    grid-row: 1; 
+    border: 1px solid #2e2e2e;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 300px 40px 1fr;
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+}
+#subgrid2 {
+    grid-column: 3; 
+    grid-row: 1; 
+    border: 1px solid #2e2e2e;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 40px 40px 1fr;
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+}
+
+/*START Subgrid 1*/
+#character_faceclaim {grid-column: 1; grid-row: 1;  background-position: top center; background-repeat: no-repeat; background-size: cover; margin-left: auto; margin-right: auto; border: 2px solid #000000; background-color: #222; height: 300px; width: 200px;}
+#character_faceclaim_frame {
+    background-image: url(../vintage_frame.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 262px;
+    height: 380px;
+    margin-top: -40px;
+    margin-left: -30px;
+}
+
+#choose_your_persona {grid-column: 1; grid-row: 3;}
+    #choose_your_persona_table {color: #9d9a8c;}
+    #button_character_gender_male {border: 4px solid #161616; background-color: #000; color: #fff;}
+    #button_character_gender_female {border: 4px solid #161616; background-color: #000; color: #fff;}
+    #character_name {background-color: #2e2e2e; border: 0px; border-bottom: 3px solid #9d9a8c;}
+    #character_age {background-color: #2e2e2e; border: 0px; border-bottom: 3px solid #9d9a8c;}
+    #character_birthday {background-color: #2e2e2e; border: 0px; border-bottom: 3px solid #9d9a8c;}
+/*END Subgrid 1*/
+
+/*START Subgrid 2*/
+#character_origin {
+grid-column: 1/2;
+grid-row: 1/2; 
+background-color: #000;
+border: 1px solid #2e2e2e;
+color: #fff;
+text-align: center;
+height: 40px;
+}
+
+#button_character_advantages {
+grid-column: 2/3;
+grid-row: 1/2; 
+background-color: #000;
+border: 1px solid #2e2e2e;
+color: #fff;
+text-align: center;
+height: 40px;
+}
+
+#character_statistics {
+grid-column: 3/4;
+grid-row: 1/2; 
+background-color: #000;
+border: 1px solid #2e2e2e;
+color: #fff;
+text-align: center;
+height: 40px;
+}
+
+#button_character_apperance {
+grid-column: 1/2;
+grid-row: 2/3; 
+background-color: #000;
+border: 1px solid #2e2e2e;
+color: #fff;
+text-align: center;
+height: 40px;
+}
+
+#button_character_personality {
+grid-column: 2/3;
+grid-row: 2/3; 
+background-color: #000;
+border: 1px solid #2e2e2e;
+color: #fff;
+text-align: center;
+height: 40px;
+}
+
+#menu_character_origin {
+grid-column: 1/6; 
+grid-row: 3/4; 
+display: block;
+border: 1px solid #2e2e2e;
+padding: 10px;
+}
+
+#menu_character_advantages {
+grid-column: 1/6;
+grid-row: 3/4; 
+display: none;
+border: 1px solid #2e2e2e;
+color: #000000;
+padding: 10px;
+}
+
+#menu_character_statistics {
+grid-column: 1/6;
+grid-row: 3/4; 
+display: none;
+border: 1px solid #2e2e2e;
+color: #000000;
+padding: 10px;
+}
+
+#menu_character_apperance {
+grid-column: 1/6;
+grid-row: 3/4; 
+display: none;
+border: 1px solid #2e2e2e;
+color: #000000;
+padding: 10px;
+}
+
+#menu_character_personality {
+grid-column: 1/6;
+grid-row: 3/4; 
+display: none;
+border: 1px solid #2e2e2e;
+color: #fff;
+padding: 10px;
+}
+
+#character_religion_popup {display: none; position: fixed; height: 100%; width: 100%;}
+
+#character_religion_popup_container {
+    background-image: url(../images/game_client/religion_theoldgods.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    width: 800px;
+    height: 500px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color: #fff;
+    left: 50%;
+    margin-left: -400px;
+    top: 50%;
+    margin-top: -250px;
+}
+
+#character_religion_popup_container_text {padding: 5px 10px; width: 80%; font-family: 'Architects Daughter', cursive; font-size: 15px;}
+#character_religion_popup_container_p1 {color: #FFC107; font-size: 30px;}
+
+
+
+#choice_religion_faithoftheseven, #choice_religion_theoldgods, #choice_religion_nogods {
+cursor: pointer;
+color: #2e2e2e;
+width: 300px;
+height: 30px;
+line-height: 30px;
+border-radius: 5px;
+border: 2px solid #000;
+text-align: left;
+color: #FFC107;
+}
+
+
