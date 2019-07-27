@@ -1,0 +1,295 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000; 
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+body {
+  background-image: url(./resources/geralt.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #010206;
+  background-position: top center;
+}
+
+#nav_grid {
+  display: grid;
+  grid-template-columns: 280px 1fr 1fr;
+  grid-template-rows: 1fr;
+  height: 100px;
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  background-color: rgba(0, 0, 0, 0.2)
+}
+
+#nav_grid a {
+  background: #864040;
+  color: #fff;
+  display: inline-block;
+  height: 100px;
+  line-height: 100px;
+  text-decoration: none;
+  text-align: center;
+  width: 150px;
+}
+
+#nav_grid a:hover {
+  background: #6b2a2a;
+  transition: all 0.3s ease-in-out;
+}
+
+#nav_logo {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+#nav_right {
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: start;
+}
+
+#nav_left {
+  grid-column: 3;
+  grid-row: 1;
+  justify-self: end;
+}
+
+
+
+
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+  margin-top: 350px;
+}
+#container {
+  background: #161616;
+  border: 1px solid #2e2e2e;
+  padding: 7px;
+  position: relative;
+}
+
+#main {
+  height: 800px;
+  color: white;
+}
+
+#main_head {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+#form_login {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+
+#register_container {
+  background-image: url(./resources/register.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#register_h1 {
+  padding: 20px;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  color: #FFF!important;
+  font-size: 24px;
+  text-align: center;
+}
+
+
+#register_body {
+  position: relative;
+  width: 600px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: rgba(0, 0, 0, 0.80);
+  box-shadow: 0 0 3px 1px #212d28;
+}
+
+.register_form {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  letter-spacing: 0.0625em;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  color: #bcbcbc;
+  font-size: 12px;
+}
+
+.register_flexbox {
+  display: flex;
+  padding-bottom: 15px;
+}
+
+.register_normalbox {
+  padding-bottom: 15px;
+  letter-spacing: 0.0625em;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  color: #bcbcbc;
+  font-size: 12px;
+  text-align: left;
+}
+
+.register_input {
+  box-sizing: border-box;
+  width: 100%;
+  background: transparent;
+  padding: 6px 12px;
+  font-size: 16px;
+  color: #555;
+  background-color: #fff;
+  border: 0px;
+  border-radius: 0px 4px 4px 0px;
+}
+
+#username_icon { background-image: url(./resources/username.png); }
+#email_password { background-image: url(./resources/shield.png); }
+#email_icon { background-image: url(./resources/post.png); }
+
+.register_icon {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #eee;
+  border-right: 1px solid #ccc;
+  text-align: center;
+  width: 50px;
+  height: 30px;
+  border-radius: 4px 0px 0px 4px;
+}
+
+#register_button {
+  display: block;
+  width: 100%;
+  color: #fff;
+  background-color: #f6a70c;
+  padding: 6px 12px;
+  height: 32px;
+  line-height: 18px;
+  font-family: 'Cinzel', serif;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #b47907;
+  border-radius: 4px;
+  background-image: linear-gradient(to bottom, #f6a70c 0, #be8007 100%);
+  background-image: -webkit-linear-gradient(top, #f6a70c 0, #be8007 100%);
+}
+
+.register_hr {
+  border-color: #444;
+}
+
+.register_block {
+  display: block;
+  padding: 10px;
+  letter-spacing: 0.0625em;
+  line-height: 1.625;
+}
+
+.register_block a {
+  color: #f6a70c;
+  text-decoration: none;
+}
