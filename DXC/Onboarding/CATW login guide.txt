@@ -1,8 +1,0 @@
-How to log hours in CATW
-1. Make sure that Time Tracking is enabled in User Settings.
-2. Go to Time Entry
-
-WSB elemenet: BG1-ABSI1.01.02
-Attend/Absence Type: 400 Project Attendance
-Total Hours: 40
-Workweek: Mon-Fri 8.00 hours
