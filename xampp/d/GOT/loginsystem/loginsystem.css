@@ -1,0 +1,109 @@
+/*----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP -----*/
+/*----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP -----*/
+/*----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP ----- REGISTER.PHP -----*/
+
+#gameofthrones_loginsystem_register {
+    display: block;
+    height: 100%;
+	color: #bcbcbc;
+}
+
+#register_header { 
+	padding: 20px;
+	font-family: 'Cinzel', serif;
+    font-weight: 700;
+    color: #FFF!important;
+    font-size: 24px;
+    text-align: center;
+}
+
+#register_block1 {
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    width: 60%;
+    background: #000;
+    background: rgba(0, 0, 0, 0.80);
+    box-shadow: 0 0 3px 1px #212d28;
+}
+
+	.register_block1_text {display: block; padding: 20px; text-align: center; letter-spacing: 0.0625em; font-family: "Lato", sans-serif; font-size: 16px; line-height: 1.625; color: #bcbcbc;}
+	.register_block1_text a {color: #f6a70c; text-decoration: none;}
+	.register_block1_text a:hover {color: #f6a70c; text-decoration: underline;}
+
+#register_block2 {
+	position: relative;
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba(0, 0, 0, 0.80);
+    box-shadow: 0 0 3px 1px #212d28;
+    z-index: 2;
+}
+	.register_block2_text {display: block; padding: 10px; letter-spacing: 0.0625em; line-height: 1.625;}
+	.register_block2_text a {color: #f6a70c; text-decoration: none;}
+	.register_block2_text a:hover {cursor: pointer; color: #f6a70c; text-decoration: underline;}
+	#register_form {width: 80%; margin: auto;}
+
+.register_table {background: #ffffff; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 15px;}
+.register_table2 {letter-spacing: 0.0625em; font-family: 'Cinzel', serif; font-weight: 700;}
+.register_table2 label {cursor: pointer;}
+.register_table3 {text-align: center; position: relative;}
+.register_table4 {letter-spacing: 0.0625em; font-family: 'Cinzel', serif; font-weight: 700; text-align: center;}
+
+#username_icon {background-image: url(../loginsystem/icons/username.png); background-repeat: no-repeat; background-position: center;}
+#password_icon {background-image: url(../loginsystem/icons/shield.png); background-repeat: no-repeat; background-position: center;}
+#email_icon {background-image: url(../loginsystem/icons/post.png); background-repeat: no-repeat; background-position: center;}
+#create_icon {background-image: url(../loginsystem/icons/swords.png); background-repeat: no-repeat; background-position: center; height: 32px; width: 32px; position: absolute; top: 0;}
+
+.register_icon {background-color: #eee; border-right: 1px solid #ccc; text-align: center;}
+
+.register_input {
+	box-sizing: border-box;
+    width: 100%;
+    background: transparent;
+    padding: 6px 12px;
+    font-size: 16px;
+    color: #555;
+    background-color: #fff;
+    border: 0px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+#register_button_create {
+	display: block;
+    width: 100%;
+	color: #fff;
+    background-color: #f6a70c;
+    padding: 6px 12px;
+    height: 32px;
+    line-height: 18px;
+
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+
+    cursor: pointer;
+    border: 1px solid #b47907;
+    border-radius: 4px;
+    background-image: linear-gradient(to bottom, #f6a70c 0, #be8007 100%);
+    background-image: -webkit-linear-gradient(top, #f6a70c 0, #be8007 100%);
+}
+#register_button_create:hover {
+	background-image: linear-gradient(to bottom, #be8007 0, #b47907 100%);
+    background-image: -webkit-linear-gradient(top, #be8007 0, #b47907 100%);
+}
+
+.horizontal_line {border-color: #444!important;}
+
+/*----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP -----*/
+/*----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP -----*/
+/*----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP ----- LOGIN.PHP -----*/
+
+#gameofthrones_loginsystem_login {
+    display: block;
+    height: 100%;
+    color: #bcbcbc;
+}

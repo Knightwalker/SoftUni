@@ -1,0 +1,7 @@
+
+'"" or ""=""'
+'"admin" or ""=""'
+
+
+SELECT * FROM users WHERE username ="" or ""=""
+SELECT * FROM users WHERE username='"" or ""=""'

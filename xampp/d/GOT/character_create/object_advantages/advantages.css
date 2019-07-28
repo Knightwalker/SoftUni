@@ -1,0 +1,53 @@
+#advantages_menu_header {font-family: Impact, Charcoal, sans-serif; font-size: 24px; color: #000000;}
+#advantages_menu_points {text-align: center; font-size: 14px; font-weight: bold;}
+.advantages_table {padding: 10px; cursor: pointer;}
+.advantages_table_td2 {padding-top: 2px; padding-bottom: 2px; text-align: justify;}
+.advantages_table_th {display: inline; font-size: 14px; font-weight: bold;}
+.advantages_table_benefit {display: inline; font-size: 12px; font-weight: bold; padding-right: 3px;}
+.advantages_table_bonus {display: inline; font-size: 12px; font-weight: bold; padding-right: 6px;}
+
+.skills_table {background: #bd9a64; border: 1px solid #000000;}
+.skills_table_th {border-bottom: 1px solid #000000; font-size: 14px; font-weight: bold; text-align: center;}
+.skills_table_td {text-align: justify; padding: 5px;}
+
+.skills_subtable_container {padding: 5px;}
+.skills_subtable {border: 1px solid #000000;}
+
+.skills_subtable_th1 {border-right: 1px solid #000000; border-bottom: 1px solid #000000; font-weight: bold; text-align: center; padding: 5px;}
+.skills_subtable_th2 {border-bottom: 1px solid #000000; font-weight: bold; padding: 5px;}
+
+.skills_subtable_td {border-right: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; padding: 5px;}
+.skills_subtable_td2 {border-bottom: 1px solid #000000; padding: 5px;}
+
+#strength {text-align: center; font-size: 16px; font-weight: bold;}
+#strength_image {background-image: url("stat_strength.jpg"); background-repeat: no-repeat; height: 45px; width: 45px; margin: auto;}
+#dexterity {text-align: center; font-size: 16px; font-weight: bold;}
+#dexterity_image {background-image: url("stat_dexterity.jpg"); background-repeat: no-repeat; height: 45px; width: 45px; margin: auto;}
+#intelligence {text-align: center; font-size: 16px; font-weight: bold;}
+#intelligence_image {background-image: url("stat_intelligence.jpg"); background-repeat: no-repeat; height: 45px; width: 45px; margin: auto;}
+#wisdom {text-align: center; font-size: 16px; font-weight: bold;}
+#wisdom_image {background-image: url("stat_wisdom.jpg"); background-repeat: no-repeat; height: 45px; width: 45px; margin: auto;}
+#charisma {text-align: center; font-size: 16px; font-weight: bold;}
+#charisma_image {background-image: url("stat_charisma.jpg"); background-repeat: no-repeat; height: 45px; width: 45px; margin: auto;}
+
+#check_athletic {display: none;}
+#check_combat_expertise {display: none;}
+#check_iron_will {display: none;}
+#check_agile {display: none;}
+#check_stealthy {display: none;}
+#check_sleight_of_hand {display: none;}
+#check_sharpshooter {display: none;}
+#check_diligent {display: none;}
+#check_cunning {display: none;}
+#check_general_knowledge {display: none;}
+#check_combat_knowledge {display: none;}
+#check_secret_knowledge {display: none;}
+#check_animal_affinity {display: none;}
+#check_survivalist {display: none;}
+#check_negotiator {display: none;}
+#check_investigator {display: none;}
+#check_actor {display: none;}
+#check_charming {display: none;}
+#check_deceitful {display: none;}
+#check_persuasive {display: none;}
+.check_mark {background-image: url("check_mark.png"); background-size: cover; width: 25px; height: 25px; position: absolute; margin-left: -30px;}
