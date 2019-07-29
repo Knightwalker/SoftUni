@@ -74,6 +74,7 @@ session_start();
               <div id="password_icon" class="register_grid_icon"></div>
               <label class="register_grid_label">Confirm Password</label>
               <input class="register_grid_input" type="text" name="passwordRe">
+              <div class="register_grid_error"></div>
             </div>
 
             <div class="register_grid">
@@ -125,56 +126,96 @@ session_start();
   const registerEmailEl = registerFormEl.children[3].children[2];
   const registerSubmitBtnEl = registerFormEl.children[5];
 
-  registerUsernameEl.addEventListener("focusin", function(){ fRegisterForm("username", "focusin"); }, false);
-  registerUsernameEl.addEventListener("focusout", function(){ fRegisterForm("username", "focusout"); }, false);
-  registerPasswordEl.addEventListener("focusin", function(){ fRegisterForm("password", "focusin"); }, false);
-  registerPasswordEl.addEventListener("focusout", function(){ fRegisterForm("password", "focusout"); }, false);
-  registerPasswordReEl.addEventListener("focusin", function(){ fRegisterForm("passwordre", "focusin"); }, false);
-  registerPasswordReEl.addEventListener("focusin", function(){ fRegisterForm("passwordre", "focusin"); }, false);
-  registerEmailEl.addEventListener("focusin", function(){ fRegisterForm("email", "focusin"); }, false);
-  registerEmailEl.addEventListener("focusin", function(){ fRegisterForm("email", "focusin"); }, false);
-  registerSubmitBtnEl.addEventListener("click", function(){ fRegisterForm("submit", "submit"); }, false);
+  registerUsernameEl.addEventListener("focusin", function(){ RegisterFormController.handler("username", "focusin"); }, false);
+  registerUsernameEl.addEventListener("focusout", function(){ RegisterFormController.handler("username", "focusout"); }, false);
+  registerPasswordEl.addEventListener("focusin", function(){ RegisterFormController.handler("password", "focusin"); }, false);
+  registerPasswordEl.addEventListener("focusout", function(){ RegisterFormController.handler("password", "focusout"); }, false);
+  registerPasswordReEl.addEventListener("focusin", function(){ RegisterFormController.handler("passwordre", "focusin"); }, false);
+  registerPasswordReEl.addEventListener("focusout", function(){ RegisterFormController.handler("passwordre", "focusout"); }, false);
+  registerEmailEl.addEventListener("focusin", function(){ RegisterFormController.handler("email", "focusin"); }, false);
+  registerEmailEl.addEventListener("focusout", function(){ RegisterFormController.handler("email", "focusout"); }, false);
+  registerSubmitBtnEl.addEventListener("click", function(){ RegisterFormController.handler("submit", "submit"); }, false);
 
   console.log(registerFormEl.children);
   console.log(registerSubmitBtnEl);
 
-  function fRegisterForm(field, mode) {
-    let parentEl = event.currentTarget.parentElement;
-    let labelEl = parentEl.getElementsByClassName("register_grid_label")[0];
-    let inputEl = parentEl.getElementsByClassName("register_grid_input")[0];
-    let errorEl = parentEl.getElementsByClassName("register_grid_error")[0];
-    console.log("field = " + field);
-    console.log("mode = " + mode);
-    console.log(inputEl);
+  const RegisterFormController = function() {
+    let validateUsername = false;
+    let validatePassword = false;
+    let validatePasswordRe = false;
+    let validateEmail = false; 
 
-    // focusin and focusout input fields visuals
-    if (mode == "focusin") {
-      labelEl.style.fontSize = "15px";
-      labelEl.style.transform = "translate(-60px, -26px)";
+    function handler(field, mode) {
+      let parentEl = event.currentTarget.parentElement;
+      let labelEl = parentEl.getElementsByClassName("register_grid_label")[0];
+      let inputEl = parentEl.getElementsByClassName("register_grid_input")[0];
+      let errorEl = parentEl.getElementsByClassName("register_grid_error")[0];
+      console.log("field = " + field);
+      console.log("mode = " + mode);
+      console.log(labelEl);
+      console.log(inputEl);
 
-    } else if (mode == "focusout" && inputEl.value == "") {
-      labelEl.style.fontSize = "24px";
-      labelEl.style.transform = "initial";
-    }
-    
-    // validate username
-    if (field == "username") {
-      let username = inputEl.value;
+      // focusin and focusout input fields visuals
+      if (mode == "focusin") {
+        labelEl.style.fontSize = "15px";
+        labelEl.style.transform = "translate(-60px, -26px)";
 
-      if (mode == "focusout") {
+      } else if (mode == "focusout" && inputEl.value == "") {
+        labelEl.style.fontSize = "24px";
+        labelEl.style.transform = "initial";
+      }
+      
+      if (field == "username" && mode == "focusout") {
+        let username = inputEl.value;
+        let errorMsg = "";
+
         // Username must be between 3-25 characters long
         if (!(username.length >= 3 && username.length <= 25)) {
-          parentEl.style.borderBottom = "1px solid #be1e37";
-          errorEl.innerHTML = "Username must be between 3 and 25 characters";
+          validateUsername = false;
+          errorMsg = "Username must be between 3 and 25 characters";
         } else {
+          validateUsername = true;
+        }
+        
+        if (validateUsername == false) {
+          parentEl.style.borderBottom = "1px solid #be1e37";
+          errorEl.innerHTML = errorMsg;
+        } else if (validateUsername == true) {
           parentEl.style.borderBottom = "1px solid #3c763d";
           errorEl.innerHTML = "";
         }
+
+      } else if (field == "password" && mode == "focusout") {
+        let password = inputEl.value;
+        let errorMsg = "";
+
+        // Password must be atleast 8 characters long
+        if (!(password.length >= 8)) {
+          validatePassword = false;
+          errorMsg = "Password must be atleast 8 characters long";
+        } else {
+          validatePassword = true;
+        }
+
+        if (validatePassword == false) {
+          parentEl.style.borderBottom = "1px solid #be1e37";
+          errorEl.innerHTML = errorMsg;
+        } else if (validatePassword == true) {
+          parentEl.style.borderBottom = "1px solid #3c763d";
+          errorEl.innerHTML = "";
+        }
+
       }
 
-    } 
+    }
 
-  }
+    return {
+      handler: function(field, mode) {
+        handler(field, mode);
+      }
+    }
+
+  }();
 
 
 </script>
