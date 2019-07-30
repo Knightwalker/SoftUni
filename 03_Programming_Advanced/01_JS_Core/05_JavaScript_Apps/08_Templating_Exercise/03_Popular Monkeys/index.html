@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Popular Monkeys</title>
+  <link rel="stylesheet" type="text/css" href="./style.css"/>
+</head>
+
+<body>
+  <section>
+    <h1>Most popular monkeys</h1>
+    <div id="allMonkeys" class="monkeys"></div>
+  </section>
+</body>
+
+<script id="monkey-template" type="text/x-handlebars-template">
+
+  {{#each monkeys}}
+    <div class="monkey">
+      <h2>{{name}}</h2>
+      <img src="{{image}}">
+      <button onclick="fOpenId()">Info</button>
+      <p style="display: none" id="{{id}}">{{info}}</p>
+    </div>
+  {{/each}}
+
+</script>
+<script src="handlebars.min.js"></script>
+<script src="monkeys.js"></script>
+<script src="monkeysTemplate.js"></script>
+
+<script>
+  function fOpenId() {
+    if (event.currentTarget.parentElement.children[3].style.display == "none") {
+      event.currentTarget.parentElement.children[3].style.display = "block";
+    } else {
+      event.currentTarget.parentElement.children[3].style.display = "none";
+    }
+  }
+</script>
+
+</html>

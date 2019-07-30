@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>List Towns</title>
+    <script src="handlebars.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form action="#" class="content">
+        <label for="towns">Towns</label>
+        <input id="towns" type="text" />
+        <button id="btnLoadTowns">Load</button>
+    </form>
+    <div id="root">
+        <ul>
+            <li>Sofiq</li>
+            <li>Plovdiv</li>
+            <li>Varna</li>
+            <li>Burgas</li>
+        </ul>
+    </div>
+</body>
+
+<script>
+document.getElementById("btnLoadTowns").addEventListener("click", getTowns);
+
+function getTowns() {
+    event.preventDefault();
+    let townsEl = document.getElementById("towns");
+    let townsInputArr = townsEl.value.split(", ");
+
+    // get template
+    let template = document.getElementById("towns-template").innerHTML;
+    console.log(template);
+
+    // compile template
+    let compiledTemplate = Handlebars.compile(template);
+    console.log(compiledTemplate);
+
+    // create context
+    let context = { 
+    towns: townsInputArr
+    };
+
+    // add to html
+    document.getElementById("root").innerHTML = compiledTemplate(context);
+}
+</script>
+
+<script id="towns-template" type="text/x-handlebards-template">
+    <ul>
+        {{#each towns}}
+            <li>{{this}}</li>
+        {{/each}}
+    </ul>
+</script>
+
+</html>
