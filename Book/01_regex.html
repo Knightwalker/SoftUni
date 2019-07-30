@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<article>
+<h1>Regular Expression</h1>
+<p>A regular expression, regex or regexp (sometimes called a rational expression) is a sequence of characters that define a search pattern. Usually such patterns are used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.</p>
+
+<h2>1. Email Validation</h2>
+<p>Email validation is hard. With the vast amount of complex, but valid email addresses that exist today, the only way to truly tell if an email address is valid is to send the email and see if it bounces. With that said, there are a few common approaches for validating email addresses in JavaScript.</p>
+<br>
+<p>First, when validating email addresses I believe it’s better to error on the permissive side. I’d much rather let pass a few fake email addresses than reject a valid one. Front-end email validation is about figuring out if the syntax is correct, not if the email address is valid. With that said, we’ll start off with the most permissive solution and work our way towards the other end.</p>
+
+<code>
+function emailIsValid (email) {
+  return /\S+@\S+\.\S+/.test(email)
+}
+</code>
+
+<p>/\S+@\S+\.\S+/ is testing for the most basic email address structure, _@_._. That’s typically all I ever assume about an email address. If the email the user types in doesn’t follow that structure, odds are they made a typo. One issue with the Regex above is it’ll fail on this format: _@_@._. To fix that, we can change up our Regex a bit.</p>
+
+<code>
+function emailIsValid (email) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)
+}
+
+emailIsValid('tyler@tyler@tylermcginnis.com') // false
+emailIsValid('tyler@tylermcginnis.com') // true
+</code>
+
+<p>That’s it. Anything beyond this is going to be too opinionated. You could find some other solutions by googling around but I recommend re-thinking your approach if the above examples don’t work for you.</p>
+
+
+
+</article>
+</body>
+</html>

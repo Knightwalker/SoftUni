@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<article>
+<h1>Recursion</h1>
+<figure id="recursion_img1" class="img1"></figure>
+<p>In computer science recursion is a problem solving technique, which divides a problem into subproblems of the same type.</p>
+<ul>
+    <li>Recursion happens when a method or a function calls itself.</li>
+    <li>The recursive call can be direct (the method calls itself directly) or indirect (through other methods).</li>
+    <li>The method should have a base case (exit criteria, bottom). Each step on the recursion must move towards the base case.</li>
+</ul>
+
+<h2>1. Recursive Factorial</h2>
+<p>In mathematics, the factorial of a positive integer n, denoted by n!, is the product of all positive integers less than or equal to n.</p>
+<p><span class="font-weight-bold">Base Case: </span>The value of 0! is 1.</p>
+<pre>
+Example:
+5! = 5 * 4! = 5 * 4 * 3 * 2 * 1 * 1 = 120
+4! = 4 * 3! = 4 * 3 * 2 * 1 * 1 = 24
+3! = 3 * 2! = 3 * 2 * 1 * 1 = 6
+2! = 2 * 1! = 2 * 1 * 1 = 2
+1! = 1 * 0! = 1 * 1 = 2
+0! = 1
+</pre>
+
+<div class="table_grid">
+<div class="table_grid_c1">Input</div>    
+<div class="table_grid_c2">Output</div>
+<div class="table_grid_c3">5</div>
+<div class="table_grid_c4">120</div>
+</div>
+
+<code>static void Main(string[] args)
+{
+    int n = int.Parse(Console.ReadLine());
+    int factorial = Factorial(n);
+    Console.WriteLine($"{n}! = {factorial}");
+}
+
+static int Factorial(int n) {
+    if (n == 0)
+    {
+        return 1;
+    }
+    return n * Factorial(n - 1);
+}
+</code>
+
+<h1>2. Recursive Array Sum</h2>
+<code>
+static void Main(string[] args)
+{
+    var numbers = new[] { 1, 2, 3, 4, 5 };
+    var sum = Sum(numbers, 0);
+    Console.WriteLine(sum);
+}
+
+static int Sum(int[] array, int index)
+{
+    if (index == array.Length)
+    {
+        return 0;
+    }
+
+    var currentSum = array[index] + Sum(array, index + 1);
+    return currentSum;
+}
+</code>
+
+
+<h1>3. Recursive Drawing</h1>
+<p>Recursive methods have 3 parts:</p>
+<ul>
+    <li>Pre-actions (before calling the recursion)</li>
+    <li>Recursive calls (step-in)</li>
+    <li>Post-actions (after returning from recursion)</li>
+</ul>
+
+<div class="table_grid">
+<div class="table_grid_c1">Input</div>    
+<div class="table_grid_c2">Output</div>
+<div class="table_grid_c3">5</div>
+<div class="table_grid_c4">
+<pre>
+*****
+****
+***
+**
+*
+#
+##
+###
+####
+#####
+</pre> 
+</div>
+</div>
+
+<code>
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int n = 5;
+        RecursiveDrawing(n);
+    }
+
+    static void RecursiveDrawing(int n)
+    {
+        if (n == 0)
+        {
+            return;
+        }
+
+        // Pre-Action: print n asterisks
+        Console.WriteLine(new string('*', n));
+
+        // Recursive call: print figure of size n-1
+        RecursiveDrawing(n - 1);
+
+        // Post-Action: print n hashtags
+        Console.WriteLine(new string('#', n));
+    }
+}
+</code>
+
+<h1>4. Generate 8-bit or n-bit Arrays</h1>
+<p>How to generate all 8-bit vectors recursively?</p>
+<div class="table_grid">
+<div class="table_grid_c1">Input</div>    
+<div class="table_grid_c2">Output</div>
+<div class="table_grid_c3">8</div>
+<div class="table_grid_c4">
+<pre>
+00000000
+00000001
+00000010
+00000011
+...
+01111111
+10000000
+...
+11111110
+11111111
+</pre> 
+</div>
+</div>
+<code>
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int n = int.Parse(Console.ReadLine());
+        int[] array = new int[n];
+        Generate(array, 0);
+    }
+
+    static void Generate(int[] array, int index)
+    {
+        if (index == array.Length)
+        {
+            Console.WriteLine(String.Join(" ", array));
+        }
+        else
+        {
+            for (int i = 0; i <= 1; i++)
+            {
+                array[index] = i;
+                Generate(array, index + 1);
+            }
+        }
+    }
+}
+</code>
+</article>
+
+
+</body>
+</html>
