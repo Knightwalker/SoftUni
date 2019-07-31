@@ -50,9 +50,10 @@ session_start();
     <div id="main">
       <div id="main_head">Login Page</div>
 
-      <form id="form_login" action="core/login.php" method="POST">
+      <form id="form_login" action="core/loginsystem.php" method="POST">
         <div><input type="text" name="username" placeholder="Username..."></div>
         <div><input type="text" name="password" placeholder="Password..."></div>
+        <input type="hidden" name="login_form">
         <button type="submit" name="submit">Login</button>
       </form>
 

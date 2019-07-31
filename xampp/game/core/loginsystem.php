@@ -1,25 +1,26 @@
 <?php
-include_once "database.php";
-
-// If a POST method was not utilized and they tried to access the script directly from the url -> Redirect to the "bad.php" page
-if (!isset($_POST['register_form'])) {
-  header("Location: ../bad.php");
-  exit();
-}
+session_start();
+include "database.php";
 
 echo "<pre>";
 var_dump($_POST);
 echo "</pre>";
 
 // If a POST request with the name "register_form" was made -> Register a new user
-// If a POST request with the name "login_form" was made -> Login the user
 if (isset($_POST['register_form'])) { 
-  RegisterNewUser($conn); 
+  RegisterUser($pdo); 
+  
+// If a POST request with the name "login_form" was made -> Login the user
 } else if (isset($_POST['login_form'])) {
-  // TODO
+  LoginUser($pdo);
+
+// If a POST method was not utilized and they tried to access the script directly from the url -> Redirect to the "bad.php" page
+} else {
+  header("Location: ../bad.php");
+  exit();
 }
 
-function RegisterNewUser($conn) {
+function RegisterUser($pdo) {
   // Check for empty fields -> if true then exit();
   if ($_POST["username"] == "" || $_POST["password"] == "" || $_POST["passwordRe"] == "" || $_POST["email"] == "") {
     echo "empty fields";
@@ -58,36 +59,67 @@ function RegisterNewUser($conn) {
   }
 
   // Purify input
-  $username = mysqli_real_escape_string($conn, $_POST["username"]);
-  $password = mysqli_real_escape_string($conn, $_POST["password"]);
-  $passwordRe = mysqli_real_escape_string($conn, $_POST["passwordRe"]);
-  $email = mysqli_real_escape_string($conn, $_POST['email']);
+  $username = $_POST["username"];
+  $password = $_POST["password"];
+  $passwordRe = $_POST["passwordRe"];
+  $email = $_POST['email'];
 
-  $sql = "SELECT * FROM users WHERE username='$username'";
-  $result = mysqli_query($conn, $sql);
-  $resultCheck = mysqli_num_rows($result);
-  $resultArr = mysqli_fetch_assoc($result);
+  $sql = "SELECT * FROM `users` WHERE `username` = :username";
+  $stmt = $pdo->prepare($sql);
+  $stmt->bindParam(':username', $username, PDO::PARAM_STR);
+  $stmt->execute();
 
-  echo "<pre>";
-  var_dump($sql);
-  var_dump($result);
-  var_dump($resultCheck);
-  var_dump($resultArr);
-  echo "</pre>";
+  $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
+  $resultCount = $stmt->rowCount();
+
+  // echo "<pre>";
+  // var_dump($result);
+  // var_dump($resultCount);
+  // echo "</pre>";
+  // return;
 
   // If the username is taken -> exit();
-  if ($resultCheck >= 1) {
+  if ($resultCount == 1) {
     header("Location: ../register.php?username=taken");
+    exit();
+  
+  // If the username is not taken -> register a new user
+  } else if ($resultCount == 0) {
+    $passwordHashed = password_hash($password, PASSWORD_DEFAULT); // Hash the password !!!
+    $sql = "INSERT INTO users (username, password, email) VALUES (:username, :passwordHashed, :email)";
+    $stmt = $pdo->prepare($sql);
+    $stmt->bindParam(':username', $username, PDO::PARAM_STR);
+    $stmt->bindParam(':passwordHashed', $passwordHashed, PDO::PARAM_STR);
+    $stmt->bindParam(':email', $email, PDO::PARAM_STR);
+    $stmt->execute();
+    
+    header("Location: ../index.php?register=success");
     exit();
   }
 
-  // If the username is not taken -> register a new user
-  if ($resultCheck == 0) {
-    $passwordHashed = password_hash($password, PASSWORD_DEFAULT); // Hash the password !!!
-    $sql = "INSERT INTO users (username, password, email) VALUES ('$username', '$passwordHashed', '$email')";
-    mysqli_query($conn, $sql);
-    header("Location: ../index.php?register=success");
-    exit();
+}
+
+function LoginUser($pdo) {
+  $username = $_POST["username"];
+  $password = $_POST["password"];
+
+  $stmt = $pdo->prepare("SELECT * FROM `users` WHERE `username` = :username");
+  $stmt->bindParam(':username', $username, PDO::PARAM_STR);
+  $stmt->execute();
+
+  $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
+  $resultCount = $stmt->rowCount();
+  
+  //echo '<pre>' , var_dump($result) , '</pre>';
+  //return;
+
+  // User Does Not Exist
+  if ($resultCount == 0) {
+    echo "//TODO -> User Does Not Exist";
+  // User Exists
+  } else if ($resultCount == 1) {
+    $_SESSION["username"] = $username;
+    header("Location: ../register.php?login=success");
   }
 
 }
