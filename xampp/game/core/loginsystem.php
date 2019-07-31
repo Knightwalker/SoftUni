@@ -30,11 +30,22 @@ function RegisterNewUser($conn) {
     echo "invalid username";
     exit();
   }
-  // Does the passwords match? -> if not exit();
-  if ($_POST["password"] != $_POST["passwordRe"]) { 
-    echo "passwords don't match";
+  // Password must be atleast 8 characters long -> if not exit();
+  if (!(strlen($_POST["password"]) >= 8)) {
+    echo "Password must be atleast 8 characters long";
     exit();
   }
+  // Password and PasswordRe must match -> if not exit();
+  if ($_POST["password"] != $_POST["passwordRe"]) { 
+    echo "Passwords do not match";
+    exit();
+  }
+  // Email validate regex
+  if (!preg_match('/^[^\s@]+@[^\s@]+\.[^\s@]+$/m', $_POST["email"])) {
+    echo "Invalid email";
+    exit();
+  }
+
   // Did they verify their age? -> if not exit();
   if (!isset($_POST["verify_age"])) { 
     echo "did not verify age";
@@ -75,7 +86,7 @@ function RegisterNewUser($conn) {
     $passwordHashed = password_hash($password, PASSWORD_DEFAULT); // Hash the password !!!
     $sql = "INSERT INTO users (username, password, email) VALUES ('$username', '$passwordHashed', '$email')";
     mysqli_query($conn, $sql);
-    header("Location: ../index.php?signup=success");
+    header("Location: ../index.php?register=success");
     exit();
   }
 
