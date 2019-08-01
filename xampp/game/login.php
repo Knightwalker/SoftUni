@@ -53,8 +53,7 @@ session_start();
       <form id="form_login" action="core/loginsystem.php" method="POST">
         <div><input type="text" name="username" placeholder="Username..."></div>
         <div><input type="text" name="password" placeholder="Password..."></div>
-        <input type="hidden" name="login_form">
-        <button type="submit" name="submit">Login</button>
+        <input type="submit" name="login_form" value="Login">
       </form>
 
     </div>

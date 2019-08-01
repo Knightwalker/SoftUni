@@ -86,28 +86,26 @@ session_start();
 
             <div class="register_normalbox">
               <div>
-                <input type="checkbox" id="verify_age" name="verify_age" value="yes"> 
-                <span for="verify_age">I am over 18 years of age.</span>
+                <input id="verify_age" type="checkbox" name="verify_age" value="yes"> 
+                <label for="verify_age">I am over 18 years of age.</label>
               </div>
               <div>
-                <input type="checkbox" id="verify_tos" name="verify_tos" value="yes"> 
-						    <span for="verify_tos">I agree to the <a href="index.php">Terms and Conditions.</a></span>
+                <input id="verify_tos" type="checkbox" name="verify_tos" value="yes"> 
+						    <label for="verify_tos">I agree to the <a href="index.php">Terms and Conditions.</a></label>
               </div>
               <br>
               <p>*An email confirmation will be sent to this address to verify it before you can log in.</p>
             </div>
 
-            <button class="register_form_button" type="submit" disabled>Register</button>
+            <input class="register_form_button" type="submit" name="register_form" value="register" disabled/>
             <hr class="register_hr">
 
             <div>
               <p>Already have an account?</p>
               <p class="register_block"><a href="index.php">Login</a> or <a href="index.php">Reset Password</a></p>
-            </div>
-
-            <input type="hidden" name="register_form">
+            </div>        
           </form> 
-          <!-- END Register_form -->
+
 
         </div>
       </div>

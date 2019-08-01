@@ -44,22 +44,19 @@ session_start();
   }
 ?>
 
-<div id="wrapper">
-
-  <div id="container">
-    <div id="main">
-      <div id="main_head">Main Page</div>
-
-      <?php 
-        echo "Current URL = ";
-        var_dump($_SERVER['REQUEST_URI']);
-        echo "<br>";
-        echo "Current Session = ";
-        var_dump($_SESSION);
-      ?>
-
-    </div>
-
+<div id="master_grid">
+  <div id="top">
+  <?php 
+      echo "Current URL = ";
+      var_dump($_SERVER['REQUEST_URI']);
+      echo "<br>";
+      echo "Current Session = ";
+      var_dump($_SESSION);
+    ?>
+  </div>
+  <div id="main">
+    <div class="main_head">Main Page</div>
+    <div class="main_body"></div>
   </div>
 </div>
 
