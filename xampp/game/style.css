@@ -101,11 +101,6 @@ body {
   background-position: top center;
 }
 
-#master_grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
 #nav_grid {
   display: grid;
   grid-template-columns: 280px 1fr 1fr;
@@ -152,10 +147,9 @@ body {
 
 
 
-
 #master_grid {
   display: grid;
-  grid-template-columns: 1fr 200px;
+  grid-template-columns: 1fr 250px;
   grid-template-rows: 200px 1fr;
   grid-template-areas: 
   "top top"            
@@ -181,21 +175,44 @@ body {
   color: white;
 }
 
-  .main_head {
-    font-size: 30px;
-    background-color: #7A177A;
-    color: #9d9a8c;
-    font-size: 18px;
-    font-weight: 300;
-    padding: 16px;
-    box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
-  }
-  .main_body {
-    box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
-    background-color: #1b1b1b;
-    min-height: 800px;
-  }
+#right {
+  grid-area: right;
+}
 
+/* BEGIN #main style */
+.category_head {
+  font-size: 30px;
+  background-color: #7A177A;
+  color: #9d9a8c;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 16px;
+  box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
+}
+.category_forums {
+  box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
+  background-color: #1b1b1b;
+}
+
+/* END #main style */
+
+/* BEGIN #right style */
+.right_head {
+  font-size: 30px;
+  background-color: #7A177A;
+  color: #9d9a8c;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 16px;
+  box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
+}
+.right_body {
+  box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
+  background-color: #1b1b1b;
+  min-height: 800px;
+}
+
+/* END #right style */
 
 #form_login {
   width: 40%;

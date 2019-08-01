@@ -1,5 +1,6 @@
 <?php
 session_start();
+include "core/database.php";
 ?>
 
 <!DOCTYPE html>
@@ -12,6 +13,8 @@ session_start();
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cinzel">
 </head>
+
+
 <body>
 
 <?php 
@@ -55,12 +58,56 @@ session_start();
     ?>
   </div>
   <div id="main">
-    <div class="main_head">Main Page</div>
-    <div class="main_body"></div>
+    <div class="category_head">Example Category</div>
+    <div class="category_body"></div>
+    <?php var_dump($categories); ?>
+  </div>
+  <div id="right">
+    <div class="right_head">Main Page</div>
+    <div class="right_body"></div>
   </div>
 </div>
 
 
 <div id="footer"></div>
+
+
+
+<script>
+
+let categories = JSON.parse('<?php echo $categoriesAndForums;?>');
+let fragment = document.createDocumentFragment();
+
+console.log(categories);
+
+for (let keys in categories) {
+  let category = categories[keys];
+  let title = category["category_title"];
+  let forums = category["category_forums"]
+
+  let categoryEl = document.createElement("div");
+    let categoryHeadEl = document.createElement("div"); categoryHeadEl.className = "category_head";
+    let categoryForumsEl = document.createElement("div"); categoryForumsEl.className = "category_forums";
+    categoryHeadEl.textContent = title;
+    
+    for (let keys2 in forums) {
+      let forum = forums[keys2]
+      let forum_title = forum["forum_title"];
+      let forum_description = forum["forum_description"];
+
+      let forumEl = document.createElement("div");
+        forumEl.innerHTML = `<div>${forum_title}</div>`; 
+      categoryForumsEl.appendChild(forumEl);
+    }
+
+  categoryEl.appendChild(categoryHeadEl);
+  categoryEl.appendChild(categoryForumsEl);
+  fragment.appendChild(categoryEl);
+}
+document.getElementById("main").appendChild(fragment);
+
+</script>
+
+
 </body>
 </html>

@@ -5,3 +5,32 @@ CREATE TABLE `users` (
     `email` VARCHAR(50) NULL DEFAULT NULL, 
     PRIMARY KEY (`id`)
 );
+
+CREATE TABLE `categories` ( 
+    `category_id` INT(11) NOT NULL AUTO_INCREMENT,
+    `category_title` VARCHAR(50) NOT NULL,
+    `category_position` INT(11) NOT NULL,
+    `category_relation_id` INT(11) NOT NULL,
+    PRIMARY KEY (`category_id`)
+);
+
+
+CREATE TABLE `forums` (
+    `forum_id` INT(11) NOT NULL AUTO_INCREMENT, 
+    `forum_title` VARCHAR(50) NOT NULL,
+    `forum_description` VARCHAR(255) NOT NULL,
+    `forum_position` INT(11) NOT NULL, 
+    `forum_relation_id` VARCHAR(255) NOT NULL,
+    PRIMARY KEY (`forum_id`)
+);
+
+
+INSERT INTO `categories` (`category_id`, `category_title`, `category_position`, `category_relation_id`) VALUES 
+(NULL, 'General', '1', '1'),
+(NULL, 'News', '2', '2');
+
+INSERT INTO `forums` (`forum_id`, `forum_title`, `forum_description`, `forum_position`, `forum_relation_id`) VALUES 
+(NULL, 'Forum1', 'This is a forum about the witcher', '1', '1'),
+(NULL, 'Forum2', 'This is another forum about the witcher', '2', '1'),
+(NULL, 'Forum3', 'This is a forum about the witcher', '1', '2'),
+(NULL, 'Forum4', 'This is another forum about the witcher', '2', '2');

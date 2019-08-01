@@ -8,11 +8,11 @@ echo "</pre>";
 
 // If a POST request with the name "register_form" was made -> Register a new user
 if (isset($_POST['register_form'])) { 
-  RegisterUser($pdo); 
+  RegisterUser($db); 
   
 // If a POST request with the name "login_form" was made -> Login the user
 } else if (isset($_POST['login_form'])) {
-  LoginUser($pdo);
+  LoginUser($db);
 
 // If a POST method was not utilized and they tried to access the script directly from the url -> Redirect to the "bad.php" page
 } else {
@@ -20,7 +20,7 @@ if (isset($_POST['register_form'])) {
   exit();
 }
 
-function RegisterUser($pdo) {
+function RegisterUser($db) {
   // Check for empty fields -> if true then exit();
   if ($_POST["username"] == "" || $_POST["password"] == "" || $_POST["passwordRe"] == "" || $_POST["email"] == "") {
     echo "empty fields";
@@ -65,7 +65,7 @@ function RegisterUser($pdo) {
   $email = $_POST['email'];
 
   $sql = "SELECT * FROM `users` WHERE `username` = :username";
-  $stmt = $pdo->prepare($sql);
+  $stmt = $db->prepare($sql);
   $stmt->bindParam(':username', $username, PDO::PARAM_STR);
   $stmt->execute();
 
@@ -87,7 +87,7 @@ function RegisterUser($pdo) {
   } else if ($resultCount == 0) {
     $passwordHashed = password_hash($password, PASSWORD_DEFAULT); // Hash the password !!!
     $sql = "INSERT INTO users (username, password, email) VALUES (:username, :passwordHashed, :email)";
-    $stmt = $pdo->prepare($sql);
+    $stmt = $db->prepare($sql);
     $stmt->bindParam(':username', $username, PDO::PARAM_STR);
     $stmt->bindParam(':passwordHashed', $passwordHashed, PDO::PARAM_STR);
     $stmt->bindParam(':email', $email, PDO::PARAM_STR);
@@ -99,11 +99,11 @@ function RegisterUser($pdo) {
 
 }
 
-function LoginUser($pdo) {
+function LoginUser($db) {
   $username = $_POST["username"];
   $password = $_POST["password"];
 
-  $stmt = $pdo->prepare("SELECT * FROM `users` WHERE `username` = :username");
+  $stmt = $db->prepare("SELECT * FROM `users` WHERE `username` = :username");
   $stmt->bindParam(':username', $username, PDO::PARAM_STR);
   $stmt->execute();
 
