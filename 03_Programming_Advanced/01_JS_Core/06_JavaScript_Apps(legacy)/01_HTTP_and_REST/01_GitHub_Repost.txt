@@ -1,2 +1,0 @@
-1. Open Postman
-2. Do a GET request on https://api.github.com/users/testnakov/repos

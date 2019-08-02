@@ -1,4 +1,0 @@
-{
-    "author": "Ivan Bazov",
-    "title": "Under the Yoke"
-}
