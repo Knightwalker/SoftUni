@@ -151,10 +151,6 @@ body {
   display: grid;
   grid-template-columns: 1fr 250px;
   grid-template-rows: 200px 1fr;
-  grid-template-areas: 
-  "top top"            
-  "main right";
-
   width: 80%;
   margin: auto;
   margin-top: 350px;
@@ -165,33 +161,102 @@ body {
 }
 
 #top {
-  grid-area: top;
+  grid-column: 1/3;
+  grid-row: 1;
   color: white;
 }
 
 #main {
-  grid-area: main;
+  grid-column: 1;
+  grid-row: 2;
   min-height: 800px;
   color: white;
+  padding-right: 3px;
 }
 
 #right {
-  grid-area: right;
+  grid-column: 2;
+  grid-row: 2;
 }
 
+/* BEGIN #top style */
+
+#nav_forum_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#nav_forum_grid a {
+  background: #864040;
+  color: #fff;
+  display: inline-block;
+  height: 100px;
+  line-height: 100px;
+  text-decoration: none;
+  text-align: center;
+  width: 150px;
+}
+
+#nav_forum_grid a:hover {
+  background: #6b2a2a;
+  transition: all 0.3s ease-in-out;
+}
+
+/* END #top style */
+
 /* BEGIN #main style */
+#forum_character_img {
+  background-image: url("./resources/forum_character.jpg");
+  background-position-x: -30px;
+}
+.roundstyle1 {
+  background-color: #242a49;
+  border: 5px solid #242a49;
+  border-radius: 100px;
+  box-shadow: #000 2px 2px 1px;
+  height: 114px;
+  padding: 5px;
+  width: 110px;
+  background-size: cover;
+}
+
 .category_head {
   font-size: 30px;
   background-color: #7A177A;
   color: #9d9a8c;
   font-size: 18px;
   font-weight: 300;
-  padding: 16px;
+  padding: 15px;
   box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
 }
-.category_forums {
+.category_body {
   box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
   background-color: #1b1b1b;
+  color: #9d9a8c;
+  padding: 5px;
+}
+
+.forum_modern_grid {
+  display: grid;
+  grid-template-columns: 60px 5fr 5fr 1fr 1fr 2fr;
+  padding: 5px;
+}
+
+  .forum_modern_subgrid2 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+  .forum_modern_subgrid3 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+
+.forum_classic_grid {
+  display: grid;
+  grid-template-columns: 60px 4fr 6fr 1fr 1fr 2fr;
 }
 
 /* END #main style */
@@ -203,13 +268,12 @@ body {
   color: #9d9a8c;
   font-size: 18px;
   font-weight: 300;
-  padding: 16px;
+  padding: 15px;
   box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
 }
 .right_body {
   box-shadow: inset rgba(0,0,0,0.25) 0 0 0 1px;
   background-color: #1b1b1b;
-  min-height: 800px;
 }
 
 /* END #right style */
@@ -372,6 +436,12 @@ body {
   letter-spacing: 0.0625em;
   line-height: 1.625;
 }
+
+
+
+
+
+
 
 
 

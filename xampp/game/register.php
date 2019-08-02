@@ -44,76 +44,88 @@ session_start();
   }
 ?>
 
-<div id="wrapper">
-  <div id="container">
+<div id="master_grid">
+  <div id="top">
+  <?php 
+      echo "Current URL = ";
+      var_dump($_SERVER['REQUEST_URI']);
+      echo "<br>";
+      echo "Current Session = ";
+      var_dump($_SESSION);
+    ?>
+  </div>
+  <div id="main">
 
-    <div id="main">
-      <div id="main_head">Register Page</div>
+    <div id="register_container">
+      <div id="register_h1">Create Account</div>
+      <div id="register_body">
+        
+        <!-- BEGIN Register_form -->
+        <form id="register_form" autocomplete="off" action="core/loginsystem.php" method="POST">
+          <div class="register_grid">
+            <div id="username_icon" class="register_grid_icon"></div>
+            <label class="register_grid_label">Username</label>
+            <input class="register_grid_input" type="text" name="username">
+            <div class="register_grid_error"></div>
+          </div>
 
-      <div id="register_container">
-        <div id="register_h1">Create Account</div>
-        <div id="register_body">
+          <div class="register_grid">
+            <div id="password_icon" class="register_grid_icon"></div>
+            <label class="register_grid_label">Password</label>
+            <input class="register_grid_input" type="password" name="password">
+            <div class="register_grid_error"></div>
+          </div>
 
-          <!-- BEGIN Register_form -->
-          <form id="register_form" autocomplete="off" action="core/loginsystem.php" method="POST">
-            <div class="register_grid">
-              <div id="username_icon" class="register_grid_icon"></div>
-              <label class="register_grid_label">Username</label>
-              <input class="register_grid_input" type="text" name="username">
-              <div class="register_grid_error"></div>
-            </div>
+          <div class="register_grid">
+            <div id="password_icon" class="register_grid_icon"></div>
+            <label class="register_grid_label">Confirm Password</label>
+            <input class="register_grid_input" type="password" name="passwordRe">
+            <div class="register_grid_error"></div>
+          </div>
 
-            <div class="register_grid">
-              <div id="password_icon" class="register_grid_icon"></div>
-              <label class="register_grid_label">Password</label>
-              <input class="register_grid_input" type="password" name="password">
-              <div class="register_grid_error"></div>
-            </div>
+          <div class="register_grid">
+            <div id="email_icon" class="register_grid_icon"></div>
+            <label class="register_grid_label">Email</label>
+            <input class="register_grid_input" type="text" name="email">
+            <div class="register_grid_error"></div>
+          </div>
 
-            <div class="register_grid">
-              <div id="password_icon" class="register_grid_icon"></div>
-              <label class="register_grid_label">Confirm Password</label>
-              <input class="register_grid_input" type="password" name="passwordRe">
-              <div class="register_grid_error"></div>
-            </div>
-
-            <div class="register_grid">
-              <div id="email_icon" class="register_grid_icon"></div>
-              <label class="register_grid_label">Email</label>
-              <input class="register_grid_input" type="text" name="email">
-              <div class="register_grid_error"></div>
-            </div>
-
-            <div class="register_normalbox">
-              <div>
-                <input id="verify_age" type="checkbox" name="verify_age" value="yes"> 
-                <label for="verify_age">I am over 18 years of age.</label>
-              </div>
-              <div>
-                <input id="verify_tos" type="checkbox" name="verify_tos" value="yes"> 
-						    <label for="verify_tos">I agree to the <a href="index.php">Terms and Conditions.</a></label>
-              </div>
-              <br>
-              <p>*An email confirmation will be sent to this address to verify it before you can log in.</p>
-            </div>
-
-            <input class="register_form_button" type="submit" name="register_form" value="register" disabled/>
-            <hr class="register_hr">
-
+          <div class="register_normalbox">
             <div>
-              <p>Already have an account?</p>
-              <p class="register_block"><a href="index.php">Login</a> or <a href="index.php">Reset Password</a></p>
-            </div>        
-          </form> 
+              <input id="verify_age" type="checkbox" name="verify_age" value="yes"> 
+              <label for="verify_age">I am over 18 years of age.</label>
+            </div>
+            <div>
+              <input id="verify_tos" type="checkbox" name="verify_tos" value="yes"> 
+              <label for="verify_tos">I agree to the <a href="index.php">Terms and Conditions.</a></label>
+            </div>
+            <br>
+            <p>*An email confirmation will be sent to this address to verify it before you can log in.</p>
+          </div>
 
+          <input class="register_form_button" type="submit" name="register_form" value="register" disabled/>
+          <hr class="register_hr">
 
-        </div>
+          <div>
+            <p>Already have an account?</p>
+            <p class="register_block"><a href="index.php">Login</a> or <a href="index.php">Reset Password</a></p>
+          </div>        
+        </form> 
+        <!-- END Register_form -->
+
       </div>
-
     </div>
 
+  
+  </div>
+  <div id="right">
+    <div class="right_head">Main Page</div>
+    <div class="right_body"></div>
   </div>
 </div>
+
+
+
 
 <script>
 

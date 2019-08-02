@@ -44,20 +44,28 @@ session_start();
   }
 ?>
 
-<div id="wrapper">
-  <div id="container">
+<div id="master_grid">
+  <div id="top">
+  <?php 
+      echo "Current URL = ";
+      var_dump($_SERVER['REQUEST_URI']);
+      echo "<br>";
+      echo "Current Session = ";
+      var_dump($_SESSION);
+    ?>
+  </div>
+  <div id="main">
 
-    <div id="main">
-      <div id="main_head">Login Page</div>
-
-      <form id="form_login" action="core/loginsystem.php" method="POST">
+    <form id="form_login" action="core/loginsystem.php" method="POST">
         <div><input type="text" name="username" placeholder="Username..."></div>
         <div><input type="text" name="password" placeholder="Password..."></div>
         <input type="submit" name="login_form" value="Login">
-      </form>
+    </form>
 
-    </div>
-
+  </div>
+  <div id="right">
+    <div class="right_head">Main Page</div>
+    <div class="right_body"></div>
   </div>
 </div>
 

@@ -46,11 +46,13 @@ class Forum {
       $category_title = $category["category_title"];
       $category_position = $category["category_position"];
       $category_relation_id = $category["category_relation_id"];
+      $category_view_mode = $category["category_view_mode"];
 
       $resultArr[$category_id] = [];
       $resultArr[$category_id]["category_title"] = $category_title;
       $resultArr[$category_id]["category_position"] = $category_position;
       $resultArr[$category_id]["category_relation_id"] = $category_relation_id;
+      $resultArr[$category_id]["category_view_mode"] = $category_view_mode;
       $resultArr[$category_id]["category_forums"] = [];
           
       // STEP 2. Get Forums Related to a Category
@@ -62,12 +64,14 @@ class Forum {
         $forum_id = $forum["forum_id"];
         $forum_title = $forum["forum_title"];
         $forum_description = $forum["forum_description"];
+        $forum_picture_id = $forum["forum_picture_id"];
         $forum_position = $forum["forum_position"];
         $forum_relation_id = $forum["forum_relation_id"];
 
         $resultArr[$category_id]["category_forums"][$forum_id] = [];
         $resultArr[$category_id]["category_forums"][$forum_id]["forum_title"] = $forum_title;
         $resultArr[$category_id]["category_forums"][$forum_id]["forum_description"] = $forum_description;
+        $resultArr[$category_id]["category_forums"][$forum_id]["forum_picture_id"] = $forum_picture_id;
         $resultArr[$category_id]["category_forums"][$forum_id]["forum_position"] = $forum_position;
         $resultArr[$category_id]["category_forums"][$forum_id]["forum_relation_id"] = $forum_relation_id;
      
