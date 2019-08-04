@@ -1,3 +1,10 @@
+const kinveyBaseUrl = "https://baas.kinvey.com/";
+const kinveyAppKey = "kid_BkhXN1mGS";
+const kinveyAppSecret = "1cf5f904786c4199a5b77f36384729be";
+const kinveyAppAuthHeaders = {
+  "Authorization": "Basic " + btoa(kinveyAppKey + ":" + kinveyAppSecret)
+};
+
 const app = Sammy("#main", function () {
 
   //this.use('Handlebars', 'hbs');
@@ -8,7 +15,8 @@ const app = Sammy("#main", function () {
   });
 
   // User
-  this.route('get', '#/login', function(){
+  this.route('post', '#/login', function(){
+    console.log('debil');
     loginUser();
     return false;
   });
@@ -72,12 +80,7 @@ function startApp() {
   $("#buttonCreateBook").click(createBook);
   $("#buttonEditBook").click(editBook);
 
-  const kinveyBaseUrl = "https://baas.kinvey.com/";
-  const kinveyAppKey = "kid_BkhXN1mGS";
-  const kinveyAppSecret = "1cf5f904786c4199a5b77f36384729be";
-  const kinveyAppAuthHeaders = {
-    "Authorization": "Basic " + btoa(kinveyAppKey + ":" + kinveyAppSecret)
-  };
+
 
   function registerUser() {
     let userData = {
