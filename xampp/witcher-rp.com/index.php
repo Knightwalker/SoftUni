@@ -54,7 +54,7 @@ include "core/database.php";
 <script>
 
 let categories = JSON.parse('<?php echo $categoriesAndForums;?>');
-//console.log(categories);
+console.log(categories);
 
 let fragment = document.createDocumentFragment();
 for (let keys in categories) {
