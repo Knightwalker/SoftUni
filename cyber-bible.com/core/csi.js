@@ -35,3 +35,5 @@ window.onload = function() {
 	}
 
 }
+
+// <div data-include="./components/javascript/book_javascript.html"></div>

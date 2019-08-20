@@ -19,7 +19,7 @@
   <div id="header"></div>
   <div id="slider"></div>
   <div id="master">
-			<div data-include="book_javascript.html"></div>
+		<?php include "./views/javascript/book_javascript.php"; ?>
 	</div>
   <div id="footer"></div>
   
