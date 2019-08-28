@@ -19,7 +19,7 @@ function solve(args) {
     
     let firstConnection = isBetween(x3, x1, x2);
     let secondConnection = isBetween(x4, x1, x2);
-    if (firstConnection && secondConnection) {
+    if (firstConnection || secondConnection) {
       let nexus = Number(arr1[x1] + arr1[x3] + arr2[x2] + arr2[x4]);
       arr1.splice(Math.min(x1, x3), (Math.max(x1, x3) - Math.min(x1, x3) + 1));
       arr2.splice(Math.min(x2, x4), (Math.max(x2, x4) - Math.min(x2, x4) + 1));
@@ -44,5 +44,3 @@ function solve(args) {
   }
 
 }
-
-//solve(["9 5 10 4 5 6 7 10", "3 3 3 4 5 6 7 8", "0:1|1:0", "0:1|1:0", "0:1|1:0", "nexus"]);
