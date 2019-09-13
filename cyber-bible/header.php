@@ -4,31 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>GOVNO</title>
-    <link rel="stylesheet" href="./style.css">
+    <title>The Cyber Bible</title>
+    <link rel="stylesheet" href="/style.css">
+    
     <!-- Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cinzel">
 
-    <script src="./core/csi.js"></script>
+    <!-- Scripts -->
+    <script type="text/javascript" src="/core/functions.js"></script>
 
     <script>
         function openHomePage() {
-            location.href = "./index.php";
+            location.href = "/index.php";
         }
         function openCoursePage() {
-            location.href = "./courses.php";
+            location.href = "/courses.php";
         }
         function openCSharpPage() {
-            location.href = "./csharp.php";
+            location.href = "/csharp.php";
         }
         function openSQLPage() {
-            location.href = "./mssql.php";
+            location.href = "/mssql.php";
         }
-        function openJSPage() {
-            location.href = "./js.php";
+        function openCppPage() {
+            location.href = "/components/cpp.php";
         }
     </script>
-    
+
 </head>
 
 <body>
