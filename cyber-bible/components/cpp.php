@@ -8,6 +8,7 @@
     <div class="cpp_sidebar_h1">Solutions</div>
     <div class="cpp_sidebar_h2">Algebra</div>
     <div>Quadratic Equation</div>
+    <div>Greatest Common Divisor</div>
   </div>
   <div id="cpp_main">
   
@@ -61,6 +62,27 @@
       </table>
       <br>
       <code code-include="/code/quadratic_equation.cpp"></code>
+    </div>
+
+    <div id="cpp_greatest_common_divisor">
+      <h1>Algebra</h1>
+      <h2>Greatest Common Divisor</h2>
+      <table class="code_table">
+         <tr>
+            <th>Input</th>
+            <th>Output</th>
+         </tr>
+         <tr>
+            <td>10 25</td>
+            <td>50 50</td>
+         </tr>
+         <tr>
+            <td>5</td>
+            <td>50</td>
+         </tr>
+      </table>
+      <br>
+      <code code-include="/code/greatest_common_divisor.cpp"></code>
     </div>
 
   </div>
