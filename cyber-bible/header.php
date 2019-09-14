@@ -12,33 +12,15 @@
 
     <!-- Scripts -->
     <script type="text/javascript" src="/core/functions.js"></script>
-
-    <script>
-        function openHomePage() {
-            location.href = "/index.php";
-        }
-        function openCoursePage() {
-            location.href = "/courses.php";
-        }
-        function openCSharpPage() {
-            location.href = "/csharp.php";
-        }
-        function openSQLPage() {
-            location.href = "/mssql.php";
-        }
-        function openCppPage() {
-            location.href = "/components/cpp.php";
-        }
-    </script>
-
+    <script type="text/javascript" src="/core/openPage.js"></script>
 </head>
 
 <body>
 
 <div id="navigation">
     <div id="logo">KARTINKA</div>
-    <div id="home" onclick="openHomePage()" class="navButton">Home</div>
-    <div id="courses" onclick="openCoursePage()" class="navButton">Courses</div>
+    <div id="home" onclick="openPage('home')" class="navButton">Home</div>
+    <div id="courses" onclick="openPage('courses')" class="navButton">Courses</div>
     <div id="aboutUs" class="navButton">About us</div>
     <div id="login" class="navButton">Log in</div>
 </div>

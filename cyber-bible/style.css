@@ -199,6 +199,11 @@ code {
 }
 
 
+
+
+
+
+
 #cpp_grid {
     display: grid;
     grid-template-columns: 15% 70% 15%;
@@ -241,6 +246,20 @@ code {
         padding: 4px;
         width: 50% ;
     }
+
+#cplusplus_img {
+    background-image: url("resources/cplusplus/titleShadow-768x256.png");
+    padding-bottom: 16%;
+    width: 50%;
+}
+.img {
+    background-size: 102% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: auto;
+    margin: auto;
+    border: 1px solid #000000;
+}
 
 
 .sidebarButton {
