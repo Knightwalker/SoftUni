@@ -1,0 +1,24 @@
+1. Telegram
+2. Meistertask
+
+Team C# - CLR
+- Aleksandar
+- Boyan
+- Kalina
+- Jordan
+- Rosen
+
+Python
+- Deqn
+- Valin
+
+Java - JVM (Java Virtual Machine)
+- Katerina
+- Kaloyan
+
+JavaScript - Interpreters
+- Kristian
+- Svetoslav
+- Denitsa
+
+https://github.com/VasAtanasov?tab=repositories
