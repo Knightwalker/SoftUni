@@ -10,7 +10,8 @@ function openPage(argument1)
   // C++
   else if (argument1 == "cplusplus") { path = "/app/cplusplus/cpp.php"; }
   else if (argument1 == "cplusplus_functions") { path = "/app/cplusplus/functions.php"; }
-  else if (argument1 == "cplusplus_algebra") { path = "/app/cplusplus/algebra.php"; }
+  else if (argument1 == "cplusplus_solutions_io") { path = "/app/cplusplus/solutions/io.php"; }
+  else if (argument1 == "cplusplus_solutions_algebra") { path = "/app/cplusplus/solutions/algebra.php"; }
 
   location.href = path;
 
