@@ -1,0 +1,3 @@
+Exercise 06 
+- it says that the input will be "On the next N lines, you will receive sequences of integers, separated by a single space. Each sequence is a row in the matrix."
+- test 11 and 12 however input values of type double
