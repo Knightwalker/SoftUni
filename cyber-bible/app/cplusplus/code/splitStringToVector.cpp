@@ -8,10 +8,12 @@ using std::endl;
 using std::string;
 using std::vector;
 
-vector<string> consoleReadLineSplitToStringVector(char delimiter);
+vector<string> splitStringToVector(string inputString, char delimiter);
 
 int main() {
-	vector<string> stringVect = consoleReadLineSplitToStringVector(' ');
+	string inputString = ""; getline(cin, inputString);
+
+	vector<string> stringVect = splitStringToVector(inputString, ' ');
 
 	int stringVectSize = stringVect.size();
 	for (int i = 0; i < stringVectSize; ++i) {
@@ -21,8 +23,7 @@ int main() {
 	return 0;
 }
 
-vector<string> consoleReadLineSplitToStringVector(char delimiter) {
-	string inputString = ""; getline(cin, inputString);
+vector<string> splitStringToVector(string inputString, char delimiter) {
 	vector<string> stringVect;
 
 	string element = "";

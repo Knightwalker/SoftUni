@@ -13,7 +13,7 @@
    <div id="cpp_main">
       <div id="cplusplus_img" class="img"></div>
       <h1>C++ Programming Language</h1>
-      <div><b>I. Basics</b></div>
+      <div>I. Basics</div>
       <div>1. Introduction</div>
       <div>2. Data Types</div>
       <div>3. Conditions</div>
@@ -23,16 +23,12 @@
       <div>7. Arrays</div>
       <div>8. Vectors</div>
       <br>
-      <div><b>II. Functions</b></div>
+      <div>II. Functions</div>
       <div onclick="openPage('cplusplus_functions')">1. Functions in C++</div>
       <br>
-      <div><b>III. Solutions</b></div>
-      <div onclick="openPage('cplusplus_solutions_io')">1. Input / Output</div>
-      <ul class="custom_ul">
-         <li>consoleReadLineSplitToStringVector</li>
-      </ul>
-      <div onclick="openPage('cplusplus_solutions_algebra')">2. Algebra</div>
-      <ul class="custom_ul">
+      <div>III. Solutions</div>
+      <div onclick="openPage('cplusplus_algebra')">1. Algebra</div>
+      <ul>
          <li>Quadratic Equation</li>
          <li>Greatest Common Divisor</li>
       </ul>

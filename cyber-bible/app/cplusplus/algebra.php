@@ -13,24 +13,45 @@
   <div id="cpp_main">
 
     <div id="cpp_quadratic_equation">
-      <h1>Input / Output</h1>
-      <h2>consoleReadLineSplitToStringVector</h2>
+      <h1>Algebra</h1>
+      <h2>Quadratic Equation</h2>
         <table class="code_table">
           <tr>
               <th>Input</th>
               <th>Output</th>
           </tr>
           <tr>
-              <td>1 2 3 4 5</td>
-              <td>1 2 3 4 5</td>
+              <td>2 5 -3</td>
+              <td>0.5 -3</td>
           </tr>
           <tr>
-              <td>1,2,3,4,5</td>
-              <td>1 2 3 4 5</td>
+              <td>10 1 3</td>
+              <td>no roots</td>
           </tr>
         </table>
         <br>
-        <code code-include="/app/code/solutions/consoleReadLineSplitToStringVector.cpp"></code>
+        <code code-include="/code/quadratic_equation.cpp"></code>
+    </div>
+
+    <div id="cpp_greatest_common_divisor">
+      <h1>Algebra</h1>
+      <h2>Greatest Common Divisor</h2>
+      <table class="code_table">
+        <tr>
+            <th>Input</th>
+            <th>Output</th>
+        </tr>
+        <tr>
+            <td>10 25</td>
+            <td>50 50</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>50</td>
+        </tr>
+      </table>
+      <br>
+      <code code-include="/code/greatest_common_divisor.cpp"></code>
     </div>
 
   </div>

@@ -1,28 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-
-using std::cin;
-using std::cout;
-using std::endl;
-using std::vector;
-
-vector<double> quadratic_equation(int a, int b, int c);
-
-int main() {
-   int a = 0;
-   int b = 0;
-   int c = 0;
-   cin >> a >> b >> c;
-
-   vector<double> result = quadratic_equation(a, b, c);
-   for (int i = 0; i < result.size(); i++) {
-      cout << "x" << i + 1 << " = " << result[i] << endl;
-   }
-
-   return 0;
-
-}
+using namespace std;
 
 vector<double> quadratic_equation(int a, int b, int c) {
 int Discriminant = (b * b) - (4 * a * c);
@@ -49,4 +28,19 @@ vector<double> result;
 
    return result;
    
+}
+
+int main() {
+   int a = 0;
+   int b = 0;
+   int c = 0;
+   cin >> a >> b >> c;
+
+   vector<double> result = quadratic_equation(a, b, c);
+   for (int i = 0; i < result.size(); i++) {
+      cout << "x" << i + 1 << " = " << result[i] << endl;
+   }
+
+   return 0;
+
 }
