@@ -1,7 +1,8 @@
 node_modules/mocha/bin/_mocha "./04_SumOfNumbers"
 
 dGVzdG5ha2920nRlc3QtcGFyb2xhMTIz
-
+TjlGWFctUkZSMlAtTUdGTVgtRlQ2MlYtRkpSQzY=
+slmgr /dlv
 
 File > Preferences > Settings
 "editor.fontSize": 16,
