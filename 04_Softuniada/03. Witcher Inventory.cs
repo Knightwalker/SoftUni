@@ -1,10 +1,9 @@
 using System;
-using System.Linq;
 using System.Collections.Generic;
 
 namespace FundamentalsMidExam
 {
-    class Program_3
+    class Program
     {
         static void Main(string[] args)
         {
@@ -20,16 +19,11 @@ namespace FundamentalsMidExam
                 if (inputArr[0] == "add")
                 {
                     string item = inputArr[1];
+                    int itemIndex = int.Parse(inputArr[2]);
 
-                    // add the item only if the item does not exist
-                    int itemIndex = inventorySystem.IndexOf(item);
-                    if (itemIndex < 0)
+                    if (itemIndex >= 0 && itemIndex < inventorySystem.Count)
                     {
-                        inventorySystem.Add(item);
-                    }
-                    else
-                    {
-                        Console.WriteLine($"{item} already exists!");
+                        inventorySystem.Insert(itemIndex, item);
                     }
 
                 }
@@ -47,22 +41,65 @@ namespace FundamentalsMidExam
                 else if (inputArr[0] == "equip")
                 {
                     string item = inputArr[1];
-                    int itemIndex = inventorySystem.IndexOf(item);
+                    bool itemEquipped = false;
+                    int itemIndex = -1;
+
+                    for (int i = 0; i < inventorySystem.Count; i++)
+                    {
+                        string[] currentItemArr = inventorySystem[i].Split(":");
+                        if (currentItemArr[0] == item)
+                        {
+                            if (currentItemArr.Length > 1)
+                            {
+                                if (currentItemArr[1] == "equipped")
+                                {
+                                    itemEquipped = true;
+                                }
+                            }
+                            itemIndex = i;
+                            break;
+                        }
+                    }
+
                     if (itemIndex >= 0)
                     {
-                        inventorySystem[itemIndex] = inventorySystem[itemIndex] + ":equipped";
+                        if (!itemEquipped)
+                        {
+                            inventorySystem[itemIndex] = inventorySystem[itemIndex] + ":equipped";
+                            Console.WriteLine($"{item} equipped!");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"{item} is already equipped!");
+                        }
                     }
                     else
                     {
-                        Console.WriteLine($"{item} does not exist!");
+                        Console.WriteLine($"{item} does not exists!");
                     }
                 }
-                else if (inputArr[0] == "remove")
+                else if (inputArr[0] == "drop")
                 {
-                    int index = int.Parse(inputArr[1]);
-                    if (index >= 0 && index < inventorySystem.Count)
+                    string item = inputArr[1];
+                    int itemIndex = -1;
+
+                    for (int i = 0; i < inventorySystem.Count; i++)
                     {
-                        inventorySystem.RemoveAt(index);
+                        string[] currentItemArr = inventorySystem[i].Split(":");
+                        if (currentItemArr[0] == item)
+                        {
+                            itemIndex = i;
+                            break;
+                        }
+                    }
+
+                    if (itemIndex >= 0)
+                    {
+                        inventorySystem.RemoveAt(itemIndex);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{item} does not exists!");
                     }
                 }
                 else if (inputArr[0] == "open inventory")
