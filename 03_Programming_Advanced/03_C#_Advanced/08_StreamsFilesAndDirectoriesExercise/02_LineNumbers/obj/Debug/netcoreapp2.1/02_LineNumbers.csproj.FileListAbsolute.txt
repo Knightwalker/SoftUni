@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\bin\Debug\netcoreapp2.1\02_LineNumbers.deps.json
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\bin\Debug\netcoreapp2.1\02_LineNumbers.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\bin\Debug\netcoreapp2.1\02_LineNumbers.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\bin\Debug\netcoreapp2.1\02_LineNumbers.dll
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\bin\Debug\netcoreapp2.1\02_LineNumbers.pdb
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\obj\Debug\netcoreapp2.1\02_LineNumbers.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\obj\Debug\netcoreapp2.1\02_LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\obj\Debug\netcoreapp2.1\02_LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\obj\Debug\netcoreapp2.1\02_LineNumbers.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\obj\Debug\netcoreapp2.1\02_LineNumbers.dll
+C:\Users\Knightwalker\source\repos\StreamsFilesAndDirectories\02_LineNumbers\obj\Debug\netcoreapp2.1\02_LineNumbers.pdb
