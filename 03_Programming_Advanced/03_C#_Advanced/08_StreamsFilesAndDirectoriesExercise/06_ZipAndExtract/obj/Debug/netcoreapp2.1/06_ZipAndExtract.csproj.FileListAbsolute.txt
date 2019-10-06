@@ -1,0 +1,10 @@
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\bin\Debug\netcoreapp2.1\06_ZipAndExtract.deps.json
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\bin\Debug\netcoreapp2.1\06_ZipAndExtract.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\bin\Debug\netcoreapp2.1\06_ZipAndExtract.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\bin\Debug\netcoreapp2.1\06_ZipAndExtract.dll
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\bin\Debug\netcoreapp2.1\06_ZipAndExtract.pdb
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\obj\Debug\netcoreapp2.1\06_ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\obj\Debug\netcoreapp2.1\06_ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\obj\Debug\netcoreapp2.1\06_ZipAndExtract.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\obj\Debug\netcoreapp2.1\06_ZipAndExtract.dll
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\06_ZipAndExtract\obj\Debug\netcoreapp2.1\06_ZipAndExtract.pdb

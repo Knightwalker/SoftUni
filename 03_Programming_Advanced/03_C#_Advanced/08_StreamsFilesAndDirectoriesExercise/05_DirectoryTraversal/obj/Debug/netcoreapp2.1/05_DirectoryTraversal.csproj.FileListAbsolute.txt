@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\bin\Debug\netcoreapp2.1\05_DirectoryTraversal.deps.json
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\bin\Debug\netcoreapp2.1\05_DirectoryTraversal.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\bin\Debug\netcoreapp2.1\05_DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\bin\Debug\netcoreapp2.1\05_DirectoryTraversal.dll
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\bin\Debug\netcoreapp2.1\05_DirectoryTraversal.pdb
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\obj\Debug\netcoreapp2.1\05_DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\obj\Debug\netcoreapp2.1\05_DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\obj\Debug\netcoreapp2.1\05_DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\obj\Debug\netcoreapp2.1\05_DirectoryTraversal.dll
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\obj\Debug\netcoreapp2.1\05_DirectoryTraversal.pdb
+C:\Users\Knightwalker\Desktop\08_StreamsFilesAndDirectoriesExercise\05_DirectoryTraversal\obj\Debug\netcoreapp2.1\05_DirectoryTraversal.csprojAssemblyReference.cache
