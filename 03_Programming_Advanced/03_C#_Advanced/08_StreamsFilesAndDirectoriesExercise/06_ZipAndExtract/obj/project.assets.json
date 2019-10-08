@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\06_ZipAndExtract\\06_ZipAndExtract.csproj",
+      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\06_ZipAndExtract\\06_ZipAndExtract.csproj",
       "projectName": "06_ZipAndExtract",
-      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\06_ZipAndExtract\\06_ZipAndExtract.csproj",
+      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\06_ZipAndExtract\\06_ZipAndExtract.csproj",
       "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\06_ZipAndExtract\\obj\\",
+      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\06_ZipAndExtract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

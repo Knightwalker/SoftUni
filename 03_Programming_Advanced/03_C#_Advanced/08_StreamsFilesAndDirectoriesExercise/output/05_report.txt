@@ -6,6 +6,6 @@
 --StreamsFilesAndDirectoriesExercise.docx - 430.885kb
 --~$reamsFilesAndDirectoriesExercise.docx - 0.162kb
 .sln
---StreamsFilesAndDirectoriesExercise.sln - 3.150kb
+--StreamsFilesAndDirectoriesExercise.sln - 3.652kb
 .zip
 --StreamsFilesAndDirectoriesExercise.zip - 9.914kb

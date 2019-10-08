@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj": {}
+    "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj": {
+    "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj",
         "projectName": "02_LineNumbers",
-        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj",
+        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\02_LineNumbers.csproj",
         "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\obj\\",
+        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\02_LineNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

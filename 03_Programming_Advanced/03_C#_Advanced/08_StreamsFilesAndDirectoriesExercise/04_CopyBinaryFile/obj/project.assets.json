@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\04_CopyBinaryFile\\04_CopyBinaryFile.csproj",
+      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\04_CopyBinaryFile\\04_CopyBinaryFile.csproj",
       "projectName": "04_CopyBinaryFile",
-      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\04_CopyBinaryFile\\04_CopyBinaryFile.csproj",
+      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\04_CopyBinaryFile\\04_CopyBinaryFile.csproj",
       "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\08_StreamsFilesAndDirectoriesExercise\\04_CopyBinaryFile\\obj\\",
+      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\08_StreamsFilesAndDirectoriesExercise\\04_CopyBinaryFile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
