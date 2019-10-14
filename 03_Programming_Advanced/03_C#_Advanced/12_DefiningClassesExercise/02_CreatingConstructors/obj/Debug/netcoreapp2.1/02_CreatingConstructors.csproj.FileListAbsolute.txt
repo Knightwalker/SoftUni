@@ -1,0 +1,10 @@
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\bin\Debug\netcoreapp2.1\02_CreatingConstructors.deps.json
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\bin\Debug\netcoreapp2.1\02_CreatingConstructors.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\bin\Debug\netcoreapp2.1\02_CreatingConstructors.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\bin\Debug\netcoreapp2.1\02_CreatingConstructors.dll
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\bin\Debug\netcoreapp2.1\02_CreatingConstructors.pdb
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\obj\Debug\netcoreapp2.1\02_CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\obj\Debug\netcoreapp2.1\02_CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\obj\Debug\netcoreapp2.1\02_CreatingConstructors.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\obj\Debug\netcoreapp2.1\02_CreatingConstructors.dll
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\02_CreatingConstructors\obj\Debug\netcoreapp2.1\02_CreatingConstructors.pdb

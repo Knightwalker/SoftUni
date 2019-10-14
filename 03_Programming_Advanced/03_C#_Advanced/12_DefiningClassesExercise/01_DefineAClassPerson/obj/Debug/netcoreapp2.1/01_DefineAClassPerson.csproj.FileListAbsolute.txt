@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\bin\Debug\netcoreapp2.1\01_DefineAClassPerson.deps.json
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\bin\Debug\netcoreapp2.1\01_DefineAClassPerson.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\bin\Debug\netcoreapp2.1\01_DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\bin\Debug\netcoreapp2.1\01_DefineAClassPerson.dll
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\bin\Debug\netcoreapp2.1\01_DefineAClassPerson.pdb
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\obj\Debug\netcoreapp2.1\01_DefineAClassPerson.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\obj\Debug\netcoreapp2.1\01_DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\obj\Debug\netcoreapp2.1\01_DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\obj\Debug\netcoreapp2.1\01_DefineAClassPerson.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\obj\Debug\netcoreapp2.1\01_DefineAClassPerson.dll
+C:\Users\ksandakchiev\source\repos\DefiningClassesExercise\01_DefineAClassPerson\obj\Debug\netcoreapp2.1\01_DefineAClassPerson.pdb
