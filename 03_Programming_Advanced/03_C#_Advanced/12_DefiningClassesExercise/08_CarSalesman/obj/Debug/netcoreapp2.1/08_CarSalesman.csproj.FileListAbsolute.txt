@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\bin\Debug\netcoreapp2.1\08_CarSalesman.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\bin\Debug\netcoreapp2.1\08_CarSalesman.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\bin\Debug\netcoreapp2.1\08_CarSalesman.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\bin\Debug\netcoreapp2.1\08_CarSalesman.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\bin\Debug\netcoreapp2.1\08_CarSalesman.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\obj\Debug\netcoreapp2.1\08_CarSalesman.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\obj\Debug\netcoreapp2.1\08_CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\obj\Debug\netcoreapp2.1\08_CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\obj\Debug\netcoreapp2.1\08_CarSalesman.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\obj\Debug\netcoreapp2.1\08_CarSalesman.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\08_CarSalesman\obj\Debug\netcoreapp2.1\08_CarSalesman.pdb

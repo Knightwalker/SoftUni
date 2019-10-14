@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ksandakchiev\\.nuget\\packages\\": {},
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksandakchiev\\source\\repos\\DefiningClassesExercise\\07_RawData\\07_RawData.csproj",
+      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\12_DefiningClassesExercise\\07_RawData\\07_RawData.csproj",
       "projectName": "07_RawData",
-      "projectPath": "C:\\Users\\ksandakchiev\\source\\repos\\DefiningClassesExercise\\07_RawData\\07_RawData.csproj",
-      "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksandakchiev\\source\\repos\\DefiningClassesExercise\\07_RawData\\obj\\",
+      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\12_DefiningClassesExercise\\07_RawData\\07_RawData.csproj",
+      "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\12_DefiningClassesExercise\\07_RawData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ksandakchiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Knightwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
