@@ -1,0 +1,4 @@
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.AssemblyInfo.cs
