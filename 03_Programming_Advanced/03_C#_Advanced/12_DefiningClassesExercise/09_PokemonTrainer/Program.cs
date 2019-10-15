@@ -23,11 +23,68 @@ namespace _09_PokemonTrainer
                 int pokemonHealth = int.Parse(inputArr[3]);
 
                 Pokemon pokemon = new Pokemon(pokemonName, pokemonElement, pokemonHealth);
-                Trainer trainer = new Trainer(trainerName);
+                int index = trainersList.FindIndex(t => t.Name == trainerName);
 
+                if (index == -1)
+                {
+                    Trainer trainer = new Trainer(trainerName);
+                    trainersList.Add(trainer);
+                    trainersList[trainersList.Count - 1].Add(pokemon);
+                }
+
+                else
+                {
+                    trainersList[index].Add(pokemon);
+                }
 
             }
-        }
+
+            while (true)
+            {
+                string input = Console.ReadLine();
+                if (input == "End") { break; }
+
+                foreach (var trainer in trainersList)
+                {
+                    bool checkPokemonsForStat = false;
+                    foreach (var pokemon in trainer.PokemonsList)
+                    {
+                        if (pokemon.Element == input)
+                        {
+                            checkPokemonsForStat = true;
+                            break;
+                        }
+                    }
+
+                    if (checkPokemonsForStat)
+                    {
+                        trainer.Badges += 1;
+                    }
+                    else
+                    {
+                        for (int i = 0; i < trainer.PokemonsList.Count; i++)
+                        {
+                            Pokemon currentPokemon = trainer.PokemonsList[i];
+                            currentPokemon.Health -= 10;
+                            if (currentPokemon.Health <= 0)
+                            {
+                                trainer.PokemonsList.RemoveAt(i);
+                                i--;
+                            }
+                        } 
+                    }
+                } // END Foreach-Loop
+
+            } // END While-Loop
+
+            // Print Result
+            foreach (var trainer in trainersList.OrderByDescending(t => t.Badges))
+            {
+                Console.WriteLine($"{trainer.Name} {trainer.Badges} {trainer.PokemonsList.Count}");
+            }
+
+        } // END Main-Method
+
     }
 
     public class Trainer
@@ -57,6 +114,11 @@ namespace _09_PokemonTrainer
         {
             get { return this.pokemonsList; }
             set { this.pokemonsList = value; }
+        }
+
+        public void Add(Pokemon pokemon)
+        {
+            this.pokemonsList.Add(pokemon);
         }
 
 

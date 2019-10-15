@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\10_SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache

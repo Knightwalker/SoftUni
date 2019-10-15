@@ -2,3 +2,14 @@ C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_
 C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.csproj.CoreCompileInputs.cache
 C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.AssemblyInfoInputs.cache
 C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\bin\Debug\netcoreapp2.1\09_PokemonTrainer.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\bin\Debug\netcoreapp2.1\09_PokemonTrainer.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\bin\Debug\netcoreapp2.1\09_PokemonTrainer.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\bin\Debug\netcoreapp2.1\09_PokemonTrainer.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\bin\Debug\netcoreapp2.1\09_PokemonTrainer.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\12_DefiningClassesExercise\09_PokemonTrainer\obj\Debug\netcoreapp2.1\09_PokemonTrainer.pdb
