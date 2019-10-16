@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\bin\Debug\netcoreapp2.1\01_CustomList.deps.json
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\bin\Debug\netcoreapp2.1\01_CustomList.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\bin\Debug\netcoreapp2.1\01_CustomList.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\bin\Debug\netcoreapp2.1\01_CustomList.dll
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\bin\Debug\netcoreapp2.1\01_CustomList.pdb
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\obj\Debug\netcoreapp2.1\01_CustomList.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\obj\Debug\netcoreapp2.1\01_CustomList.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\obj\Debug\netcoreapp2.1\01_CustomList.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\obj\Debug\netcoreapp2.1\01_CustomList.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\obj\Debug\netcoreapp2.1\01_CustomList.dll
+C:\Users\ksandakchiev\source\repos\13_Workshop1\01_CustomList\obj\Debug\netcoreapp2.1\01_CustomList.pdb

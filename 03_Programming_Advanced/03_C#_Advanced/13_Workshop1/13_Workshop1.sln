@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CustomList", "01_CustomList\01_CustomList.csproj", "{A9016D37-792F-4A99-BA04-24573B11165D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_CustomStack", "02_CustomStack\02_CustomStack.csproj", "{EC51A158-505C-45F1-9810-BDD2BBD9D0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9016D37-792F-4A99-BA04-24573B11165D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9016D37-792F-4A99-BA04-24573B11165D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9016D37-792F-4A99-BA04-24573B11165D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9016D37-792F-4A99-BA04-24573B11165D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC51A158-505C-45F1-9810-BDD2BBD9D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC51A158-505C-45F1-9810-BDD2BBD9D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC51A158-505C-45F1-9810-BDD2BBD9D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC51A158-505C-45F1-9810-BDD2BBD9D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D6453B0-869A-4950-81A6-36721A6537CF}
+	EndGlobalSection
+EndGlobal
