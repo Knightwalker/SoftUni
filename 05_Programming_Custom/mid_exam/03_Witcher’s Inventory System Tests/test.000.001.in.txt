@@ -1,0 +1,5 @@
+﻿normal sword, silver sword, wolfsbane, buckthorn
+add / honey / 3
+swap / 0 / 1
+open inventory / default
+heartbeat

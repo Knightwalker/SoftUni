@@ -1,0 +1,6 @@
+﻿griffin armor, beast oil, cursed oil
+add / silver sword / 0
+swap / 1 / 3
+drop / cursed oil
+open inventory / default
+heartbeat

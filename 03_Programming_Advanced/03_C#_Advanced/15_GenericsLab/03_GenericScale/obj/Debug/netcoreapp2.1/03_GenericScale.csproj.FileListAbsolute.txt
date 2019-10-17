@@ -9,3 +9,14 @@ C:\Users\ksandakchiev\source\repos\15_GenericsLab\03_GenericScale\obj\Debug\netc
 C:\Users\ksandakchiev\source\repos\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.AssemblyInfo.cs
 C:\Users\ksandakchiev\source\repos\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.dll
 C:\Users\ksandakchiev\source\repos\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\bin\Debug\netcoreapp2.1\03_GenericScale.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\bin\Debug\netcoreapp2.1\03_GenericScale.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\bin\Debug\netcoreapp2.1\03_GenericScale.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\bin\Debug\netcoreapp2.1\03_GenericScale.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\bin\Debug\netcoreapp2.1\03_GenericScale.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\15_GenericsLab\03_GenericScale\obj\Debug\netcoreapp2.1\03_GenericScale.pdb

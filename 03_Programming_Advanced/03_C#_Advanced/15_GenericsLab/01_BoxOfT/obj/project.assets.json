@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ksandakchiev\\.nuget\\packages\\": {},
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksandakchiev\\source\\repos\\15_GenericsLab\\01_BoxOfT\\01_BoxOfT.csproj",
+      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\01_BoxOfT\\01_BoxOfT.csproj",
       "projectName": "01_BoxOfT",
-      "projectPath": "C:\\Users\\ksandakchiev\\source\\repos\\15_GenericsLab\\01_BoxOfT\\01_BoxOfT.csproj",
-      "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksandakchiev\\source\\repos\\15_GenericsLab\\01_BoxOfT\\obj\\",
+      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\01_BoxOfT\\01_BoxOfT.csproj",
+      "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\01_BoxOfT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ksandakchiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Knightwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

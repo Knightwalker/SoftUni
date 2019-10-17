@@ -1,0 +1,1 @@
+﻿ghoul 10|alghoul 20|potion 50|ghoul 10|chest 100|striga 70|chest 1000

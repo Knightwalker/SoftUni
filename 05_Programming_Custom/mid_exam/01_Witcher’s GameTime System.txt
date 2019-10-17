@@ -1,0 +1,141 @@
+1 -t
+5
+10
+15
+60
+60
+60
+60
+60
+STOP
+
+Monday 08:05 AM
+Monday 08:15 AM
+Monday 08:30 AM
+Monday 09:30 AM
+Monday 10:30 AM
+Monday 11:30 AM
+Monday 00:30 PM
+Monday 01:30 PM
+
+2 -t
+1440
+1440
+1440
+1440
+1440
+1440
+1440
+1440
+STOP
+
+Monday 08:00 AM
+Tuesday 08:00 AM
+Wednesday 08:00 AM
+Thursday 08:00 AM
+Friday 08:00 AM
+Saturday 08:00 AM
+Sunday 08:00 AM
+Monday 08:00 AM
+
+1 -s
+60
+60
+60
+60
+720
+60
+10
+720
+STOP
+
+Monday 08:00 AM
+Monday 09:00 AM
+Monday 10:00 AM
+Monday 11:00 AM
+Monday 11:00 PM
+Monday 12:00 PM
+Tuesday 00:10 AM
+Tuesday 00:10 PM
+
+2 -s
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+STOP
+
+Monday 08:05 AM
+Monday 08:15 AM
+Monday 08:30 AM
+Monday 08:50 AM
+Monday 09:15 AM
+Monday 09:45 AM
+Monday 10:20 AM
+Monday 11:00 AM
+Monday 11:45 AM
+Monday 00:35 PM
+Monday 01:30 PM
+Monday 02:30 PM
+
+3 -s
+60
+60
+60
+59
+1
+2
+3
+54
+1
+2
+3
+STOP
+
+Monday 09:00 AM
+Monday 10:00 AM
+Monday 11:00 AM
+Monday 11:59 AM
+Monday 12:00 AM
+Monday 00:02 PM
+Monday 00:05 PM
+Monday 00:59 PM
+Monday 01:00 PM
+Monday 01:02 PM
+Monday 01:05 PM
+
+4 -s
+720
+120
+119
+1
+1
+720
+0
+STOP
+
+Monday 08:00 PM
+Monday 10:00 PM
+Monday 11:59 PM
+Monday 12:00 PM
+Tuesday 00:01 AM
+Tuesday 00:01 PM
+Tuesday 00:01 PM
+
+5 -s
+0
+1440
+720
+STOP
+
+Monday 08:00 AM
+Tuesday 08:00 AM
+Tuesday 08:00 PM

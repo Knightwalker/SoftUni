@@ -1,0 +1,8 @@
+﻿You slayed ghoul.
+You slayed alghoul.
+You healed for 10 hp.
+Current health: 80 hp.
+You slayed ghoul.
+You found 100 coins.
+You died! Killed by striga.
+Best area: 6

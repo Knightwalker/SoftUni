@@ -11,21 +11,19 @@ namespace GenericScale
         }
     }
 
-    public class EqualityScale<T> where T : IComparable<T>
+    public class EqualityScale<T>
     {
-
-        public EqualityScale(T first, T second)
+        private T left;
+        private T right;
+        public EqualityScale(T left, T right)
         {
-            First = first;
-            Second = second;
+            this.left = left;
+            this.right = right;
         }
-
-        public T First { get; }
-        public T Second { get; }
-
-        public bool? AreEqual()
+        public bool AreEqual()
         {
-            return this.First.CompareTo(this.Second) > 0;
+            bool result = this.left.Equals(this.right);
+            return result;
         }
     }
 

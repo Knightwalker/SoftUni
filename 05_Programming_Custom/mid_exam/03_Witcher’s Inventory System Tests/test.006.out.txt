@@ -1,0 +1,4 @@
+﻿silver sword equipped!
+beast oil equipped!
+beast oil is already equipped!
+beast oil:equipped, cursed oil
