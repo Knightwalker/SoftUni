@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\bin\Debug\netcoreapp2.1\02_SeashellTreasure.deps.json
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\bin\Debug\netcoreapp2.1\02_SeashellTreasure.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\bin\Debug\netcoreapp2.1\02_SeashellTreasure.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\bin\Debug\netcoreapp2.1\02_SeashellTreasure.dll
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\bin\Debug\netcoreapp2.1\02_SeashellTreasure.pdb
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\obj\Debug\netcoreapp2.1\02_SeashellTreasure.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\obj\Debug\netcoreapp2.1\02_SeashellTreasure.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\obj\Debug\netcoreapp2.1\02_SeashellTreasure.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\obj\Debug\netcoreapp2.1\02_SeashellTreasure.dll
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\obj\Debug\netcoreapp2.1\02_SeashellTreasure.pdb
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\02_SeashellTreasure\obj\Debug\netcoreapp2.1\02_SeashellTreasure.csprojAssemblyReference.cache

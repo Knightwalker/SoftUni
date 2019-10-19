@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\bin\Debug\netcoreapp2.1\01_SummerCocktails.deps.json
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\bin\Debug\netcoreapp2.1\01_SummerCocktails.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\bin\Debug\netcoreapp2.1\01_SummerCocktails.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\bin\Debug\netcoreapp2.1\01_SummerCocktails.dll
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\bin\Debug\netcoreapp2.1\01_SummerCocktails.pdb
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\obj\Debug\netcoreapp2.1\01_SummerCocktails.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\obj\Debug\netcoreapp2.1\01_SummerCocktails.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\obj\Debug\netcoreapp2.1\01_SummerCocktails.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\obj\Debug\netcoreapp2.1\01_SummerCocktails.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\obj\Debug\netcoreapp2.1\01_SummerCocktails.dll
+C:\Users\Knightwalker\source\repos\Retake_Exam_13_August_2019\01_SummerCocktails\obj\Debug\netcoreapp2.1\01_SummerCocktails.pdb
