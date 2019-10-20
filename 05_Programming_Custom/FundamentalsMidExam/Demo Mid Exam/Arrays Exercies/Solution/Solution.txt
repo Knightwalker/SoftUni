@@ -1,0 +1,87 @@
+using System;
+using System.Linq;
+ 
+namespace Friendlist_Maintenance
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] frienlist = Console.ReadLine().Split(", ").ToArray();
+ 
+            string input = string.Empty;
+            int blacklistedCounter = 0;
+            int errorsCounter = 0;
+            bool checkBlacklist = false;
+            bool checkChange = false;
+ 
+            while ((input = Console.ReadLine()) != "Report")
+            {
+                string[] tokens = input.Split().ToArray();
+                switch (tokens[0])
+                {
+                    case "Blacklist":
+                        for (int i = 0; i < frienlist.Length; i++)
+                        {
+                            string current = frienlist[i];
+                            if (frienlist[i] == tokens[1])
+                            {
+                                frienlist[i] = "Blacklisted";
+                                Console.WriteLine($"{current} was blacklisted.");
+                                blacklistedCounter++;
+                                checkBlacklist = true;
+                                break;
+                            }
+                        }
+                        if (checkBlacklist == false)
+                        {
+                            string name = tokens[1];
+                            Console.WriteLine($"{name} was not found.");
+                        }
+                        checkBlacklist = false;
+                        break;
+                    case "Error":
+                        errorsCounter++;
+                        if ((int.Parse(tokens[1])) >= 0 && (int.Parse(tokens[1])) < frienlist.Length)
+                        {
+                            if (frienlist[int.Parse(tokens[1])] != "Blacklisted" && frienlist[int.Parse(tokens[1])] != "Lost")
+                            {
+                                string current = frienlist[(int.Parse(tokens[1]))];
+                                frienlist[(int.Parse(tokens[1]))] = "Lost";
+                                Console.WriteLine($"{current} was lost due to error.");
+                            }
+                        }
+                        break;
+                    case "Change":
+                        for (int i = 0; i < frienlist.Length; i++)
+                        {
+                            string current = frienlist[i];
+                            if (tokens[1] == frienlist[i])
+                            {
+                                frienlist[i] = tokens[2];
+                                Console.WriteLine($"{current} changed his username to {tokens[2]}.");
+                                checkChange = true;
+                                break;
+                            }
+                        }
+                        if (checkChange == false)
+                        {
+                            string name = tokens[1];
+                            Console.WriteLine($"{name} was not found.");
+                        }
+                        checkChange = false;
+                        break;
+                }
+            }
+            Console.WriteLine($"Blacklisted users: {blacklistedCounter}.");
+            Console.WriteLine($"Errors occurred: {errorsCounter}.");
+            foreach (var name in frienlist)
+            {
+                if (name != "Blacklisted" && name != "Lost")
+                {
+                    Console.Write($"{name} ");
+                }
+            }
+        }
+    }
+}

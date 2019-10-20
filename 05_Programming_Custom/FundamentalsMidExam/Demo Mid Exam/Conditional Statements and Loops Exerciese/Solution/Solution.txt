@@ -1,0 +1,62 @@
+using System;
+using System.Linq;
+ 
+namespace FerrisWheel
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double wantedExp = double.Parse(Console.ReadLine());
+            int expectedBattleCount = int.Parse(Console.ReadLine());
+ 
+            int battleCount = 0;
+            double collectedExp = 0;
+ 
+            bool trueOrFalse = false;
+ 
+ 
+            for (int i = 0; i < expectedBattleCount; i++)
+            {
+                if (collectedExp >= wantedExp)
+                {
+                    Console.WriteLine($"Mitko successfully collected his needed experience for {battleCount} battles.");
+                    trueOrFalse = true;
+                    break;
+                }
+                battleCount++;
+                double gainPerBattle = double.Parse(Console.ReadLine());
+                if (battleCount % 3 == 0 && battleCount % 5 == 0)
+                {
+                    double realGainForBattle = gainPerBattle + (gainPerBattle * 0.05);
+                    collectedExp += realGainForBattle;
+                }
+                if (battleCount % 3 == 0)
+                {
+                    double realGainForBattle = gainPerBattle + (gainPerBattle * 0.15);
+                    collectedExp += realGainForBattle;
+                }
+                else if (battleCount % 5 == 0)
+                {
+                    double realGainForBattle = gainPerBattle - (gainPerBattle * 0.1);
+                    collectedExp += realGainForBattle;
+                }
+                else if(battleCount % 3 != 0 && battleCount % 5 !=0)
+                {
+                    collectedExp += gainPerBattle;
+                }
+               
+            }
+ 
+            double neededExp = wantedExp - collectedExp;
+            if (wantedExp > collectedExp)
+            {
+                Console.WriteLine($"Mitko was not able to collect the needed experience, {neededExp:F2} more needed.");
+            }
+            else if(trueOrFalse == false)
+            {
+                Console.WriteLine($"Mitko successfully collected his needed experience for {battleCount} battles.");
+            }
+        }
+    }
+}
