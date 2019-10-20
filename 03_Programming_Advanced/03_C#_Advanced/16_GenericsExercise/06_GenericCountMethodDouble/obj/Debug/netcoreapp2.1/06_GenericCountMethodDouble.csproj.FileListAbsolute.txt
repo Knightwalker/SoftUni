@@ -1,0 +1,10 @@
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06_GenericCountMethodDouble.deps.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06_GenericCountMethodDouble.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06_GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06_GenericCountMethodDouble.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06_GenericCountMethodDouble.pdb
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06_GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06_GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06_GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06_GenericCountMethodDouble.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\06_GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06_GenericCountMethodDouble.pdb

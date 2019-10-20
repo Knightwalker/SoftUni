@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\bin\Debug\netcoreapp2.1\01_SpaceshipCrafting.deps.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\bin\Debug\netcoreapp2.1\01_SpaceshipCrafting.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\bin\Debug\netcoreapp2.1\01_SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\bin\Debug\netcoreapp2.1\01_SpaceshipCrafting.dll
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\bin\Debug\netcoreapp2.1\01_SpaceshipCrafting.pdb
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\obj\Debug\netcoreapp2.1\01_SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\obj\Debug\netcoreapp2.1\01_SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\obj\Debug\netcoreapp2.1\01_SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\obj\Debug\netcoreapp2.1\01_SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\obj\Debug\netcoreapp2.1\01_SpaceshipCrafting.dll
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\01_SpaceshipCrafting\obj\Debug\netcoreapp2.1\01_SpaceshipCrafting.pdb

@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\bin\Debug\netcoreapp2.1\07_Tuple.deps.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\bin\Debug\netcoreapp2.1\07_Tuple.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\bin\Debug\netcoreapp2.1\07_Tuple.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\bin\Debug\netcoreapp2.1\07_Tuple.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\bin\Debug\netcoreapp2.1\07_Tuple.pdb
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\obj\Debug\netcoreapp2.1\07_Tuple.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\obj\Debug\netcoreapp2.1\07_Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\obj\Debug\netcoreapp2.1\07_Tuple.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\obj\Debug\netcoreapp2.1\07_Tuple.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\obj\Debug\netcoreapp2.1\07_Tuple.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\07_Tuple\obj\Debug\netcoreapp2.1\07_Tuple.pdb

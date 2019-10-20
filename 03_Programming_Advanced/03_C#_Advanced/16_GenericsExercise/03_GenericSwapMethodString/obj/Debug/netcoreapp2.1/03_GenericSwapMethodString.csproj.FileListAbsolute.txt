@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\03_GenericSwapMethodString.deps.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\03_GenericSwapMethodString.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\03_GenericSwapMethodString.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\03_GenericSwapMethodString.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\bin\Debug\netcoreapp2.1\03_GenericSwapMethodString.pdb
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\03_GenericSwapMethodString.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\03_GenericSwapMethodString.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\03_GenericSwapMethodString.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\03_GenericSwapMethodString.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\03_GenericSwapMethodString.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\03_GenericSwapMethodString\obj\Debug\netcoreapp2.1\03_GenericSwapMethodString.pdb

@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\bin\Debug\netcoreapp2.1\01_GenericBoxOfStrings.deps.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\bin\Debug\netcoreapp2.1\01_GenericBoxOfStrings.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\bin\Debug\netcoreapp2.1\01_GenericBoxOfStrings.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\bin\Debug\netcoreapp2.1\01_GenericBoxOfStrings.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\bin\Debug\netcoreapp2.1\01_GenericBoxOfStrings.pdb
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\obj\Debug\netcoreapp2.1\01_GenericBoxOfStrings.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\obj\Debug\netcoreapp2.1\01_GenericBoxOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\obj\Debug\netcoreapp2.1\01_GenericBoxOfStrings.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\obj\Debug\netcoreapp2.1\01_GenericBoxOfStrings.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\obj\Debug\netcoreapp2.1\01_GenericBoxOfStrings.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\01_GenericBoxOfStrings\obj\Debug\netcoreapp2.1\01_GenericBoxOfStrings.pdb

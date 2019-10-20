@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\bin\Debug\netcoreapp2.1\05_GenericCountMethodString.deps.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\bin\Debug\netcoreapp2.1\05_GenericCountMethodString.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\bin\Debug\netcoreapp2.1\05_GenericCountMethodString.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\bin\Debug\netcoreapp2.1\05_GenericCountMethodString.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\bin\Debug\netcoreapp2.1\05_GenericCountMethodString.pdb
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\obj\Debug\netcoreapp2.1\05_GenericCountMethodString.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\obj\Debug\netcoreapp2.1\05_GenericCountMethodString.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\obj\Debug\netcoreapp2.1\05_GenericCountMethodString.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\obj\Debug\netcoreapp2.1\05_GenericCountMethodString.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\obj\Debug\netcoreapp2.1\05_GenericCountMethodString.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\05_GenericCountMethodString\obj\Debug\netcoreapp2.1\05_GenericCountMethodString.pdb

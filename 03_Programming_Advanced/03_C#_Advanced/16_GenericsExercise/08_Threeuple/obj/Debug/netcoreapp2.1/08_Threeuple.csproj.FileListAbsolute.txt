@@ -1,0 +1,10 @@
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\bin\Debug\netcoreapp2.1\08_Threeuple.deps.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\bin\Debug\netcoreapp2.1\08_Threeuple.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\bin\Debug\netcoreapp2.1\08_Threeuple.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\bin\Debug\netcoreapp2.1\08_Threeuple.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\bin\Debug\netcoreapp2.1\08_Threeuple.pdb
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\obj\Debug\netcoreapp2.1\08_Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\obj\Debug\netcoreapp2.1\08_Threeuple.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\obj\Debug\netcoreapp2.1\08_Threeuple.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\obj\Debug\netcoreapp2.1\08_Threeuple.dll
+C:\Users\Knightwalker\source\repos\16_GenericsExercise\08_Threeuple\obj\Debug\netcoreapp2.1\08_Threeuple.pdb

@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03_SpaceStationEstablishment.deps.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03_SpaceStationEstablishment.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03_SpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03_SpaceStationEstablishment.dll
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\bin\Debug\netcoreapp2.1\03_SpaceStationEstablishment.pdb
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03_SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03_SpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03_SpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03_SpaceStationEstablishment.dll
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03_SpaceStationEstablishment.pdb
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\03_SpaceStationEstablishment\obj\Debug\netcoreapp2.1\03_SpaceStationEstablishment.csprojAssemblyReference.cache

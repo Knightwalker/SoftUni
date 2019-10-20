@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\bin\Debug\netcoreapp2.1\02_SpaceStationRecruitment.deps.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\bin\Debug\netcoreapp2.1\02_SpaceStationRecruitment.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\bin\Debug\netcoreapp2.1\02_SpaceStationRecruitment.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\bin\Debug\netcoreapp2.1\02_SpaceStationRecruitment.dll
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\bin\Debug\netcoreapp2.1\02_SpaceStationRecruitment.pdb
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\obj\Debug\netcoreapp2.1\02_SpaceStationRecruitment.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\obj\Debug\netcoreapp2.1\02_SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\obj\Debug\netcoreapp2.1\02_SpaceStationRecruitment.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\obj\Debug\netcoreapp2.1\02_SpaceStationRecruitment.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\obj\Debug\netcoreapp2.1\02_SpaceStationRecruitment.dll
+C:\Users\Knightwalker\source\repos\Exam_23_June_2019\02_SpaceStationRecruitment\obj\Debug\netcoreapp2.1\02_SpaceStationRecruitment.pdb
