@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj": {}
+    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj": {
+    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj",
+        "projectUniqueName": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj",
         "projectName": "03_GenericScale",
-        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj",
-        "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\obj\\",
+        "projectPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\03_GenericScale.csproj",
+        "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\03_C#_Advanced\\15_GenericsLab\\03_GenericScale\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Knightwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ksandakchiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
