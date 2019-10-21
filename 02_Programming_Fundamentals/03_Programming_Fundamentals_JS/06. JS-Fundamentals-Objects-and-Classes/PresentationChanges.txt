@@ -1,0 +1,13 @@
+#Presentation
+Slide 2  -> from "Iterate over Object Keys" to "Object iteration"
+Slide 9  -> from "Use for-in to loop through the keys:" to "Use for-in loop to iterate over the object properties by key:"
+         -> fixed the showcased example to better illustrate a for-in loop according to the javascript official documentation
+Slide 11 -> remade the slide to demonstrate a for-in loop
+Slide 24 -> solution does not work for problem "4. Convert to JSON", because of tiny syntax error. Fixed the presentation, but it would be best to fix the judge test.
+         -> expect {"name":"George","lastName":"Jones","hairColor":"Brown"}
+         -> actual {"firstName":"George","lastName":"Jones","hairColor":"Brown"}
+
+#Lab
+Page 1   -> Course Links updated.
+         -> Hints picture changed to better ilustrate a for-in loop
+Page 5   -> Syntax error fix
