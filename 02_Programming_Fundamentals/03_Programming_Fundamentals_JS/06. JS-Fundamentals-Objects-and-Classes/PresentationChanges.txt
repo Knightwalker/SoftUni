@@ -11,3 +11,15 @@ Slide 24 -> solution does not work for problem "4. Convert to JSON", because of 
 Page 1   -> Course Links updated.
          -> Hints picture changed to better ilustrate a for-in loop
 Page 5   -> Syntax error fix
+
+#Exercise
+Page 1   -> Course Links updated.
+Page 2   -> Wording
+Page 3   -> Wording
+Page 5   -> Wording
+
+(Stuff I think that needs to be checked)
+04. Movies - I think that this exercise needs to be reworked.
+- The input/output needs to demonstrate the 2 variants of the output, not just 1.
+- Also the way judge expects the output is tricky. The JSON stringified object has differently rearranged properties in the output
+05. Inventory - The name of the exercise should be renamed to better reflect a collection of heroes.
