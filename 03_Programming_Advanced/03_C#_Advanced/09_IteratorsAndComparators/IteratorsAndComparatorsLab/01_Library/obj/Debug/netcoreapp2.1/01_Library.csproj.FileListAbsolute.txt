@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\bin\Debug\netcoreapp2.1\01_Library.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\bin\Debug\netcoreapp2.1\01_Library.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\bin\Debug\netcoreapp2.1\01_Library.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\bin\Debug\netcoreapp2.1\01_Library.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\bin\Debug\netcoreapp2.1\01_Library.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\obj\Debug\netcoreapp2.1\01_Library.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\obj\Debug\netcoreapp2.1\01_Library.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\obj\Debug\netcoreapp2.1\01_Library.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\obj\Debug\netcoreapp2.1\01_Library.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\obj\Debug\netcoreapp2.1\01_Library.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\03_C#_Advanced\09_IteratorsAndComparators\IteratorsAndComparatorsLab\01_Library\obj\Debug\netcoreapp2.1\01_Library.pdb
