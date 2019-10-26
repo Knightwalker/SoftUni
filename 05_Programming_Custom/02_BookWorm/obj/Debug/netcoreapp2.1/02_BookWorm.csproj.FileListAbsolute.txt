@@ -1,0 +1,10 @@
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\bin\Debug\netcoreapp2.1\02_BookWorm.deps.json
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\bin\Debug\netcoreapp2.1\02_BookWorm.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\bin\Debug\netcoreapp2.1\02_BookWorm.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\bin\Debug\netcoreapp2.1\02_BookWorm.dll
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\bin\Debug\netcoreapp2.1\02_BookWorm.pdb
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\obj\Debug\netcoreapp2.1\02_BookWorm.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\obj\Debug\netcoreapp2.1\02_BookWorm.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\obj\Debug\netcoreapp2.1\02_BookWorm.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\obj\Debug\netcoreapp2.1\02_BookWorm.dll
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\02_BookWorm\obj\Debug\netcoreapp2.1\02_BookWorm.pdb

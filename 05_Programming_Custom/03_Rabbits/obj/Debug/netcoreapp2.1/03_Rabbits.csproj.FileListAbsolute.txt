@@ -1,0 +1,11 @@
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\bin\Debug\netcoreapp2.1\03_Rabbits.deps.json
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\bin\Debug\netcoreapp2.1\03_Rabbits.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\bin\Debug\netcoreapp2.1\03_Rabbits.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\bin\Debug\netcoreapp2.1\03_Rabbits.dll
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\bin\Debug\netcoreapp2.1\03_Rabbits.pdb
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.dll
+C:\Users\Knightwalker\Desktop\SoftUniPrivate\Exam_26_October_2019\03_Rabbits\obj\Debug\netcoreapp2.1\03_Rabbits.pdb
