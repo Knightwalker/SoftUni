@@ -1,0 +1,16 @@
+#Presentation
+No modifications, the presentation is good to go
+
+#Lab
+Page 1   -> Course Links updated.
+Page 3-6 -> Wording
+
+#Exercise
+Page 1   -> Course Links updated.
+Page 2   -> Wording, Input/Output Layout Fix
+Page 2   -> Wording, Input/Output Layout Fix
+Page 6   -> Formatting
+
+#MoreExercise
+Page 1   -> Course Links updated.
+General  -> Deleted Exercise 5 (no exercise in Judge)
