@@ -1,8 +1,0 @@
-md dira
-md dirc
-cut dirc
-cd dira
-paste
-cd ..
-md dirb
-end

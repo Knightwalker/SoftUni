@@ -1,7 +1,0 @@
-﻿silver sword, beast oil, cursed oil
-equip / silver sword
-drop / silver sword
-equip / beast oil
-equip / beast oil
-open inventory / default
-heartbeat

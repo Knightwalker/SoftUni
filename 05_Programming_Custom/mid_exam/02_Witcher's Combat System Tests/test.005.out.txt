@@ -1,6 +1,0 @@
-﻿You slayed ghoul.
-You slayed ghoul.
-You slayed ghoul.
-You've made it!
-Coins: 0
-Health: 70

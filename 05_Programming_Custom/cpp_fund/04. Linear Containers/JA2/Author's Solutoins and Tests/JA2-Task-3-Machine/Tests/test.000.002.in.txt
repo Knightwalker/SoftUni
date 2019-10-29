@@ -1,5 +1,0 @@
-1
-4
-subtract
-7
-end

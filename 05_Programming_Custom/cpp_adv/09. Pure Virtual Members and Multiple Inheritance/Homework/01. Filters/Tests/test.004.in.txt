@@ -1,2 +1,0 @@
-test.003.out 0-9 test.003.in.txt
-0-9

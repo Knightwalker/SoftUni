@@ -1,5 +1,0 @@
-create worker w
-create depot
-create marine m
-command m report
-end

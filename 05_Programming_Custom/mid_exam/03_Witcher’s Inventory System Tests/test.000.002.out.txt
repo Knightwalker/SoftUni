@@ -1,4 +1,0 @@
-﻿normal sword equipped!
-normal sword:equipped, silver sword, wolfsbane, honey
-silver sword equipped!
-normal sword:equipped, silver sword:equipped

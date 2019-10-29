@@ -1,5 +1,0 @@
-marine m reporting
----
-worker w
-depot
-marine m

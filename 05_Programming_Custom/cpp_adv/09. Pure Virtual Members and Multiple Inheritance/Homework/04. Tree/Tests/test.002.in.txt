@@ -1,3 +1,0 @@
-directory 1 b
-directory 2 a
-end

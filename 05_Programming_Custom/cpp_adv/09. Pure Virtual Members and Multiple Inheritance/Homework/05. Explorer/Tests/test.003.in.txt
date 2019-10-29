@@ -1,4 +1,0 @@
-mf b bcontents
-sc b
-mf a acontents
-end

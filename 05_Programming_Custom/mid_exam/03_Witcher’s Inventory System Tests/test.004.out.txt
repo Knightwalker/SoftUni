@@ -1,4 +1,0 @@
-﻿normal sword equipped!
-normal sword is already equipped!
-oil does not exists!
-silver sword, normal sword:equipped, beast oil, cursed oil

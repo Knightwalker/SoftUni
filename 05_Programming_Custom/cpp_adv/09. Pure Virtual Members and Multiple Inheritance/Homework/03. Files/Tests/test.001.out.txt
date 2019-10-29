@@ -1,3 +1,0 @@
-first.txt
-16
-#ifndef SECOND_H

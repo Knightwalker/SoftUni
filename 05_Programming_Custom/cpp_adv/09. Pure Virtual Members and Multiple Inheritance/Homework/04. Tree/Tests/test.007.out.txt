@@ -1,7 +1,0 @@
-[shortcuts]
---->dirb
---->dirc
---->--->dirb
-dira
---->dirc
---->--->dirb

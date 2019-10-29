@@ -1,4 +1,0 @@
-﻿normal sword equipped!
-silver sword equipped!
-silver sword:equipped, beast oil, cursed oil
-silver sword:equipped
