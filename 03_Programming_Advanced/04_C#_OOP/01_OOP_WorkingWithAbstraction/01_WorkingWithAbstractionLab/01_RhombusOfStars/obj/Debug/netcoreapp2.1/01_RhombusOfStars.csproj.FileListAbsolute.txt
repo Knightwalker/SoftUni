@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\bin\Debug\netcoreapp2.1\01_RhombusOfStars.deps.json
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\bin\Debug\netcoreapp2.1\01_RhombusOfStars.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\bin\Debug\netcoreapp2.1\01_RhombusOfStars.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\bin\Debug\netcoreapp2.1\01_RhombusOfStars.dll
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\bin\Debug\netcoreapp2.1\01_RhombusOfStars.pdb
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\obj\Debug\netcoreapp2.1\01_RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\obj\Debug\netcoreapp2.1\01_RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\obj\Debug\netcoreapp2.1\01_RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\obj\Debug\netcoreapp2.1\01_RhombusOfStars.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\obj\Debug\netcoreapp2.1\01_RhombusOfStars.dll
+C:\Users\ksandakchiev\source\repos\01_WorkingWithAbstractionLab\01_RhombusOfStars\obj\Debug\netcoreapp2.1\01_RhombusOfStars.pdb

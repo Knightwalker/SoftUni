@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_RhombusOfStars", "01_RhombusOfStars\01_RhombusOfStars.csproj", "{04C2AD8C-C10B-44C7-924F-F318D718DA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_PointInRectangle", "02_PointInRectangle\02_PointInRectangle.csproj", "{6D573091-4EAF-4FA3-8CDA-04F7DB19D660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C2AD8C-C10B-44C7-924F-F318D718DA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C2AD8C-C10B-44C7-924F-F318D718DA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C2AD8C-C10B-44C7-924F-F318D718DA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C2AD8C-C10B-44C7-924F-F318D718DA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D573091-4EAF-4FA3-8CDA-04F7DB19D660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D573091-4EAF-4FA3-8CDA-04F7DB19D660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D573091-4EAF-4FA3-8CDA-04F7DB19D660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D573091-4EAF-4FA3-8CDA-04F7DB19D660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D03B53-5183-4E70-B70B-7F918ED044E2}
+	EndGlobalSection
+EndGlobal
