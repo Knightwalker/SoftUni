@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj": {}
+    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj": {
+    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj",
+        "projectUniqueName": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj",
         "projectName": "02_PointInRectangle",
-        "projectPath": "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj",
+        "projectPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\02_PointInRectangle.csproj",
         "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\obj\\",
+        "outputPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\02_PointInRectangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj": {}
+    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj": {
+    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj",
+        "projectUniqueName": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj",
         "projectName": "01_RhombusOfStars",
-        "projectPath": "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj",
+        "projectPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\01_RhombusOfStars.csproj",
         "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksandakchiev\\source\\repos\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\obj\\",
+        "outputPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\01_OOP_WorkingWithAbstraction\\01_WorkingWithAbstractionLab\\01_RhombusOfStars\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

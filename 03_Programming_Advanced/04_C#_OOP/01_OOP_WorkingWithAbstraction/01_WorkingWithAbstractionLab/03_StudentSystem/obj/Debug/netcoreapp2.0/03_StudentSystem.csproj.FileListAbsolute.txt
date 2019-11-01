@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\bin\Debug\netcoreapp2.0\03_StudentSystem.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\bin\Debug\netcoreapp2.0\03_StudentSystem.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\bin\Debug\netcoreapp2.0\03_StudentSystem.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\bin\Debug\netcoreapp2.0\03_StudentSystem.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\bin\Debug\netcoreapp2.0\03_StudentSystem.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\obj\Debug\netcoreapp2.0\03_StudentSystem.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\obj\Debug\netcoreapp2.0\03_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\obj\Debug\netcoreapp2.0\03_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\obj\Debug\netcoreapp2.0\03_StudentSystem.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\obj\Debug\netcoreapp2.0\03_StudentSystem.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\01_WorkingWithAbstractionLab\03_StudentSystem\obj\Debug\netcoreapp2.0\03_StudentSystem.pdb
