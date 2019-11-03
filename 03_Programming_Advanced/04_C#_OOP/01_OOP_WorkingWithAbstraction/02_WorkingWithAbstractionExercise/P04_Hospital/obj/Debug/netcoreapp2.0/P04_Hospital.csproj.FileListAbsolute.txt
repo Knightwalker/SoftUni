@@ -1,0 +1,11 @@
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csproj.CoreCompileInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\01_OOP_WorkingWithAbstraction\02_WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb
