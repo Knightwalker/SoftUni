@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\02_Zoo\\02_Zoo.csproj": {}
+  },
+  "projects": {
+    "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\02_Zoo\\02_Zoo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\02_Zoo\\02_Zoo.csproj",
+        "projectName": "02_Zoo",
+        "projectPath": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\02_Zoo\\02_Zoo.csproj",
+        "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
+        "outputPath": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\02_Zoo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Knightwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

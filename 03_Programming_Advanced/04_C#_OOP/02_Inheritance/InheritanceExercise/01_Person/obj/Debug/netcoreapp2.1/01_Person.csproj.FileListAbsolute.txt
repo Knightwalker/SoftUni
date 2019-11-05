@@ -1,0 +1,11 @@
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\bin\Debug\netcoreapp2.1\01_Person.deps.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\bin\Debug\netcoreapp2.1\01_Person.runtimeconfig.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\bin\Debug\netcoreapp2.1\01_Person.runtimeconfig.dev.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\bin\Debug\netcoreapp2.1\01_Person.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\bin\Debug\netcoreapp2.1\01_Person.pdb
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\obj\Debug\netcoreapp2.1\01_Person.csprojAssemblyReference.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\obj\Debug\netcoreapp2.1\01_Person.csproj.CoreCompileInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\obj\Debug\netcoreapp2.1\01_Person.AssemblyInfoInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\obj\Debug\netcoreapp2.1\01_Person.AssemblyInfo.cs
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\obj\Debug\netcoreapp2.1\01_Person.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\01_Person\obj\Debug\netcoreapp2.1\01_Person.pdb

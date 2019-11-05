@@ -1,0 +1,10 @@
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\bin\Debug\netcoreapp2.1\02_Zoo.deps.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\bin\Debug\netcoreapp2.1\02_Zoo.runtimeconfig.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\bin\Debug\netcoreapp2.1\02_Zoo.runtimeconfig.dev.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\bin\Debug\netcoreapp2.1\02_Zoo.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\bin\Debug\netcoreapp2.1\02_Zoo.pdb
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\obj\Debug\netcoreapp2.1\02_Zoo.csproj.CoreCompileInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\obj\Debug\netcoreapp2.1\02_Zoo.AssemblyInfoInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\obj\Debug\netcoreapp2.1\02_Zoo.AssemblyInfo.cs
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\obj\Debug\netcoreapp2.1\02_Zoo.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\02_Zoo\obj\Debug\netcoreapp2.1\02_Zoo.pdb

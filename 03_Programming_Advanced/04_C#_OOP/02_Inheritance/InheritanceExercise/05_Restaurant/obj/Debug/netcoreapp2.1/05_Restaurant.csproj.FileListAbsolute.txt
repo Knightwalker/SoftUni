@@ -1,0 +1,11 @@
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.deps.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.runtimeconfig.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.runtimeconfig.dev.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.pdb
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.csprojAssemblyReference.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.csproj.CoreCompileInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.AssemblyInfoInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.AssemblyInfo.cs
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\02_Inheritance\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.pdb
