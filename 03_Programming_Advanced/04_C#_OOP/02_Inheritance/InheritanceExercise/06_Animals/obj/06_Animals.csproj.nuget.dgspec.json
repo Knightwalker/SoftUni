@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
+    "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\06_Animals\\06_Animals.csproj": {}
   },
   "projects": {
-    "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
+    "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\06_Animals\\06_Animals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
-        "projectName": "PlayersAndMonsters",
-        "projectPath": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "projectUniqueName": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\06_Animals\\06_Animals.csproj",
+        "projectName": "06_Animals",
+        "projectPath": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\06_Animals\\06_Animals.csproj",
         "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-        "outputPath": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\PlayersAndMonsters\\obj\\",
+        "outputPath": "D:\\10_Dev\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\02_Inheritance\\InheritanceExercise\\06_Animals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
