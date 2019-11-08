@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\bin\Debug\netcoreapp3.0\04_Teams.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\bin\Debug\netcoreapp3.0\04_Teams.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\bin\Debug\netcoreapp3.0\04_Teams.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\bin\Debug\netcoreapp3.0\04_Teams.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\bin\Debug\netcoreapp3.0\04_Teams.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\bin\Debug\netcoreapp3.0\04_Teams.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\obj\Debug\netcoreapp3.0\04_Teams.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\obj\Debug\netcoreapp3.0\04_Teams.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\obj\Debug\netcoreapp3.0\04_Teams.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\obj\Debug\netcoreapp3.0\04_Teams.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\04_Teams\obj\Debug\netcoreapp3.0\04_Teams.pdb

@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\bin\Debug\netcoreapp3.0\02_SalaryIncrease.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\bin\Debug\netcoreapp3.0\02_SalaryIncrease.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\bin\Debug\netcoreapp3.0\02_SalaryIncrease.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\bin\Debug\netcoreapp3.0\02_SalaryIncrease.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\bin\Debug\netcoreapp3.0\02_SalaryIncrease.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\bin\Debug\netcoreapp3.0\02_SalaryIncrease.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\obj\Debug\netcoreapp3.0\02_SalaryIncrease.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\obj\Debug\netcoreapp3.0\02_SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\obj\Debug\netcoreapp3.0\02_SalaryIncrease.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\obj\Debug\netcoreapp3.0\02_SalaryIncrease.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\02_SalaryIncrease\obj\Debug\netcoreapp3.0\02_SalaryIncrease.pdb

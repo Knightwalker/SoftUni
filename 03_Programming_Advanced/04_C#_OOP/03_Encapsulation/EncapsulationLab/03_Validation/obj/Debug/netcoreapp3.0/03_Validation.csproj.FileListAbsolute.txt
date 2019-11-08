@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\bin\Debug\netcoreapp3.0\03_Validation.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\bin\Debug\netcoreapp3.0\03_Validation.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\bin\Debug\netcoreapp3.0\03_Validation.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\bin\Debug\netcoreapp3.0\03_Validation.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\bin\Debug\netcoreapp3.0\03_Validation.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\bin\Debug\netcoreapp3.0\03_Validation.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\obj\Debug\netcoreapp3.0\03_Validation.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\obj\Debug\netcoreapp3.0\03_Validation.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\obj\Debug\netcoreapp3.0\03_Validation.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\obj\Debug\netcoreapp3.0\03_Validation.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationLab\03_Validation\obj\Debug\netcoreapp3.0\03_Validation.pdb

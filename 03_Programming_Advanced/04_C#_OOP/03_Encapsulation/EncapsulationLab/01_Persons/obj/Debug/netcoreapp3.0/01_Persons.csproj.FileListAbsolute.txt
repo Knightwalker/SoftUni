@@ -1,0 +1,10 @@
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\bin\Debug\netcoreapp3.0\01_Persons.exe
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\bin\Debug\netcoreapp3.0\01_Persons.deps.json
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\bin\Debug\netcoreapp3.0\01_Persons.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\bin\Debug\netcoreapp3.0\01_Persons.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\bin\Debug\netcoreapp3.0\01_Persons.dll
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\bin\Debug\netcoreapp3.0\01_Persons.pdb
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\obj\Debug\netcoreapp3.0\01_Persons.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\obj\Debug\netcoreapp3.0\01_Persons.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\obj\Debug\netcoreapp3.0\01_Persons.dll
+C:\Users\ksandakchiev\source\repos\EncapsulationLab\01_Persons\obj\Debug\netcoreapp3.0\01_Persons.pdb
