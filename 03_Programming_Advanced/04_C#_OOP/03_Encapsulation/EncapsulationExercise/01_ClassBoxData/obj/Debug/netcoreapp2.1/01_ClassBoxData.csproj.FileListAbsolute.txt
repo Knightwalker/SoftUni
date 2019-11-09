@@ -1,0 +1,11 @@
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp2.1\01_ClassBoxData.deps.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp2.1\01_ClassBoxData.runtimeconfig.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp2.1\01_ClassBoxData.runtimeconfig.dev.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp2.1\01_ClassBoxData.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp2.1\01_ClassBoxData.pdb
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp2.1\01_ClassBoxData.csprojAssemblyReference.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp2.1\01_ClassBoxData.csproj.CoreCompileInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp2.1\01_ClassBoxData.AssemblyInfoInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp2.1\01_ClassBoxData.AssemblyInfo.cs
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp2.1\01_ClassBoxData.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp2.1\01_ClassBoxData.pdb

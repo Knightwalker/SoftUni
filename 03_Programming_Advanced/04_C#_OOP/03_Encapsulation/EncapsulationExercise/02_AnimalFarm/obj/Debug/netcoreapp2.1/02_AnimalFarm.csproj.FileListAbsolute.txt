@@ -1,0 +1,11 @@
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\bin\Debug\netcoreapp2.1\02_AnimalFarm.deps.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\bin\Debug\netcoreapp2.1\02_AnimalFarm.runtimeconfig.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\bin\Debug\netcoreapp2.1\02_AnimalFarm.runtimeconfig.dev.json
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\bin\Debug\netcoreapp2.1\02_AnimalFarm.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\bin\Debug\netcoreapp2.1\02_AnimalFarm.pdb
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\obj\Debug\netcoreapp2.1\02_AnimalFarm.csprojAssemblyReference.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\obj\Debug\netcoreapp2.1\02_AnimalFarm.csproj.CoreCompileInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\obj\Debug\netcoreapp2.1\02_AnimalFarm.AssemblyInfoInputs.cache
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\obj\Debug\netcoreapp2.1\02_AnimalFarm.AssemblyInfo.cs
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\obj\Debug\netcoreapp2.1\02_AnimalFarm.dll
+D:\10_Dev\SoftUni\03_Programming_Advanced\04_C#_OOP\03_Encapsulation\EncapsulationExercise\02_AnimalFarm\obj\Debug\netcoreapp2.1\02_AnimalFarm.pdb
