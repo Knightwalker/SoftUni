@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\obj\Debug\netcoreapp3.0\02_Cars.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\obj\Debug\netcoreapp3.0\02_Cars.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\obj\Debug\netcoreapp3.0\02_Cars.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\bin\Debug\netcoreapp3.0\02_Cars.exe
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\bin\Debug\netcoreapp3.0\02_Cars.deps.json
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\bin\Debug\netcoreapp3.0\02_Cars.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\bin\Debug\netcoreapp3.0\02_Cars.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\bin\Debug\netcoreapp3.0\02_Cars.dll
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\bin\Debug\netcoreapp3.0\02_Cars.pdb
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\obj\Debug\netcoreapp3.0\02_Cars.dll
+C:\Users\ksandakchiev\source\repos\InterfacesAndAbstractionLab\02_Cars\obj\Debug\netcoreapp3.0\02_Cars.pdb
