@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\bin\Debug\netcoreapp3.0\04_Telephony.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\bin\Debug\netcoreapp3.0\04_Telephony.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\bin\Debug\netcoreapp3.0\04_Telephony.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\bin\Debug\netcoreapp3.0\04_Telephony.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\bin\Debug\netcoreapp3.0\04_Telephony.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\bin\Debug\netcoreapp3.0\04_Telephony.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\obj\Debug\netcoreapp3.0\04_Telephony.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\obj\Debug\netcoreapp3.0\04_Telephony.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\obj\Debug\netcoreapp3.0\04_Telephony.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\obj\Debug\netcoreapp3.0\04_Telephony.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\04_Telephony\obj\Debug\netcoreapp3.0\04_Telephony.pdb
