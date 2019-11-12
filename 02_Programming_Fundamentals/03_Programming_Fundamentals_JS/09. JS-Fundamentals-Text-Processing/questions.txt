@@ -1,0 +1,4 @@
+exercise
+
+exercise 1 - how do we replace a word only if we have exact matching?
+exercise 3 - we need to add a better example for the output (example with a dot) ...
