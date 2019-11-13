@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\bin\Debug\netcoreapp3.0\08_MilitaryElite.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\bin\Debug\netcoreapp3.0\08_MilitaryElite.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\bin\Debug\netcoreapp3.0\08_MilitaryElite.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\bin\Debug\netcoreapp3.0\08_MilitaryElite.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\bin\Debug\netcoreapp3.0\08_MilitaryElite.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\bin\Debug\netcoreapp3.0\08_MilitaryElite.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\obj\Debug\netcoreapp3.0\08_MilitaryElite.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\obj\Debug\netcoreapp3.0\08_MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\obj\Debug\netcoreapp3.0\08_MilitaryElite.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\obj\Debug\netcoreapp3.0\08_MilitaryElite.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\08_MilitaryElite\obj\Debug\netcoreapp3.0\08_MilitaryElite.pdb

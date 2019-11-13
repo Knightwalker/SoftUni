@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\bin\Debug\netcoreapp3.0\05_BorderControl.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\bin\Debug\netcoreapp3.0\05_BorderControl.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\bin\Debug\netcoreapp3.0\05_BorderControl.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\bin\Debug\netcoreapp3.0\05_BorderControl.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\bin\Debug\netcoreapp3.0\05_BorderControl.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\bin\Debug\netcoreapp3.0\05_BorderControl.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\obj\Debug\netcoreapp3.0\05_BorderControl.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\obj\Debug\netcoreapp3.0\05_BorderControl.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\obj\Debug\netcoreapp3.0\05_BorderControl.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\obj\Debug\netcoreapp3.0\05_BorderControl.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\05_BorderControl\obj\Debug\netcoreapp3.0\05_BorderControl.pdb

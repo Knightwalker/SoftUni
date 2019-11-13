@@ -8,3 +8,4 @@ C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_Inter
 C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.AssemblyInfo.cs
 C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.dll
 C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.csprojAssemblyReference.cache

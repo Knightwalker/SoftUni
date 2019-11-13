@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\bin\Debug\netcoreapp3.0\07_FoodShortage.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\bin\Debug\netcoreapp3.0\07_FoodShortage.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\bin\Debug\netcoreapp3.0\07_FoodShortage.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\bin\Debug\netcoreapp3.0\07_FoodShortage.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\bin\Debug\netcoreapp3.0\07_FoodShortage.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\bin\Debug\netcoreapp3.0\07_FoodShortage.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\obj\Debug\netcoreapp3.0\07_FoodShortage.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\obj\Debug\netcoreapp3.0\07_FoodShortage.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\obj\Debug\netcoreapp3.0\07_FoodShortage.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\obj\Debug\netcoreapp3.0\07_FoodShortage.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\04_InterfacesAndAbstraction\InterfacesAndAbstractionExercise\07_FoodShortage\obj\Debug\netcoreapp3.0\07_FoodShortage.pdb
