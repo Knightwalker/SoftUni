@@ -1,0 +1,9 @@
+﻿  Task-3-Entities.cpp
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-3-Entities\Task-3-Entities.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  Task-3-Entities.vcxproj -> C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Debug\Task-3-Entities.exe

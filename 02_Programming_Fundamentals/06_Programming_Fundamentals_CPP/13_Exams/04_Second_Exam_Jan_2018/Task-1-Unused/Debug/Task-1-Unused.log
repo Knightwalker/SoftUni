@@ -1,0 +1,4 @@
+﻿  Task-1-Unused.cpp
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-1-Unused\Task-1-Unused.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Task-1-Unused\Task-1-Unused.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  Task-1-Unused.vcxproj -> C:\Users\ksandakchiev\source\repos\Second_Exam_Jan_2018\Debug\Task-1-Unused.exe
