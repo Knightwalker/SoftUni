@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\bin\Debug\netcoreapp3.0\05_GeneratingCombinations.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\bin\Debug\netcoreapp3.0\05_GeneratingCombinations.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\bin\Debug\netcoreapp3.0\05_GeneratingCombinations.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\bin\Debug\netcoreapp3.0\05_GeneratingCombinations.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\bin\Debug\netcoreapp3.0\05_GeneratingCombinations.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\bin\Debug\netcoreapp3.0\05_GeneratingCombinations.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\obj\Debug\netcoreapp3.0\05_GeneratingCombinations.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\obj\Debug\netcoreapp3.0\05_GeneratingCombinations.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\obj\Debug\netcoreapp3.0\05_GeneratingCombinations.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\obj\Debug\netcoreapp3.0\05_GeneratingCombinations.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\05_GeneratingCombinations\obj\Debug\netcoreapp3.0\05_GeneratingCombinations.csprojAssemblyReference.cache

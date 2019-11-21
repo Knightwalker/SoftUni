@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\bin\Debug\netcoreapp3.0\02_RecursiveFactorial.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\bin\Debug\netcoreapp3.0\02_RecursiveFactorial.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\bin\Debug\netcoreapp3.0\02_RecursiveFactorial.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\bin\Debug\netcoreapp3.0\02_RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\bin\Debug\netcoreapp3.0\02_RecursiveFactorial.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\bin\Debug\netcoreapp3.0\02_RecursiveFactorial.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\obj\Debug\netcoreapp3.0\02_RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\obj\Debug\netcoreapp3.0\02_RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\obj\Debug\netcoreapp3.0\02_RecursiveFactorial.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\obj\Debug\netcoreapp3.0\02_RecursiveFactorial.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\02_RecursiveFactorial\obj\Debug\netcoreapp3.0\02_RecursiveFactorial.pdb

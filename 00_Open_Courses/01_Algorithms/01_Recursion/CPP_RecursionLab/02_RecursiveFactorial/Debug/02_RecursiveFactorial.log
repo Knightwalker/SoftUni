@@ -1,0 +1,3 @@
+﻿C:\Users\ksandakchiev\10_Dev\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\ksandakchiev\desktop\softuni\00_open_courses\01_algorithms\01_recursion\cpp_recursionlab\debug\02_recursivefactorial.exe' is denied.
+  02_RecursiveFactorial.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CPP_RecursionLab\Debug\02_RecursiveFactorial.exe'

@@ -1,0 +1,4 @@
+﻿  04_Generating01Vectors.cpp
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CPP_RecursionLab\04_Generating01Vectors\04_Generating01Vectors.cpp(22,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CPP_RecursionLab\04_Generating01Vectors\04_Generating01Vectors.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+  04_Generating01Vectors.vcxproj -> C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CPP_RecursionLab\Debug\04_Generating01Vectors.exe

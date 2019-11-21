@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\bin\Debug\netcoreapp3.0\04_Generating01Vectors.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\bin\Debug\netcoreapp3.0\04_Generating01Vectors.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\bin\Debug\netcoreapp3.0\04_Generating01Vectors.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\bin\Debug\netcoreapp3.0\04_Generating01Vectors.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\bin\Debug\netcoreapp3.0\04_Generating01Vectors.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\bin\Debug\netcoreapp3.0\04_Generating01Vectors.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\obj\Debug\netcoreapp3.0\04_Generating01Vectors.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\obj\Debug\netcoreapp3.0\04_Generating01Vectors.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\obj\Debug\netcoreapp3.0\04_Generating01Vectors.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\obj\Debug\netcoreapp3.0\04_Generating01Vectors.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\04_Generating01Vectors\obj\Debug\netcoreapp3.0\04_Generating01Vectors.pdb
