@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\bin\Debug\netcoreapp3.0\08_8QueensPuzzle.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\bin\Debug\netcoreapp3.0\08_8QueensPuzzle.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\bin\Debug\netcoreapp3.0\08_8QueensPuzzle.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\bin\Debug\netcoreapp3.0\08_8QueensPuzzle.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\bin\Debug\netcoreapp3.0\08_8QueensPuzzle.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\bin\Debug\netcoreapp3.0\08_8QueensPuzzle.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\obj\Debug\netcoreapp3.0\08_8QueensPuzzle.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\obj\Debug\netcoreapp3.0\08_8QueensPuzzle.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\obj\Debug\netcoreapp3.0\08_8QueensPuzzle.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\obj\Debug\netcoreapp3.0\08_8QueensPuzzle.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\08_8QueensPuzzle\obj\Debug\netcoreapp3.0\08_8QueensPuzzle.csprojAssemblyReference.cache

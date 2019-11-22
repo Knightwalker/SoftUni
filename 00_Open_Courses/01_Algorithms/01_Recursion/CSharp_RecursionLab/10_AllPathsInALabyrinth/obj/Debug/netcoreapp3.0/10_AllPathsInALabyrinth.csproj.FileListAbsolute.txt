@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.pdb
