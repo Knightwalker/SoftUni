@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj": {}
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj": {
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj",
+        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj",
         "projectName": "08_8QueensPuzzle",
-        "projectPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj",
-        "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\obj\\",
+        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj",
+        "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ksandakchiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Knightwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

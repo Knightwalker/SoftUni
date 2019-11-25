@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj": {}
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj": {
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj",
+        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj",
         "projectName": "03_RecursiveDrawing",
-        "projectPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj",
-        "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\obj\\",
+        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\03_RecursiveDrawing.csproj",
+        "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\03_RecursiveDrawing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ksandakchiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Knightwalker\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
