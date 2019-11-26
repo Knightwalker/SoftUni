@@ -8,3 +8,4 @@ C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.AssemblyInfo.cs
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.dll
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.csprojAssemblyReference.cache

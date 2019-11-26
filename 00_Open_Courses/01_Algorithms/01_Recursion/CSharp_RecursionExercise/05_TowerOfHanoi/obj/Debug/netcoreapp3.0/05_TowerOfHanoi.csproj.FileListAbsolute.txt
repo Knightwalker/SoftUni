@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\obj\Debug\netcoreapp3.0\05_TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\obj\Debug\netcoreapp3.0\05_TowerOfHanoi.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\bin\Debug\netcoreapp3.0\05_TowerOfHanoi.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\bin\Debug\netcoreapp3.0\05_TowerOfHanoi.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\bin\Debug\netcoreapp3.0\05_TowerOfHanoi.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\bin\Debug\netcoreapp3.0\05_TowerOfHanoi.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\bin\Debug\netcoreapp3.0\05_TowerOfHanoi.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\bin\Debug\netcoreapp3.0\05_TowerOfHanoi.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\obj\Debug\netcoreapp3.0\05_TowerOfHanoi.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\obj\Debug\netcoreapp3.0\05_TowerOfHanoi.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionExercise\05_TowerOfHanoi\obj\Debug\netcoreapp3.0\05_TowerOfHanoi.csprojAssemblyReference.cache

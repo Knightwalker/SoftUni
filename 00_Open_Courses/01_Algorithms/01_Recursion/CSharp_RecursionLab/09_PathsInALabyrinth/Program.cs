@@ -28,7 +28,7 @@ namespace _09_PathsInALabyrinth
             {
                 return; // Index is outside the boundaries of the array
             }
-
+         
             if (labyrinth[y][x] == "*")
             {
                 return; // We hit the wall, return and backtrack
