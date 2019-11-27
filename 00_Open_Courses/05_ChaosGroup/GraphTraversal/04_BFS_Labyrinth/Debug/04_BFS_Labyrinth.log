@@ -1,2 +1,5 @@
 ﻿  04_BFS_Labyrinth.cpp
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\05_ChaosGroup\GraphTraversal\04_BFS_Labyrinth\04_BFS_Labyrinth.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\05_ChaosGroup\GraphTraversal\04_BFS_Labyrinth\04_BFS_Labyrinth.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\05_ChaosGroup\GraphTraversal\04_BFS_Labyrinth\04_BFS_Labyrinth.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
   04_BFS_Labyrinth.vcxproj -> C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\05_ChaosGroup\GraphTraversal\Debug\04_BFS_Labyrinth.exe
