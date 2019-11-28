@@ -54,6 +54,18 @@ private:
 
 		this->maze[y][x] = '.'; // mark the visited cell
 
+		for (int i = 0; i < 14; i++)
+		{
+			for (int j = 0; j < 14; j++)
+			{
+				cout << maze[i][j] << " ";
+			}
+			cout << endl;
+		}
+		cout << endl;
+		cout << endl;
+		std::this_thread::sleep_for(std::chrono::milliseconds(500));
+
 		this->_findExit(y - 1, x); // check up
 		this->_findExit(y, x - 1); // check left
 		this->_findExit(y, x + 1); // check right
