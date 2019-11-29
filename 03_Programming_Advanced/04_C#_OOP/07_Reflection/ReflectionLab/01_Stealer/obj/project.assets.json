@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksandakchiev\\source\\repos\\ReflectionLab\\01_Stealer\\01_Stealer.csproj",
+      "projectUniqueName": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\07_Reflection\\ReflectionLab\\01_Stealer\\01_Stealer.csproj",
       "projectName": "01_Stealer",
-      "projectPath": "C:\\Users\\ksandakchiev\\source\\repos\\ReflectionLab\\01_Stealer\\01_Stealer.csproj",
+      "projectPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\07_Reflection\\ReflectionLab\\01_Stealer\\01_Stealer.csproj",
       "packagesPath": "C:\\Users\\ksandakchiev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksandakchiev\\source\\repos\\ReflectionLab\\01_Stealer\\obj\\",
+      "outputPath": "C:\\Users\\ksandakchiev\\Desktop\\SoftUni\\03_Programming_Advanced\\04_C#_OOP\\07_Reflection\\ReflectionLab\\01_Stealer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

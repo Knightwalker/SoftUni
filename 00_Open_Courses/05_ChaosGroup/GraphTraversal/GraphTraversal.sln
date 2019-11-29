@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_DFS_Labyrinth", "01_DFS_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_BFS_Labyrinth", "04_BFS_Labyrinth\04_BFS_Labyrinth.vcxproj", "{B764D0CD-7964-4F3F-B858-7E37B1874278}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{2F9B35D9-B097-45A1-88E6-36B572860697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B764D0CD-7964-4F3F-B858-7E37B1874278}.Release|x64.Build.0 = Release|x64
 		{B764D0CD-7964-4F3F-B858-7E37B1874278}.Release|x86.ActiveCfg = Release|Win32
 		{B764D0CD-7964-4F3F-B858-7E37B1874278}.Release|x86.Build.0 = Release|Win32
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Debug|x64.ActiveCfg = Debug|x64
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Debug|x64.Build.0 = Debug|x64
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Debug|x86.Build.0 = Debug|Win32
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Release|x64.ActiveCfg = Release|x64
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Release|x64.Build.0 = Release|x64
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Release|x86.ActiveCfg = Release|Win32
+		{2F9B35D9-B097-45A1-88E6-36B572860697}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

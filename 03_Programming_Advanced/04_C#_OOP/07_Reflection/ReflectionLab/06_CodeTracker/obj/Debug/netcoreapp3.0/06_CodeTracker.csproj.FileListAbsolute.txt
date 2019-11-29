@@ -1,0 +1,10 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\bin\Debug\netcoreapp3.0\06_CodeTracker.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\bin\Debug\netcoreapp3.0\06_CodeTracker.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\bin\Debug\netcoreapp3.0\06_CodeTracker.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\bin\Debug\netcoreapp3.0\06_CodeTracker.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\bin\Debug\netcoreapp3.0\06_CodeTracker.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\bin\Debug\netcoreapp3.0\06_CodeTracker.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\obj\Debug\netcoreapp3.0\06_CodeTracker.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\obj\Debug\netcoreapp3.0\06_CodeTracker.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\obj\Debug\netcoreapp3.0\06_CodeTracker.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\06_CodeTracker\obj\Debug\netcoreapp3.0\06_CodeTracker.pdb

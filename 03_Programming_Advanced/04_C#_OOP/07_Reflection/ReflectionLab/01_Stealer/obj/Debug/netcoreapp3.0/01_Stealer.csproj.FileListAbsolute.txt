@@ -9,3 +9,14 @@ C:\Users\ksandakchiev\source\repos\ReflectionLab\01_Stealer\obj\Debug\netcoreapp
 C:\Users\ksandakchiev\source\repos\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.AssemblyInfo.cs
 C:\Users\ksandakchiev\source\repos\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.dll
 C:\Users\ksandakchiev\source\repos\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\bin\Debug\netcoreapp3.0\01_Stealer.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\bin\Debug\netcoreapp3.0\01_Stealer.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\bin\Debug\netcoreapp3.0\01_Stealer.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\bin\Debug\netcoreapp3.0\01_Stealer.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\bin\Debug\netcoreapp3.0\01_Stealer.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\bin\Debug\netcoreapp3.0\01_Stealer.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\01_Stealer\obj\Debug\netcoreapp3.0\01_Stealer.pdb

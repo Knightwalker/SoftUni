@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\bin\Debug\netcoreapp3.0\02_HighQualityMistakes.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\bin\Debug\netcoreapp3.0\02_HighQualityMistakes.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\bin\Debug\netcoreapp3.0\02_HighQualityMistakes.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\bin\Debug\netcoreapp3.0\02_HighQualityMistakes.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\bin\Debug\netcoreapp3.0\02_HighQualityMistakes.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\bin\Debug\netcoreapp3.0\02_HighQualityMistakes.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\obj\Debug\netcoreapp3.0\02_HighQualityMistakes.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\obj\Debug\netcoreapp3.0\02_HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\obj\Debug\netcoreapp3.0\02_HighQualityMistakes.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\obj\Debug\netcoreapp3.0\02_HighQualityMistakes.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\02_HighQualityMistakes\obj\Debug\netcoreapp3.0\02_HighQualityMistakes.pdb

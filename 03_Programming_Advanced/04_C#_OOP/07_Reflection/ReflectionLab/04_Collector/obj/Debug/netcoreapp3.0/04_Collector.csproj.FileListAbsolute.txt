@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\obj\Debug\netcoreapp3.0\04_Collector.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\obj\Debug\netcoreapp3.0\04_Collector.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\obj\Debug\netcoreapp3.0\04_Collector.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\bin\Debug\netcoreapp3.0\04_Collector.exe
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\bin\Debug\netcoreapp3.0\04_Collector.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\bin\Debug\netcoreapp3.0\04_Collector.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\bin\Debug\netcoreapp3.0\04_Collector.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\bin\Debug\netcoreapp3.0\04_Collector.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\bin\Debug\netcoreapp3.0\04_Collector.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\obj\Debug\netcoreapp3.0\04_Collector.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\07_Reflection\ReflectionLab\04_Collector\obj\Debug\netcoreapp3.0\04_Collector.pdb
