@@ -4,7 +4,7 @@ function TownsToJSON(arr) {
 
   for (let line of arr.splice(1)) {
     let tokens = line.split(regex);
-    let townObj = { Town: tokens[1], Latitude: Number(tokens[2]), Longitude: Number(tokens[3]) };
+    let townObj = { Town: tokens[1], Latitude: Number(Number(tokens[2]).toFixed(2)), Longitude: Number(Number(tokens[3]).toFixed(2)) };
     towns.push(townObj);
   }
   
