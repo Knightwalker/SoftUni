@@ -10,7 +10,7 @@ private:
 
 	char maze[14][14]{
 		{'*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*'},
-		{'*', 's', ' ', ' ', ' ', ' ', ' ', '*', ' ', ' ', ' ', '*', ' ', '*'},
+		{'*', 's', ' ', ' ', ' ', ' ', ' ', '*', ' ', ' ', ' ', '*', ' ', 'e'},
 		{'*', ' ', '*', '*', '*', '*', ' ', '*', ' ', '*', ' ', ' ', ' ', '*'},
 		{'*', ' ', '*', ' ', ' ', '*', ' ', '*', ' ', '*', ' ', '*', ' ', '*'},
 		{'*', ' ', '*', ' ', '*', '*', '*', '*', ' ', '*', ' ', '*', '*', '*'},
@@ -22,11 +22,27 @@ private:
 		{'*', ' ', '*', ' ', ' ', ' ', '*', '*', ' ', '*', ' ', ' ', ' ', '*'},
 		{'*', ' ', '*', ' ', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*'},
 		{'*', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '*'},
-		{'*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', 'e', '*'}
+		{'*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*'}
 	};
-
 	int steps = 0;
 
+	bool _hasPath(int y, int x) {
+		if (this->maze[y][x] == '*') {
+			return false; // there is a wall, no path ahead
+		}
+
+		if (this->maze[y][x] == '.') {
+			return false; // we have been here already, escape endless loop
+		}
+
+		if (this->maze[y][x] == 's') {
+			return false; // we have been here already, escape endless loop
+		}
+
+		return true;
+
+	}
+	
 	void _findExit(int y, int x) {
 
 		if (this->maze[y][x] == '*') {
@@ -48,6 +64,7 @@ private:
 				cout << endl;
 			}
 			cout << endl;
+			cout << steps << endl;
 
 			return;
 		}
@@ -64,7 +81,8 @@ private:
 		}
 		cout << endl;
 		cout << endl;
-		std::this_thread::sleep_for(std::chrono::milliseconds(500));
+		std::this_thread::sleep_for(std::chrono::milliseconds(200));
+		steps++;
 
 		this->_findExit(y - 1, x); // check up
 		this->_findExit(y, x - 1); // check left
@@ -72,12 +90,12 @@ private:
 		this->_findExit(y + 1, x); // check down
 
 		this->maze[y][x] = ' '; // backtrack happens here
-
+		steps--;
 	}
 
 public:
 
-	void findExit() {
+	void calculate() {
 		this->_findExit(1, 1);
 	}
 
@@ -86,6 +104,6 @@ public:
 int main()
 {
 	Labyrinth labyrinth;
-	labyrinth.findExit();
+	labyrinth.calculate();
 
 }
