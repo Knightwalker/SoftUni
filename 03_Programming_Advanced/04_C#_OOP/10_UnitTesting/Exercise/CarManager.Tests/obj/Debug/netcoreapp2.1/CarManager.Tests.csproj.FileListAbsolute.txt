@@ -1,0 +1,16 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete

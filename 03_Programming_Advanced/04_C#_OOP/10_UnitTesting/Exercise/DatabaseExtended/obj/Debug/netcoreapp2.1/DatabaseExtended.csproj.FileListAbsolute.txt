@@ -1,0 +1,8 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

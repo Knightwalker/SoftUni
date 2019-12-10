@@ -1,0 +1,8 @@
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\bin\Debug\netcoreapp2.1\CarManager.deps.json
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.dll
+C:\Users\ksandakchiev\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\CarManager\obj\Debug\netcoreapp2.1\CarManager.pdb
