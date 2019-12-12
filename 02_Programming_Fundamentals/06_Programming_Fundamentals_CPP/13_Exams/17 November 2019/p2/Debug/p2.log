@@ -1,0 +1,5 @@
+﻿  p2.cpp
+C:\Users\ksandakchiev\Desktop\examcpp\p2\p2.cpp(23,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ksandakchiev\Desktop\examcpp\p2\p2.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ksandakchiev\Desktop\examcpp\p2\p2.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+  p2.vcxproj -> C:\Users\ksandakchiev\Desktop\examcpp\Debug\p2.exe
