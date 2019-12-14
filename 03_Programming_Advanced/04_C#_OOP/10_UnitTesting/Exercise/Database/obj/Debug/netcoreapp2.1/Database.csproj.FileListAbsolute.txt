@@ -1,0 +1,8 @@
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\10_UnitTesting\Exercise\Database\obj\Debug\netcoreapp2.1\Database.pdb

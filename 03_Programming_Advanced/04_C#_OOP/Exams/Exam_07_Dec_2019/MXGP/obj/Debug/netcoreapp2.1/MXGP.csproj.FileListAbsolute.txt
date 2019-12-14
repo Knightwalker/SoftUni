@@ -1,0 +1,10 @@
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+C:\Users\Knightwalker\Desktop\SoftUni\03_Programming_Advanced\04_C#_OOP\Exams\Exam_07_Dec_2019\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb
