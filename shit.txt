@@ -9,13 +9,8 @@ File > Preferences > Settings
 "terminal.integrated.shell.windows": "D:\\10_Dev\\Git\\bin\\bash.exe",
 "terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
 
-
 Windows Explorer file context menu
 Windows Explorer directory context menu
-
-
-https://www.youtube.com/watch?v=8vjtnljMl5I&feature=youtu.be
-
 
 #include <iostream>
 #include <vector>
@@ -34,4 +29,5 @@ int main()
 	}
 }
 
-https://www.youtube.com/watch?v=YkA8KKND1Ds&feature=youtu.be
+
+https://github.com/minimaxir/big-list-of-naughty-strings

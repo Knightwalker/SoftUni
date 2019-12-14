@@ -1,0 +1,3 @@
+﻿  p1.cpp
+C:\Users\ksandakchiev\Desktop\examcpp\p1\p1.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\Users\ksandakchiev\Desktop\examcpp\Debug\p1.exe for writing

@@ -5,6 +5,7 @@ namespace CarManager
     public class Car
     {
         private string make;
+<<<<<<< HEAD
 
         private string model;
 
@@ -12,6 +13,11 @@ namespace CarManager
 
         private double fuelAmount;
 
+=======
+        private string model;
+        private double fuelConsumption;
+        private double fuelAmount;
+>>>>>>> ab425f21a07b99f645b4721fb877177e2a5a0111
         private double fuelCapacity;
 
         private Car()

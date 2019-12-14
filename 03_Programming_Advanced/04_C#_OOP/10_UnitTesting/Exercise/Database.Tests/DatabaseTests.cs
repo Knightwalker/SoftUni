@@ -1,3 +1,4 @@
+//using DB;
 using System;
 using NUnit.Framework;
 
@@ -6,71 +7,74 @@ namespace Tests
     public class DatabaseTests
     {
         private Database database;
-        private readonly int[] initialData = new int[] { 1, 2 };
 
         [SetUp]
         public void Setup()
         {
-            database = new Database(initialData);
+            this.database = new Database(new int[] { 1, 2 });
         }
 
         [Test]
-        public void TestCollectionLength()
+        public void TestConstructor1()
         {
-            int expectedLength = 2;
-
-            Assert.That(database.Count, Is.EqualTo(expectedLength));
+            int expectedCount = 2;
+            int actualCount = database.Count;
+            Assert.AreEqual(expectedCount, actualCount);
         }
 
         [Test]
-        public void TestCorrectAddintToData()
+        public void TestMethodAdd1()
         {
+            this.database.Add(3);
+
             int expectedCount = 3;
-
-            database.Add(3);
-
-            Assert.That(database.Count, Is.EqualTo(expectedCount));
+            int actualCount = database.Count;
+            Assert.AreEqual(expectedCount, actualCount);
         }
 
         [Test]
-        public void TestCorrectThrowingExceptionAtAdding()
+        public void TestMethodAdd2()
         {
-            int magicNumber = 16;
-
-            for (int i = database.Count; i < 16; i++)
+            for (int i = 3; i <= 16; i++)
             {
-                database.Add(magicNumber);
+                this.database.Add(i);
             }
 
-            Assert.Throws<InvalidOperationException>(() => database.Add(magicNumber));
+            Assert.Throws<InvalidOperationException>(() => {
+                this.database.Add(17);
+            });
         }
 
         [Test]
-        public void TestCorrectRemoveFromCollection()
+        public void TestMethodRemove1()
         {
+            this.database.Remove();
+
             int expectedCount = 1;
-
-            database.Remove();
-
-            Assert.AreEqual(expectedCount, database.Count);
+            int actualCount = database.Count;
+            Assert.AreEqual(expectedCount, actualCount);
         }
 
         [Test]
-        public void TestRemovingFromEmptyCollection()
+        public void TestMethodRemove2()
         {
-            for (int i = database.Count - 1; i >= 0; i--)
-            {
-                database.Remove();
-            }
+            this.database.Remove();
+            this.database.Remove();
 
-            Assert.Throws<InvalidOperationException>(() => database.Remove());
+            Assert.Throws<InvalidOperationException>(() => {
+                this.database.Remove();
+            });
         }
 
         [Test]
-        public void TestFetchDatabaseFunction()
+        public void TestFetchMethod1()
         {
-            int[] actualResult = database.Fetch();
-            CollectionAssert.AreEqual(initialData, actualResult);
+            var expectedCollection = new int[] { 1, 2 };
+            var actualCollection = this.database.Fetch();
+
+            CollectionAssert.AreEqual(expectedCollection, actualCollection);
+
         }
+
     }
 }

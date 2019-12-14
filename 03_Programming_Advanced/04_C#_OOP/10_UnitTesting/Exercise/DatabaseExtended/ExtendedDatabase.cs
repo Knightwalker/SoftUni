@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Linq;
 
+<<<<<<< HEAD
 namespace ExtendedDatabase
+=======
+namespace DB
+>>>>>>> ab425f21a07b99f645b4721fb877177e2a5a0111
 {
     public class ExtendedDatabase
     {
@@ -83,7 +87,10 @@ namespace ExtendedDatabase
             return person;
         }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ab425f21a07b99f645b4721fb877177e2a5a0111
         public Person FindById(long id)
         {
             if (id < 0)

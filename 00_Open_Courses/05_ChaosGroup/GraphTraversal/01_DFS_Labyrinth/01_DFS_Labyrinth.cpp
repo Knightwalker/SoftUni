@@ -47,20 +47,8 @@ private:
 			return false; // we have been here already, escape endless loop
 		}
 
-		if (this->maze[y][x] == 'e') {
-			
-			for (int i = 0; i < 14; i++)
-			{
-				for (int j = 0; j < 14; j++)
-				{
-					cout << maze[i][j] << " ";
-				}
-				cout << endl;
-			}
-			cout << endl;
-			
+		if (this->maze[y][x] == 'e') {					
 			this->pathsDict[this->steps] = this->pathVect; // save the current exit and the number of steps it takes to reach it
-			
 			return false; // search for more exits
 		}
 
@@ -103,7 +91,8 @@ private:
 	void _drawShortestExit() {
 
 		vector<Point> shortestPath = this->pathsDict.begin()->second;
-		for (int i = shortestPath.size() - 1; i >= 0; i--) {
+		this->maze[shortestPath[0].y][shortestPath[0].x] = 's';
+		for (int i = shortestPath.size() - 1; i >= 1; i--) {
 			int y = shortestPath[i].y;
 			int x = shortestPath[i].x;
 			this->maze[y][x] = '#';
@@ -117,14 +106,13 @@ private:
 				cout << endl;
 			}
 			cout << endl;
-			cout << endl;
 			std::this_thread::sleep_for(std::chrono::milliseconds(200));
 		}
-		
+
 	}
 
 public:
-	void calculate() {
+	void findExit() {
 		this->_findExit(1, 1);
 		this->_drawShortestExit();
 	}
@@ -134,6 +122,6 @@ public:
 int main()
 {
 	Labyrinth labyrinth;
-	labyrinth.calculate();
+	labyrinth.findExit();
 
 }

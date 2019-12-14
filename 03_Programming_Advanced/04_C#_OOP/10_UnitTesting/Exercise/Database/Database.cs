@@ -1,6 +1,10 @@
 ﻿using System;
 
+<<<<<<< HEAD
 namespace Database
+=======
+namespace DB
+>>>>>>> ab425f21a07b99f645b4721fb877177e2a5a0111
 {
     public class Database
     {

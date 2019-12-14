@@ -1,121 +1,240 @@
 //using CarManager;
-using NUnit.Framework;
 using System;
+using NUnit.Framework;
 
 namespace Tests
 {
     public class CarTests
     {
-        private Car car;
-
         [SetUp]
         public void Setup()
         {
-            car = new Car("Audi", "A4", 15, 300);
         }
 
         [Test]
-        public void TestIfConstructorWorksCorrectly()
+        public void TestConstructor()
         {
-            Assert.IsNotNull(this.car);
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+            Assert.AreEqual(make, car.Make);
+            Assert.AreEqual(model, car.Model);
+            Assert.AreEqual(fuelConsumption, car.FuelConsumption);
+            Assert.AreEqual(fuelCapacity, car.FuelCapacity);
         }
 
+        // [Test]
+        // public void testPropMake()
+        // {
+        //     string make = "";
+        //     string model = "Golf";
+        //     double fuelConsumption = 2;
+        //     double fuelCapacity = 100;
+        // 
+        //     Assert.Throws<ArgumentException>(() =>
+        //     {
+        //         Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+        //     });
+        // }
+        // 
+        // [Test]
+        // public void testPropModel()
+        // {
+        //     string make = "VW";
+        //     string model = "";
+        //     double fuelConsumption = 2;
+        //     double fuelCapacity = 100;
+        // 
+        //     Assert.Throws<ArgumentException>(() =>
+        //     {
+        //         Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+        //     });
+        // }
+        // 
+        // [Test]
+        // public void testPropFuelConsumption()
+        // {
+        //     string make = "VW";
+        //     string model = "Golf";
+        //     double fuelConsumption = 0;
+        //     double fuelCapacity = 100;
+        // 
+        //     Assert.Throws<ArgumentException>(() =>
+        //     {
+        //         Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+        //     });
+        // }
+        // 
+        // [Test]
+        // public void testPropFuelConsumption2()
+        // {
+        //     string make = "VW";
+        //     string model = "Golf";
+        //     double fuelConsumption = -100;
+        //     double fuelCapacity = 100;
+        // 
+        //     Assert.Throws<ArgumentException>(() =>
+        //     {
+        //         Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+        //     });
+        // }
+        // 
+        // [Test]
+        // public void testPropFuelCapacity()
+        // {
+        //     string make = "VW";
+        //     string model = "Golf";
+        //     double fuelConsumption = 2;
+        //     double fuelCapacity = 0;
+        // 
+        //     Assert.Throws<ArgumentException>(() =>
+        //     {
+        //         Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+        //     });
+        // }
+        // 
+        // [Test]
+        // public void testPropFuelCapacity2()
+        // {
+        //     string make = "VW";
+        //     string model = "Golf";
+        //     double fuelConsumption = 2;
+        //     double fuelCapacity = -100;
+        // 
+        //     Assert.Throws<ArgumentException>(() =>
+        //     {
+        //         Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+        //     });
+        // }
+
         [Test]
-        public void TestMakeValidation()
+        [TestCase("", "Golf", 2, 100)]
+        [TestCase("VW", "", 2, 100)]
+        [TestCase("VW", "Golf", 0, 100)]
+        [TestCase("VW", "Golf", -100, 100)]
+        [TestCase("VW", "Golf", 2, 0)]
+        [TestCase("VW", "Golf", 2, -100)]
+        public void testAllPropertiesWithInvalidData(string make, string model, double fuelConsumption, double fuelCapacity)
         {
             Assert.Throws<ArgumentException>(() =>
             {
-                Car newCar = new Car(null, "A4", 15, 300);
+                Car car = new Car(make, model, fuelConsumption, fuelCapacity);
             });
         }
 
         [Test]
-        public void TestModelValidation()
+        public void testMethodRefuel()
         {
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+
             Assert.Throws<ArgumentException>(() =>
             {
-                Car newCar = new Car("Audi", null, 15, 300);
+                car.Refuel(-20);
+            }); 
+        }
+
+        [Test]
+        public void testMethodRefuel2()
+        {
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+
+            Assert.Throws<ArgumentException>(() =>
+            {
+                car.Refuel(0);
             });
         }
 
         [Test]
-        public void TestFuelConsumptionValidation()
+        public void testMethodRefuel3()
         {
-            Assert.Throws<ArgumentException>(() =>
-            {
-                Car newCar = new Car("Audi", "A4", -3, 300);
-            });
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+            car.Refuel(10);
+
+            int expected = 10;
+            double actual = car.FuelAmount;
+            Assert.AreEqual(expected, actual);
         }
 
         [Test]
-        public void TestFuelCapacityValidation()
+        public void testMethodRefuel4()
         {
-            Assert.Throws<ArgumentException>(() =>
-            {
-                Car newCar = new Car("Audi", "A4", 15, 0);
-            });
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+            car.Refuel(200);
+
+            double expected = 100.0;
+            double actual = car.FuelAmount;
+            Assert.AreEqual(expected, actual);
         }
 
         [Test]
-        public void TestFuelAmount()
+        public void testMethodDrive()
         {
-            Assert.AreEqual(0, this.car.FuelAmount);
-        }
-
-        [Test]
-        public void TestRefuelingCorrectly()
-        {
-            this.car.Refuel(15);
-            int expectedFuel = 15;
-
-            Assert.AreEqual(expectedFuel, this.car.FuelAmount);
-        }
-
-        [Test]
-        public void TestIfFuelToRefuelIsNegativeNumber()
-        {
-            Assert.Throws<ArgumentException>(() =>
-            {
-                this.car.Refuel(-3);
-            });
-        }
-
-        [Test]
-        public void TestIfRefuelMoreThanCapacity()
-        {
-            this.car.Refuel(350);
-            int expectedFuel = 300;
-
-            Assert.AreEqual(expectedFuel, this.car.FuelAmount);
-        }
-
-        [Test]
-        public void TestDrivingCorrectly()
-        {
-            this.car.Refuel(10);
-            this.car.Drive(10);
-            double expectedFuel = 8.5;
-
-            Assert.AreEqual(expectedFuel, this.car.FuelAmount);
-        }
-
-        [Test]
-        public void TestDrivingTooMuchDistance()
-        {
-            this.car.Refuel(1);
-
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+            
+            car.Refuel(10);
             Assert.Throws<InvalidOperationException>(() =>
             {
-                this.car.Drive(10);
+                car.Drive(1000);
             });
+
+            //var ex = Assert.Throws<InvalidOperationException>(() => db.Add(person1));
+            //Assert.That(ex.Message, Is.EqualTo("Array's capacity must be exactly 16 integers!"));
+
         }
+
         [Test]
-        public void TestRefuelWithZero()
+        public void testMethodDrive2()
         {
-            Assert.Throws<ArgumentException>(() =>
-            {
-                this.car.Refuel(0);
-            });
+            string make = "VW";
+            string model = "Golf";
+            double fuelConsumption = 2;
+            double fuelCapacity = 100;
+            Car car = new Car(make, model, fuelConsumption, fuelCapacity);
+
+            car.Refuel(10);
+            car.Drive(100);
+
+            double expected = 8.0;
+            double actual = car.FuelAmount;
+            Assert.AreEqual(expected, actual);
         }
+
+
+
+        // public void Drive(double distance)
+        // {
+        //     double fuelNeeded = (distance / 100) * this.FuelConsumption;
+        //
+        //     if (fuelNeeded > this.FuelAmount)
+        //     {
+        //         throw new InvalidOperationException("You don't have enough fuel to drive!");
+        //     }
+        //
+        //     this.FuelAmount -= fuelNeeded;
+        // }
+
     }
 }
