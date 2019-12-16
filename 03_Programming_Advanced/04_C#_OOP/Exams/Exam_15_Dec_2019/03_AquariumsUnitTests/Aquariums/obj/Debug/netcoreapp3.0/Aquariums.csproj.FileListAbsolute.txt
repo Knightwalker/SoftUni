@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\ksandakchiev\Desktop\zada4a3\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
