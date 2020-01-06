@@ -1,0 +1,11 @@
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\bin\Debug\netcoreapp3.0\01_Digitivision.exe
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\bin\Debug\netcoreapp3.0\01_Digitivision.deps.json
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\bin\Debug\netcoreapp3.0\01_Digitivision.runtimeconfig.json
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\bin\Debug\netcoreapp3.0\01_Digitivision.runtimeconfig.dev.json
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\bin\Debug\netcoreapp3.0\01_Digitivision.dll
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\bin\Debug\netcoreapp3.0\01_Digitivision.pdb
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\obj\Debug\netcoreapp3.0\01_Digitivision.csprojAssemblyReference.cache
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\obj\Debug\netcoreapp3.0\01_Digitivision.AssemblyInfoInputs.cache
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\obj\Debug\netcoreapp3.0\01_Digitivision.AssemblyInfo.cs
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\obj\Debug\netcoreapp3.0\01_Digitivision.dll
+C:\Users\ksandakchiev\source\repos\Softuniada2019\01_Digitivision\obj\Debug\netcoreapp3.0\01_Digitivision.pdb
