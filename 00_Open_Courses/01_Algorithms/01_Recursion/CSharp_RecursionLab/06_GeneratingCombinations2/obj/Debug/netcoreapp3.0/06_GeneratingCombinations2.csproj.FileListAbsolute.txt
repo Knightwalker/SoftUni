@@ -8,3 +8,4 @@ C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\06_GeneratingCombinations2\bin\Debug\netcoreapp3.0\06_GeneratingCombinations2.pdb
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\06_GeneratingCombinations2\obj\Debug\netcoreapp3.0\06_GeneratingCombinations2.dll
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\06_GeneratingCombinations2\obj\Debug\netcoreapp3.0\06_GeneratingCombinations2.pdb
+C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\06_GeneratingCombinations2\obj\Debug\netcoreapp3.0\06_GeneratingCombinations2.csprojAssemblyReference.cache
