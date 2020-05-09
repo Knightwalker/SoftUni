@@ -1,69 +1,52 @@
 function attachEvents() {
-    let loadButton = document.getElementById("btnLoad");
-    let phoneBook = document.getElementById("phonebook");
- 
-    loadButton.addEventListener("click", function () {
-        reloadData();
-    });
- 
-    let createButton = document.getElementById("btnCreate");
-    let personInput = document.getElementById("person");
-    let phoneInput = document.getElementById("phone");
- 
-    createButton.addEventListener("click", function () {
-        let person = personInput.value;
-        let phone = phoneInput.value;
- 
-        let data = {
-            person,
-            phone
-        };
- 
-        fetch("https://phonebook-nakov.firebaseio.com/phonebook.json", {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(data),
-        })
-            .then(x => x.json())
-            .then(x => {
-                reloadData();
-            });
-    });
-   
-    function reloadData() {
-        phoneBook.innerHTML = "";
-        fetch("https://phonebook-nakov.firebaseio.com/phonebook.json")
-        .then(x => x.json())
-            .then(x => {
-                if (x) {
-                    for (const key of Object.keys(x)) {
-                        let person = x[key];
-                        let name = person.person;
-                        let phone = person.phone;
-                        let li = document.createElement("li");
-                        li.textContent = `${name}: ${phone}`;
-                        let button = document.createElement("button");
-                        button.textContent = "Delete";
-                        button.className = "button";
-                        button.addEventListener("click", () => deleteFunction(key))
-                        li.appendChild(button);
-                        phoneBook.appendChild(li);
-                    }
+    let loadBtn = document.getElementById('btnLoad');
+    let createBtn = document.getElementById('btnCreate');
+    let phonebookUl = document.getElementById('phonebook');
+
+    loadBtn.addEventListener('click', function() {
+        phonebookUl.innerHTML = '';
+        let xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function() {
+            if(xhr.readyState == 4 && xhr.status == 200) {
+                let data = JSON.parse(xhr.responseText);
+                for (const key in data) {
+                    let li = document.createElement('li');
+                    let btnDelete = document.createElement('button');
+                    btnDelete.textContent = "Delete";
+                    btnDelete.addEventListener('click', function() {
+                        let delXhr = new XMLHttpRequest();
+                        delXhr.open("DELETE", `https://phonebook-nakov.firebaseio.com/phonebook/${key}.json`);
+                        delXhr.send();
+                    });
+                    li.innerHTML = `${data[key].person}: ${data[key].phone} `;
+                    li.appendChild(btnDelete);
+                    phonebookUl.appendChild(li);
                 }
-        });
-    }
- 
-    function deleteFunction(key) {
-        fetch(`https://phonebook-nakov.firebaseio.com/phonebook/${key}.json`, {
-            method: 'DELETE',
-        })
-            .then(x => x.json())
-            .then(x => {
-                reloadData();
-            });
-    }
+            }
+        };
+        xhr.open("GET", 'https://phonebook-nakov.firebaseio.com/phonebook.json');
+        xhr.send();
+    });
+
+    createBtn.addEventListener('click', function() {
+        let personData = document.getElementById('person');
+        let phoneData = document.getElementById('phone');
+        let objForPostRequest = {
+            "person": personData.value,
+            "phone": phoneData.value
+        };
+
+        let xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function() {
+
+        };
+        xhr.open("POST", 'https://phonebook-nakov.firebaseio.com/phonebook.json');
+        xhr.send(JSON.stringify(objForPostRequest));
+
+        personData.value = '';
+        phoneData.value = '';
+        loadBtn.click();
+    });
 }
- 
+
 attachEvents();

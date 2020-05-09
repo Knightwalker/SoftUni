@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace _01_RecursiveArraySum
 {
@@ -7,10 +6,9 @@ namespace _01_RecursiveArraySum
     {
         static void Main(string[] args)
         {
-            int[] numbersArr = Console.ReadLine().Split().Select(x => int.Parse(x)).ToArray();
-
+            int[] numbersArr = new[] { 1, 2, 3, 4, 5 };
             int sum = Sum(numbersArr, 0);
-            Console.WriteLine(sum);
+            Console.WriteLine(sum); // 15
         }
 
         static int Sum(int[] arr, int index)
@@ -19,7 +17,7 @@ namespace _01_RecursiveArraySum
             {
                 return 0;
             }
-
+        
             return arr[index] + Sum(arr, index + 1);
         }
 

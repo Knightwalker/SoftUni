@@ -1,15 +1,18 @@
-function solve(fn, ln) {
-
-  let firstName = fn;
-  let lastName = ln;
-
+function Person(first, last) {
+  this.firstName = first;
+  this.lastName = last;
+  Object.defineProperty(this, "fullName", {
+      set: function(value) {
+        let data = value.split(" ");
+        
+        if(data[1] != undefined) {
+          this.firstName = data[0];
+          this.lastName = data[1];
+        }
+      },
+      get: function() { 
+        return this.firstName + " " + this.lastName;
+      } 
+    }
+  );
 }
-
-let Person = solve;
-let a = new Person("Albert", "Simpson");
-let actual = a.fullName;
-let expected = "Albert Simpson";
-console.log(actual);
-console.log(expected);
-
-// WORK in progress
