@@ -1,0 +1,21 @@
+{
+    // Text Editor
+    "editor.fontSize": 18,
+    //"editor.fontWeight": "bold",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 0,
+    "liveServer.settings.donotVerifyTags": true,
+    "html.autoClosingTags": false,
+
+    // Terminals - Gitbash
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.shell.windows": "D:\\10_Dev\\Git\\bin\\bash.exe",
+
+    // Languages
+    "php.validate.executablePath": "D:\\10_Dev\\XAMPP\\php\\php.exe",
+    "json.schemas": [
+    
+    ],
+}
