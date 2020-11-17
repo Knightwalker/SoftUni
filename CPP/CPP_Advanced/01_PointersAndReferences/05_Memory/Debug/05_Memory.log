@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Knightwalker\Desktop\SoftUni\CPP\CPP_Advanced\01_PointersAndReferences\05_Memory\Company.h(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Knightwalker\Desktop\SoftUni\CPP\CPP_Advanced\01_PointersAndReferences\05_Memory\Company.h(29,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Knightwalker\Desktop\SoftUni\CPP\CPP_Advanced\01_PointersAndReferences\05_Memory\Main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+  05_Memory.vcxproj -> C:\Users\Knightwalker\Desktop\SoftUni\CPP\CPP_Advanced\Debug\05_Memory.exe

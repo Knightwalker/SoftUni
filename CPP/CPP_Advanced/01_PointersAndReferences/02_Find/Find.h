@@ -6,9 +6,9 @@
 
 Company* find(std::vector<Company*>& companies, int& searchId) {
 
-	int companiesLen = companies.size();
-	for (int i = 0; i < companiesLen; i++) {
-		if (searchId == companies[i]->getId()) {
+	for (int i = 0; i < companies.size(); i++) {
+		auto currentCompany = *companies[i];
+		if (searchId == currentCompany.getId()) {
 			return companies[i];
 		}
 	}

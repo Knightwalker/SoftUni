@@ -1,0 +1,8 @@
+﻿D:\10_Dev\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+D:\10_Dev\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 199 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  02_Find.vcxproj -> C:\Users\Knightwalker\Desktop\SoftUni\CPP\CPP_Advanced\\bin\x64\Release\02_Find.exe
