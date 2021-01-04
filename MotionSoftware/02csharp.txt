@@ -1,0 +1,45 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        int n = int.Parse(Console.ReadLine());
+        int[] allNumbers = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            allNumbers[i] = i + 1;
+        }
+        int desiredSum = 0;
+        int initIndex = 0;
+
+        int totalSum = ApplyNumber(0, initIndex, desiredSum, "", allNumbers);
+        Console.WriteLine("Total Solutions: " + totalSum);
+    }
+
+    static int ApplyNumber(int currentSum, int index, int desiredSum, string currentChain, int[] allNumbers)
+    {
+        if (index > allNumbers.GetUpperBound(0))
+        {
+            if (currentSum == desiredSum)
+            {
+                Console.WriteLine(currentChain.Substring(1, currentChain.Length - 1));
+                return 1;
+            }
+
+            return 0;
+        }
+
+        int newSum = currentSum + allNumbers[index];
+        string newChain = currentChain + " +" + allNumbers[index];
+        int solutions = ApplyNumber(newSum, index + 1, desiredSum, newChain, allNumbers);
+
+        newSum = currentSum - allNumbers[index];
+        newChain = currentChain + " -" + allNumbers[index];
+        solutions += ApplyNumber(newSum, index + 1, desiredSum, newChain, allNumbers);
+
+        return solutions;
+    }
+
+}

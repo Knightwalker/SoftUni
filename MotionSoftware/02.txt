@@ -1,0 +1,80 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int n = int.Parse(Console.ReadLine());
+        int[] allNumbers = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            allNumbers[i] = i + 1;
+        }
+        int desiredSum = 0;
+
+        int initIndex = 0;
+        OperationTreeNode firstPositiveNode = new OperationTreeNode
+        {
+            parentNode = null,
+            currentNumber = 0,
+            accumulativeSum = 0,
+            nodeAsString = ""
+        };
+
+        int totalSolutions = ApplyNumber(firstPositiveNode, allNumbers, initIndex, desiredSum);
+        Console.WriteLine("Total Solutions: " + totalSolutions);
+    }
+
+    static int ApplyNumber(OperationTreeNode currentNode, int[] allNumbers, int index, int desiredSum)
+    {
+        if (index > allNumbers.GetUpperBound(0))
+        {
+            if (currentNode.accumulativeSum == desiredSum)
+            {
+                Console.WriteLine(currentNode.BranchToString());
+                return 1;
+            }
+            return 0;
+        }
+
+        OperationTreeNode plusNode = new OperationTreeNode
+        {
+            parentNode = currentNode,
+            currentNumber = allNumbers[index],
+            accumulativeSum = currentNode.accumulativeSum + allNumbers[index],
+            nodeAsString = "+" + allNumbers[index]
+        };
+        int totalSolutionsWithPlus = ApplyNumber(plusNode, allNumbers, index + 1, desiredSum);
+
+        OperationTreeNode minusNode = new OperationTreeNode
+        {
+            parentNode = currentNode,
+            currentNumber = allNumbers[index],
+            accumulativeSum = currentNode.accumulativeSum - allNumbers[index],
+            nodeAsString = "-" + allNumbers[index]
+        };
+        int totalSolutionsWithMinus = ApplyNumber(minusNode, allNumbers, index + 1, desiredSum);
+
+        return totalSolutionsWithPlus + totalSolutionsWithMinus;
+    }
+
+}
+
+public class OperationTreeNode
+{
+    public int accumulativeSum = 0;
+    public OperationTreeNode parentNode = null;
+    public int currentNumber = 0;
+    public string nodeAsString;
+
+
+    public string BranchToString()
+    {
+        if (parentNode == null)
+        {
+            return $"{this.nodeAsString}";
+        }
+
+        return $"{parentNode.BranchToString()}{this.nodeAsString} ";
+    }
+}
