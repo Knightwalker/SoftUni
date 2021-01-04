@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkhep3NTWZK5KUc51qwvQfLzkvU9j6wFxKuPbe/wNZXk6KsIR/NHwGBExxw5R2QICY/coqkUExhMHOzJO8xXfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\SIS\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
