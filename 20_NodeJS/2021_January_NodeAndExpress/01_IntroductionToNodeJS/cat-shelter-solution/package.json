@@ -1,0 +1,12 @@
+{
+  "name": "cat-shelter-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "author": "Knightwalker",
+  "license": "MIT"
+}
