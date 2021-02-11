@@ -10,10 +10,10 @@ const isAuthenticated = require("./src/middlewares/isAuthenticated.js");
 const router = require("express").Router();
 
 router.get("/products", productController.getHomePage);
-router.route("/products/create")
-  .get(isAuthenticated, productController.getCreate)
-  .post(isAuthenticated, productController.postCreate);
+router.get("/products/create", isAuthenticated, productController.getCreate);
+router.post("/products/create", isAuthenticated, productController.postCreate);
 router.get("/products/details/:productId", productController.getProductDetailsPage);
+
 router.route("/products/:productId/attach")
   .get(isAuthenticated, productController.getAttachProduct)
   .post(isAuthenticated, productController.postAttachProduct);

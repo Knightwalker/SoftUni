@@ -1,5 +1,5 @@
 const productService = require("../services/productService.js");
-const accessoryModel = require("../../models/accessory.js");
+const accessoryModel = require("../models/accessory.js");
 
 const getHomePage = async (req, res) => {
   var products = await productService.getAll(req.query);
@@ -15,7 +15,7 @@ const getCreate = (req, res) => {
   var data = {
     title: "Create"
   }
-  res.render("create", data);
+  res.render("product/createPage.hbs", data);
 };
 
 const postCreate = async (req, res) => {
@@ -66,7 +66,7 @@ const getProductDetailsPage = async (req, res) => {
     title: "Details",
     product: product
   }
-  res.render("details", data);
+  res.render("product/detailsPage.hbs", data);
 };
 
 const getAttachProduct = async (req, res) => {
@@ -109,7 +109,7 @@ const getEditPage = async (req, res) => {
     }
   }
 
-  res.render("product/editCubePage.hbs", data);
+  res.render("product/editPage.hbs", data);
 }
 
 const postEdit = async (req, res) => {
@@ -183,7 +183,7 @@ const getDeletePage = async (req, res) => {
     difficultyLevel: product.difficultyLevel
   }
 
-  res.render("product/deleteCubePage.hbs", data);
+  res.render("product/deletePage.hbs", data);
 }
 
 const postDelete = async (req, res) => {

@@ -1,5 +1,5 @@
-const Cube = require("../../models/cube.js");
-const accessoryModel = require("../../models/accessory.js");
+const Cube = require("../models/cube.js");
+const accessoryModel = require("../models/accessory.js");
 
 const getAll = async (query) => {
   var products = await Cube.find({}).lean();

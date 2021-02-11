@@ -1,6 +1,6 @@
 "use strict";
 
-const accessoryModel = require("../../models/accessory.js");
+const accessoryModel = require("../models/accessory.js");
 
 const { Router } = require("express");
 const router = Router();
