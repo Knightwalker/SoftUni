@@ -1,0 +1,37 @@
+<%- include("../layouts/header.ejs"); -%>
+
+<main>
+    <h1>Welcome to SoftUni Wiki!</h1>
+    <% if (typeof objRegisterErrors !== "undefined") { %>
+        <section id="notifications">
+        <% if(typeof objRegisterErrors.bUsernameFieldIsEmpty !== "undefined" && objRegisterErrors.bUsernameFieldIsEmpty == true) { %>
+            <p>Username field cannot be empty.</p>
+        <% } %>
+        <% if(typeof objRegisterErrors.bPasswordFieldIsEmpty !== "undefined" && objRegisterErrors.bPasswordFieldIsEmpty == true) { %>
+            <p>Password field cannot be empty.</p>
+        <% } %>
+        <% if (objRegisterErrors.bPasswordsMatch !== "undefined" && objRegisterErrors.bPasswordsMatch == false) { %>
+            <p>Passwords do not match.</p>
+        <% } %>
+        <% if (objRegisterErrors.modelValidationError !== "undefined") { %>
+            <p><%= objRegisterErrors.modelValidationError %> </p>
+        <% } %>
+        </section>
+    <% } %>
+    <section>
+        <h2>Register</h2>
+        <div class="spacer">
+            <form action="/auth/register" method="POST">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password">
+                <label for="repeatPassword">Repeat Password:</label>
+                <input type="password" id="repeatPassword" name="repeatPassword">
+                <input type="submit" value="Register">
+            </form>
+        </div>
+    </section>
+</main>
+
+<%- include("../layouts/footer.ejs"); -%>

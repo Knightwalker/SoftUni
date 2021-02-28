@@ -30,14 +30,14 @@ const getOneByIdWithAccessories = async (id) => {
 }
 
 const create = (user_id, data) => {
-  var creator = user_id;
+  var creatorId = user_id;
 
   let cube = new Cube({
     name: data.name,
     description: data.description,
     imageUrl: data.imageUrl,
     difficultyLevel: data.difficultyLevel,
-    creator: creator
+    creatorId: creatorId
   });
 
   return cube.save();

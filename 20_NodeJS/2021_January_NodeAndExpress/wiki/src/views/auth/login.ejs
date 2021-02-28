@@ -1,0 +1,32 @@
+<%- include("../layouts/header.ejs"); -%>
+
+<main>
+    <h1>Welcome to SoftUni Wiki!</h1>
+    <% if (typeof objRegisterErrors !== "undefined") { %>
+        <section id="notifications">
+        <% if(typeof objRegisterErrors.bUsernameFieldIsEmpty !== "undefined" && objRegisterErrors.bUsernameFieldIsEmpty == true) { %>
+            <p>Username field cannot be empty.</p>
+        <% } %>
+        <% if(typeof objRegisterErrors.bPasswordFieldIsEmpty !== "undefined" && objRegisterErrors.bPasswordFieldIsEmpty == true) { %>
+            <p>Password field cannot be empty.</p>
+        <% } %>
+        <% if (objRegisterErrors.modelValidationError !== "undefined") { %>
+            <p><%= objRegisterErrors.modelValidationError %> </p>
+        <% } %>
+        </section>
+    <% } %>
+    <section>
+        <h2>Login</h2>
+        <div class="spacer">
+            <form action="/auth/login" method="POST">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password">
+                <input type="submit" value="Login">
+            </form>
+        </div>
+    </section>
+</main>
+
+<%- include("../layouts/footer.ejs"); -%>

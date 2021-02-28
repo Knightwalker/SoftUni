@@ -1,0 +1,19 @@
+<%- include("../layouts/header.ejs"); -%>
+
+<main>
+    <h1>Welcome to SoftUni Wiki!</h1>
+    <section>
+        <h2>All articles</h2>
+        <div class="spacer">
+            <ul>
+                <% for( let article of articles) { %>
+                    <li>
+                        <a href="/articles/details/<%= article._id %> "><%= article.title %> </a>
+                    </li>
+                <% } %>
+            </ul>
+        </div>
+    </section>
+</main>
+
+<%- include("../layouts/footer.ejs"); -%>

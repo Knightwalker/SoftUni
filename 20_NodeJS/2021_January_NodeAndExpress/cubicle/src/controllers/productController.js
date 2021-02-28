@@ -168,9 +168,9 @@ const getDeletePage = async (req, res) => {
 
   // Product can only be deleted by its creator
   // Check if user can delete a product.
-  if (userId !== product.creator) {
-    //res.status(401);
-    res.redirect("/");
+  if (userId !== product.creatorId.toString()) {
+    res.status(401);
+    res.render("401.hbs");
     return;
   }
 
@@ -202,9 +202,9 @@ const postDelete = async (req, res) => {
 
   // Product can only be deleted by its creator
   // Check if user can delete a product.
-  if (userId !== product.creator) {
-    //res.status(401);
-    res.redirect("/");
+  if (userId !== product.creatorId.toString()) {
+    res.status(401);
+    res.render("401.hbs");
     return;
   }
 

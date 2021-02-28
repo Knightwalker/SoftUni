@@ -1,6 +1,7 @@
+const path = require("path");
 const express = require("express");
 const cookieParser = require("cookie-parser");
-const handlebars = require("express-handlebars");
+const ejs = require("ejs");
 
 const config = require("./config.js");
 const mongoose = require("./src/database/mongoose.js");
@@ -9,16 +10,15 @@ const app = express();
 
 const sessionWithJWT = require("./src/middlewares/sessionWithJWT.js");
 
-app.engine("hbs", handlebars({ extname: "hbs" }));
-app.set("view engine", "hbs");
+app.set("view engine", "ejs");
 app.set("views", "./src/views");
 
 // global middlewares
-app.use(express.static("public"));
-app.use(cookieParser());
-app.use(sessionWithJWT(), (req, res, next) => { console.log(req.session); next() });
-app.use(express.urlencoded({extended: true}));
-app.use(routes);
+app.use("/", express.static(path.join(__dirname, "public")));
+app.use("/", cookieParser());
+app.use("/", sessionWithJWT(), (req, res, next) => { console.log(req.session); next() });
+app.use("/", express.urlencoded({extended: true}));
+app.use("/", routes);
 
 (async () => {
   try {
