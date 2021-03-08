@@ -1,0 +1,12 @@
+<%- include("../layout/header.ejs"); -%>
+
+<% if (bUserIsAuthenticated) { %>
+    <%- include("../expenses/expenses.ejs"); -%>
+  <% } else { %>
+    <main>
+        <p class="guest-message">MoneyGone? The best expense tracker tool of all time!<br>Аre you new here? <a
+                href="/auth/register">Register</a> yourself!</p>
+    </main>
+<% } %>
+
+<%- include("../layout/footer.ejs"); -%>

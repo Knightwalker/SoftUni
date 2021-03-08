@@ -1,0 +1,15 @@
+<%- include("../layout/header.ejs"); -%>
+
+    <main>
+        <% if (typeof objErrors !== "undefined") { %>
+            <section class="notifications">
+            <% for (let key in objErrors) { %>
+              <p class="notification-message"><%= objErrors[key].message %> </p>
+            <% } %>
+            </section>
+          <% } %>
+        <img src="./static/images/sadFace.png" alt="sad-face" class="sad-face">
+		<h1 class="not-found">404 - Page Not Found</h1>
+    </main>
+
+<%- include("../layout/footer.ejs"); -%>

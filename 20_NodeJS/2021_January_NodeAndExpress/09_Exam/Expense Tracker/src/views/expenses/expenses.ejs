@@ -1,0 +1,60 @@
+<main>
+
+    <section class="actions">
+        <form action="#">
+            <h2>Salary time? Refill your account amount.</h2>
+            <input type="text" id="refill-amount">
+            <button type="submit">Refill</button>
+        </form>
+        <div>
+            <h2>New expense comming up?</h2>
+            <a href="/expenses">Add it now</a>
+        </div>
+    </section>
+
+    <hr class="separator">
+
+    <% if (typeof userObj !== "undefined" && userObj.expenses.length > 0) { %>
+    <table class="expenses">
+        <thead>
+            <tr>
+                <th>Merchant</th>
+                <th>Amount</th>
+                <th>Category</th>
+                <th>Description</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <% for( let expense of userObj.expenses ) { %>
+                <tr>
+                    <td>
+                        <p><%- expense.merchant %></p>
+                        <% if (expense.report === true) { %>
+                            <div class="report">
+                                <a href="/expenses/details/<%- expense._id %>">Report</a>
+                            </div>
+                        <% } %>
+                    </td>
+                    <td>
+                        <img src="/images/amount.png" alt="amount">
+                        <p>лв <span><%- expense.total %></span></p>
+                    </td>
+                    <td>
+                        <img src="/images/category.png" alt="category">
+                        <p><%- expense.category %></p>
+                    </td>
+                    <td>
+                        <img src="/images/hastag.png" alt="description">
+                        <p><%- expense.description %></p>
+                    </td>
+                </tr>
+            <% } %>
+
+        </tbody>
+    </table>
+    <% } else { %>
+        <h1 class="no-expenses">No expenses founded so far.. <span>GOOD JOB!</span></h1>
+    <% } %>
+    
+</main>

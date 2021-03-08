@@ -1,0 +1,26 @@
+<%- include("../layout/header.ejs"); -%>
+
+<main>
+    <% if (typeof objErrors !== "undefined") { %>
+        <div class="notifications">
+        <% for (let key in objErrors) { %>
+          <p class="notification-message"><%= objErrors[key].message %> </p>
+        <% } %>
+        </div>
+      <% } %>
+
+    <form action="/auth/login" method="POST">
+        <h1>Login</h1>
+
+        <p>Personal info</p>
+        <label for="usernmae">Username</label>
+        <input id="username" type="text" name="username" placeholder="JustMyself123...">
+
+        <label for="usernmae">Password</label>
+        <input id="password" type="password" name="password" placeholder="********">
+
+        <button type="submit">Login</button>
+    </form>
+</main>
+
+<%- include("../layout/footer.ejs"); -%>
