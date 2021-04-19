@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/CUWp4hkeuFrHhpLaj2Twwk9XqJ4e7rhXHsanX0CGwLEkPGh9uTyiPpmT9Flc3REu06JxaoaGGeZcoTITnTtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\08_8QueensPuzzle\\08_8QueensPuzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

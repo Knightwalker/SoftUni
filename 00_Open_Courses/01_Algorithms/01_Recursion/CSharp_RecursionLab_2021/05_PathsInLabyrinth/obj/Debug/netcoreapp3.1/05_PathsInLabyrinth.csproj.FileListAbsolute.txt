@@ -1,0 +1,13 @@
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\bin\Debug\netcoreapp3.1\05_PathsInLabyrinth.exe
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\bin\Debug\netcoreapp3.1\05_PathsInLabyrinth.deps.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\bin\Debug\netcoreapp3.1\05_PathsInLabyrinth.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\bin\Debug\netcoreapp3.1\05_PathsInLabyrinth.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\bin\Debug\netcoreapp3.1\05_PathsInLabyrinth.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\bin\Debug\netcoreapp3.1\05_PathsInLabyrinth.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\05_PathsInLabyrinth\obj\Debug\netcoreapp3.1\05_PathsInLabyrinth.genruntimeconfig.cache

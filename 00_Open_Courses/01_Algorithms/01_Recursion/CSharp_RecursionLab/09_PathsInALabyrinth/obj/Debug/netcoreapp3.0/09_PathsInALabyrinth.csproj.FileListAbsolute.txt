@@ -23,3 +23,5 @@ C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion
 C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.dll
 C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.pdb
 >>>>>>> 994a4e40386e3aeb599a2bbaa5dac31638f21b59
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\09_PathsInALabyrinth\obj\Debug\netcoreapp3.0\09_PathsInALabyrinth.genruntimeconfig.cache

@@ -19,17 +19,17 @@ namespace Trivial
 		}
 
 		if (startX == endX && startY == endY) {
-			return true;
 
 
 			for (size_t i = 0; i < SIZE; i++)
 			{
 				for (size_t j = 0; j < SIZE; j++)
 				{
-					std::cout << map[i][j] << std::endl;
+					std::cout << map[i][j];
 				}
 				std::cout << std::endl;
 			}
+			return true;
 
 		}
 

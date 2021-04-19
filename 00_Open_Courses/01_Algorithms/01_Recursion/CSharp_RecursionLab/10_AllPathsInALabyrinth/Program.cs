@@ -23,7 +23,7 @@ namespace _10_AllPathsInALabyrinth
             }
 
             // Console.WriteLine();
-            FindAllPaths(labyrinth, steps, 0, 0, 'S');
+            FindAllPaths(labyrinth, steps, 0, 0, '\0');
 
         }
 

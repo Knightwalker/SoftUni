@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VYMCjkpaEvvX8evxNPy2s+t5g/zeuWcZUV9whWLPxGOi7fTuKU+U6LWB4rcjkk+gXlF79J6AyibNkGPm3WtsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab\\10_AllPathsInALabyrinth\\10_AllPathsInALabyrinth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Knightwalker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

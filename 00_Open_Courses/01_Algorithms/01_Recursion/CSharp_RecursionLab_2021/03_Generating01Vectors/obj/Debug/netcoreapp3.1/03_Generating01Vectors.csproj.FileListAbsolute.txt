@@ -1,0 +1,13 @@
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\bin\Debug\netcoreapp3.1\03_Generating01Vectors.exe
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\bin\Debug\netcoreapp3.1\03_Generating01Vectors.deps.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\bin\Debug\netcoreapp3.1\03_Generating01Vectors.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\bin\Debug\netcoreapp3.1\03_Generating01Vectors.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\bin\Debug\netcoreapp3.1\03_Generating01Vectors.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\bin\Debug\netcoreapp3.1\03_Generating01Vectors.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\03_Generating01Vectors\obj\Debug\netcoreapp3.1\03_Generating01Vectors.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\bin\Debug\netcoreapp3.1\02_RecursiveDrawing.exe
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\bin\Debug\netcoreapp3.1\02_RecursiveDrawing.deps.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\bin\Debug\netcoreapp3.1\02_RecursiveDrawing.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\bin\Debug\netcoreapp3.1\02_RecursiveDrawing.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\bin\Debug\netcoreapp3.1\02_RecursiveDrawing.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\bin\Debug\netcoreapp3.1\02_RecursiveDrawing.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\02_RecursiveDrawing\obj\Debug\netcoreapp3.1\02_RecursiveDrawing.genruntimeconfig.cache

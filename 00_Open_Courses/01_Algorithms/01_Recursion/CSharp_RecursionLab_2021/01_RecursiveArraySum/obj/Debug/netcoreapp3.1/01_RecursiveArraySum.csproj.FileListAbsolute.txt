@@ -1,0 +1,13 @@
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\bin\Debug\netcoreapp3.1\01_RecursiveArraySum.exe
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\bin\Debug\netcoreapp3.1\01_RecursiveArraySum.deps.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\bin\Debug\netcoreapp3.1\01_RecursiveArraySum.runtimeconfig.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\bin\Debug\netcoreapp3.1\01_RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\bin\Debug\netcoreapp3.1\01_RecursiveArraySum.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\bin\Debug\netcoreapp3.1\01_RecursiveArraySum.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.csprojAssemblyReference.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.AssemblyInfo.cs
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.dll
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.pdb
+C:\Users\Knightwalker\source\repos\CSharp_Recursion\01_RecursiveArraySum\obj\Debug\netcoreapp3.1\01_RecursiveArraySum.genruntimeconfig.cache

@@ -9,3 +9,16 @@ C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.AssemblyInfo.cs
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.dll
 C:\Users\ksandakchiev\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.exe
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.dll
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\bin\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.csprojAssemblyReference.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.dll
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab\10_AllPathsInALabyrinth\obj\Debug\netcoreapp3.0\10_AllPathsInALabyrinth.genruntimeconfig.cache
