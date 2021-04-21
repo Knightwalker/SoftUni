@@ -1,0 +1,13 @@
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\bin\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.exe
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\bin\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\bin\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\bin\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\bin\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.dll
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\bin\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.dll
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.genruntimeconfig.cache
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\02_Combinatorics\CSharp_Combinatorics\02_GeneratingNVectorsOfK\obj\Debug\netcoreapp3.1\02_GeneratingNVectorsOfK.csprojAssemblyReference.cache

@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_RecursiveArraySum", "01_RecursiveArraySum\01_RecursiveArraySum.csproj", "{452344B9-AEE2-44C4-921E-E52439E092EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_PrintNFigureWithBacktracking", "04_DrawingWithBacktracking\04_PrintNFigureWithBacktracking.csproj", "{1480DEBE-21FC-47B8-B2EF-E15B0988D8C8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Factorial_Performance", "04_Factorial_Performance\04_Factorial_Performance.csproj", "{7DA2CE15-7EFD-4EBC-A71E-D75DFAED1DC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RecursiveFactorial", "02_RecursiveFactorial\02_RecursiveFactorial.csproj", "{B222AEC6-ABCC-4B37-8C32-239757547120}"
@@ -27,10 +25,6 @@ Global
 		{452344B9-AEE2-44C4-921E-E52439E092EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{452344B9-AEE2-44C4-921E-E52439E092EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{452344B9-AEE2-44C4-921E-E52439E092EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1480DEBE-21FC-47B8-B2EF-E15B0988D8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1480DEBE-21FC-47B8-B2EF-E15B0988D8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1480DEBE-21FC-47B8-B2EF-E15B0988D8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1480DEBE-21FC-47B8-B2EF-E15B0988D8C8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7DA2CE15-7EFD-4EBC-A71E-D75DFAED1DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7DA2CE15-7EFD-4EBC-A71E-D75DFAED1DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DA2CE15-7EFD-4EBC-A71E-D75DFAED1DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
