@@ -1,0 +1,12 @@
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\bin\Debug\netcoreapp3.1\04_Factorial_Performance.exe
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\bin\Debug\netcoreapp3.1\04_Factorial_Performance.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\bin\Debug\netcoreapp3.1\04_Factorial_Performance.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\bin\Debug\netcoreapp3.1\04_Factorial_Performance.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\bin\Debug\netcoreapp3.1\04_Factorial_Performance.dll
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\bin\Debug\netcoreapp3.1\04_Factorial_Performance.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\obj\Debug\netcoreapp3.1\04_Factorial_Performance.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\obj\Debug\netcoreapp3.1\04_Factorial_Performance.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\obj\Debug\netcoreapp3.1\04_Factorial_Performance.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\obj\Debug\netcoreapp3.1\04_Factorial_Performance.dll
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\obj\Debug\netcoreapp3.1\04_Factorial_Performance.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\04_Factorial_Performance\obj\Debug\netcoreapp3.1\04_Factorial_Performance.genruntimeconfig.cache

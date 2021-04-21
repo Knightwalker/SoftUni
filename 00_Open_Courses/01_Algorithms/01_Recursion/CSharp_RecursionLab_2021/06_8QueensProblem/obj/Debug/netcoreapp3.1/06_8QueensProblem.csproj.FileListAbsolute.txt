@@ -1,0 +1,13 @@
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\bin\Debug\netcoreapp3.1\06_8QueensProblem.exe
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\bin\Debug\netcoreapp3.1\06_8QueensProblem.deps.json
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\bin\Debug\netcoreapp3.1\06_8QueensProblem.runtimeconfig.json
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\bin\Debug\netcoreapp3.1\06_8QueensProblem.runtimeconfig.dev.json
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\bin\Debug\netcoreapp3.1\06_8QueensProblem.dll
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\bin\Debug\netcoreapp3.1\06_8QueensProblem.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.AssemblyInfoInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.AssemblyInfo.cs
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.dll
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.pdb
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.genruntimeconfig.cache
+C:\Users\Knightwalker\Desktop\SoftUni\00_Open_Courses\01_Algorithms\01_Recursion\CSharp_RecursionLab_2021\06_8QueensProblem\obj\Debug\netcoreapp3.1\06_8QueensProblem.csprojAssemblyReference.cache
