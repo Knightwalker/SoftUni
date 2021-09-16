@@ -10,3 +10,4 @@ C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursio
 C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\07_Fibonacci_Performance\obj\Debug\netcoreapp3.1\07_Fibonacci_Performance.dll
 C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\07_Fibonacci_Performance\obj\Debug\netcoreapp3.1\07_Fibonacci_Performance.pdb
 C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\07_Fibonacci_Performance\obj\Debug\netcoreapp3.1\07_Fibonacci_Performance.genruntimeconfig.cache
+C:\Users\Knightwalker\Desktop\SoftUni\22_Algorithms\01_Recursion\CSharp_Recursion\07_Fibonacci_Performance\obj\Debug\netcoreapp3.1\07_Fibonacci_Performance.csprojAssemblyReference.cache

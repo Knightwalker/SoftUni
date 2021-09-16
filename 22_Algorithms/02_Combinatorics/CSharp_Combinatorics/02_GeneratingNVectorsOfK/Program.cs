@@ -6,9 +6,9 @@ namespace _01_GeneratingNVectorsOfK
     {
         static void Main()
         {
-            int n = 3;
-            int startK = 0;
-            int endK = 3;
+            int n = 2;
+            int startK = 1;
+            int endK = 4;
             int[] vector = new int[n];
             Gen01(vector, startK, endK, 0);
         }
@@ -21,9 +21,9 @@ namespace _01_GeneratingNVectorsOfK
                 return;
             }
 
-            for (int i = startK; i <= endK; i++)
+            for (int k = startK; k <= endK; k++)
             {
-                vector[index] = i;
+                vector[index] = k;
                 Gen01(vector, startK, endK, index + 1);
             }
 

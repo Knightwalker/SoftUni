@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sIu3RyBPjAYYh643EHHb6h2ysE/Auk1/qzhWAcewwRlGUVQbl7mP1JoBgM1+QXd2sxhXWoCknwZ3PQDBAXhN+Q==",
+  "dgSpecHash": "NpFSZgZ5jrUmMLZow7FWjso5jKfWJm3vU76F4D+LV+9QNSttsTUjlW7UIpJsLDk/v7upW7Je35LdyQiH2z1Vdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj",
+  "projectFilePath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

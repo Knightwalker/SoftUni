@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\03_Generating01Vectors\\03_Generating01Vectors.csproj",
+      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\03_Generating01Vectors\\03_Generating01Vectors.csproj",
       "projectName": "03_Generating01Vectors",
-      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\03_Generating01Vectors\\03_Generating01Vectors.csproj",
+      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\03_Generating01Vectors\\03_Generating01Vectors.csproj",
       "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\03_Generating01Vectors\\obj\\",
+      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\03_Generating01Vectors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

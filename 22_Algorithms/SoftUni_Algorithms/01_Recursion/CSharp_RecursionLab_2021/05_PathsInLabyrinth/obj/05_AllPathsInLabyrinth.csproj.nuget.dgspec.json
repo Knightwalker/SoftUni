@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj": {}
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj": {
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj",
+        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj",
         "projectName": "05_AllPathsInLabyrinth",
-        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj",
+        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\05_AllPathsInLabyrinth.csproj",
         "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\obj\\",
+        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\05_PathsInLabyrinth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

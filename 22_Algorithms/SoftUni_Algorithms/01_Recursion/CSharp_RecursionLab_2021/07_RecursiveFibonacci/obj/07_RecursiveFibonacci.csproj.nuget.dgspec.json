@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj": {}
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj": {
+    "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj",
         "projectName": "07_RecursiveFibonacci",
-        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj",
+        "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\07_RecursiveFibonacci.csproj",
         "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\obj\\",
+        "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\07_RecursiveFibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

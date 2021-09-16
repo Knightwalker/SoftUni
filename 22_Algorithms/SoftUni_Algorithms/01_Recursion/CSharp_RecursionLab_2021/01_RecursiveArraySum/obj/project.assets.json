@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\01_RecursiveArraySum\\01_RecursiveArraySum.csproj",
+      "projectUniqueName": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\01_RecursiveArraySum\\01_RecursiveArraySum.csproj",
       "projectName": "01_RecursiveArraySum",
-      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\01_RecursiveArraySum\\01_RecursiveArraySum.csproj",
+      "projectPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\01_RecursiveArraySum\\01_RecursiveArraySum.csproj",
       "packagesPath": "C:\\Users\\Knightwalker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\00_Open_Courses\\01_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\01_RecursiveArraySum\\obj\\",
+      "outputPath": "C:\\Users\\Knightwalker\\Desktop\\SoftUni\\22_Algorithms\\SoftUni_Algorithms\\01_Recursion\\CSharp_RecursionLab_2021\\01_RecursiveArraySum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
