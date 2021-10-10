@@ -1,0 +1,13 @@
+D:\10_Dev\HttpServer\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.exe
+D:\10_Dev\HttpServer\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.deps.json
+D:\10_Dev\HttpServer\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.json
+D:\10_Dev\HttpServer\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.dev.json
+D:\10_Dev\HttpServer\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.dll
+D:\10_Dev\HttpServer\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.pdb
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csprojAssemblyReference.cache
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csproj.CoreCompileInputs.cache
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfoInputs.cache
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfo.cs
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.dll
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.pdb
+D:\10_Dev\HttpServer\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.genruntimeconfig.cache

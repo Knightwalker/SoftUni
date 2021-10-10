@@ -1,0 +1,43 @@
+### Secure Shell (SSH) ###
+- Cryptographic network protocol for operating network services securely over an unsecured network.
+
+I. What do we use SSH for?
+- remote login to computer systems by users
+
+II. What programs to use?
+1. On Windows
+- Git Bash 
+- Windows 10 cmd
+- PuTTY
+2. On Linux
+- Bash
+
+III. SSH Fundamentals
+1. Remote login
+ssh user@host
+-requires password
+
+user = cpanel user
+host = cpanel IP address
+password = cpanel password
+port (by default it is 22)
+
+2. Secure Copy Protocol (SCP)
+Syntax: scp user@host:SourcePath DestinationPath
+Syntax: scp SourcePath user@host:DestinationPath
+
+scp -r rmbb5z0ve003@160.153.129.25:/home/rmbb5z0ve003/public_html ~Desktop/test
+scp -r ~Desktop/test rmbb5z0ve003@160.153.129.25:/home/rmbb5z0ve003/public_html
+
+IV. Commands Reference
+command: ls - lists directory contents of files and directories.
+example: ls
+
+command: pwd - writes the full pathname of the current working directory to the standard output
+example: pwd
+
+command: mkdir - creates a directory
+example: mkdir test
+
+command: touch - creates a file 
+example: touch test.txt
